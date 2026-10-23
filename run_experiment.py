@@ -516,8 +516,9 @@ def figure1(folds_df, out, tag):
             ax.errorbar(x, y, yerr=s.auc.std(), fmt="none", ecolor=col, elinewidth=0.8, capsize=2, zorder=2)
             ax.scatter(x, y, s=70 if short == "GBM+K+M" else 42, marker=marks[short], color=col,
                        edgecolor="white", linewidth=0.8, zorder=3)
-            ax.annotate(short, (x, y), xytext=(6, -11 if short == "GBM+M" else 5),
-                        textcoords="offset points", fontsize=7, color=INK)
+            off = {"GBM+M": (7, -11), "GBM": (-9, -13), "GBM+K": (7, 6)}.get(short, (7, 5))
+            ax.annotate(short, (x, y), xytext=off, textcoords="offset points", fontsize=7, color=INK,
+                        ha="right" if short == "GBM" else "left")
         ax.set_title(ds, fontsize=9, color=INK, loc="left")
         ax.set_xlabel("Domain-rule violation rate (%)  ← better")
         ax.set_ylabel("ROC-AUC (mean ± SD over folds)")
