@@ -1,0 +1,109 @@
+dataset,model,rule,violations,tests,violation_rate_pct
+German Credit,GBM (data-only),checking_lvl,299,1629,18.354818907305095
+German Credit,GBM (data-only),credit_amount,1011,3000,33.7
+German Credit,GBM (data-only),duration,479,3000,15.966666666666667
+German Credit,GBM (data-only),installment_commitment,443,1572,28.18066157760814
+German Credit,GBM (data-only),savings_lvl,586,2307,25.40095361941916
+German Credit,GBM + both (knowledge-augmented),checking_lvl,0,1629,0.0
+German Credit,GBM + both (knowledge-augmented),credit_amount,0,3000,0.0
+German Credit,GBM + both (knowledge-augmented),duration,0,3000,0.0
+German Credit,GBM + both (knowledge-augmented),installment_commitment,0,1572,0.0
+German Credit,GBM + both (knowledge-augmented),savings_lvl,0,2307,0.0
+German Credit,GBM + knowledge features,checking_lvl,301,1629,18.47759361571516
+German Credit,GBM + knowledge features,credit_amount,1170,3000,39.0
+German Credit,GBM + knowledge features,duration,529,3000,17.633333333333333
+German Credit,GBM + knowledge features,installment_commitment,555,1572,35.30534351145038
+German Credit,GBM + knowledge features,savings_lvl,662,2307,28.69527524924144
+German Credit,GBM + monotone constraints,checking_lvl,0,1629,0.0
+German Credit,GBM + monotone constraints,credit_amount,0,3000,0.0
+German Credit,GBM + monotone constraints,duration,0,3000,0.0
+German Credit,GBM + monotone constraints,installment_commitment,0,1572,0.0
+German Credit,GBM + monotone constraints,savings_lvl,0,2307,0.0
+German Credit,Logistic regression,checking_lvl,0,1629,0.0
+German Credit,Logistic regression,credit_amount,0,3000,0.0
+German Credit,Logistic regression,duration,0,3000,0.0
+German Credit,Logistic regression,installment_commitment,0,1572,0.0
+German Credit,Logistic regression,savings_lvl,0,2307,0.0
+German Credit,Random forest,checking_lvl,216,1629,13.259668508287293
+German Credit,Random forest,credit_amount,676,3000,22.533333333333335
+German Credit,Random forest,duration,197,3000,6.566666666666666
+German Credit,Random forest,installment_commitment,435,1572,27.671755725190838
+German Credit,Random forest,savings_lvl,640,2307,27.741655830082358
+Taiwan Default,GBM (data-only),limit_bal,4162,30000,13.873333333333333
+Taiwan Default,GBM (data-only),pay_amt_1,6149,30000,20.496666666666666
+Taiwan Default,GBM (data-only),pay_amt_2,2347,30000,7.823333333333333
+Taiwan Default,GBM (data-only),pay_amt_3,7519,30000,25.063333333333333
+Taiwan Default,GBM (data-only),pay_amt_4,15337,30000,51.123333333333335
+Taiwan Default,GBM (data-only),pay_amt_5,4505,30000,15.016666666666667
+Taiwan Default,GBM (data-only),pay_amt_6,8465,30000,28.216666666666665
+Taiwan Default,GBM (data-only),pay_delay_1,1510,30000,5.033333333333333
+Taiwan Default,GBM (data-only),pay_delay_2,2582,30000,8.606666666666667
+Taiwan Default,GBM (data-only),pay_delay_3,1616,30000,5.386666666666667
+Taiwan Default,GBM (data-only),pay_delay_4,1119,30000,3.73
+Taiwan Default,GBM (data-only),pay_delay_5,505,30000,1.6833333333333333
+Taiwan Default,GBM (data-only),pay_delay_6,943,30000,3.1433333333333335
+Taiwan Default,GBM + both (knowledge-augmented),limit_bal,2,30000,0.006666666666666667
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_1,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_2,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_3,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_4,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_5,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_amt_6,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_1,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_2,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_3,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_4,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_5,0,30000,0.0
+Taiwan Default,GBM + both (knowledge-augmented),pay_delay_6,0,30000,0.0
+Taiwan Default,GBM + knowledge features,limit_bal,5432,30000,18.106666666666666
+Taiwan Default,GBM + knowledge features,pay_amt_1,7727,30000,25.756666666666668
+Taiwan Default,GBM + knowledge features,pay_amt_2,4314,30000,14.38
+Taiwan Default,GBM + knowledge features,pay_amt_3,8468,30000,28.226666666666667
+Taiwan Default,GBM + knowledge features,pay_amt_4,14401,30000,48.00333333333333
+Taiwan Default,GBM + knowledge features,pay_amt_5,6918,30000,23.06
+Taiwan Default,GBM + knowledge features,pay_amt_6,9710,30000,32.36666666666667
+Taiwan Default,GBM + knowledge features,pay_delay_1,1311,30000,4.37
+Taiwan Default,GBM + knowledge features,pay_delay_2,1601,30000,5.336666666666667
+Taiwan Default,GBM + knowledge features,pay_delay_3,1604,30000,5.346666666666667
+Taiwan Default,GBM + knowledge features,pay_delay_4,1637,30000,5.456666666666667
+Taiwan Default,GBM + knowledge features,pay_delay_5,1311,30000,4.37
+Taiwan Default,GBM + knowledge features,pay_delay_6,1375,30000,4.583333333333333
+Taiwan Default,GBM + monotone constraints,limit_bal,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_1,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_2,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_3,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_4,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_5,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_amt_6,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_1,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_2,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_3,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_4,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_5,0,30000,0.0
+Taiwan Default,GBM + monotone constraints,pay_delay_6,0,30000,0.0
+Taiwan Default,Logistic regression,limit_bal,0,30000,0.0
+Taiwan Default,Logistic regression,pay_amt_1,0,30000,0.0
+Taiwan Default,Logistic regression,pay_amt_2,0,30000,0.0
+Taiwan Default,Logistic regression,pay_amt_3,4000,30000,13.333333333333334
+Taiwan Default,Logistic regression,pay_amt_4,0,30000,0.0
+Taiwan Default,Logistic regression,pay_amt_5,0,30000,0.0
+Taiwan Default,Logistic regression,pay_amt_6,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_1,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_2,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_3,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_4,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_5,0,30000,0.0
+Taiwan Default,Logistic regression,pay_delay_6,0,30000,0.0
+Taiwan Default,Random forest,limit_bal,9123,30000,30.41
+Taiwan Default,Random forest,pay_amt_1,13947,30000,46.49
+Taiwan Default,Random forest,pay_amt_2,10207,30000,34.02333333333333
+Taiwan Default,Random forest,pay_amt_3,15786,30000,52.62
+Taiwan Default,Random forest,pay_amt_4,17276,30000,57.586666666666666
+Taiwan Default,Random forest,pay_amt_5,16396,30000,54.653333333333336
+Taiwan Default,Random forest,pay_amt_6,15946,30000,53.153333333333336
+Taiwan Default,Random forest,pay_delay_1,4754,30000,15.846666666666666
+Taiwan Default,Random forest,pay_delay_2,5478,30000,18.26
+Taiwan Default,Random forest,pay_delay_3,5283,30000,17.61
+Taiwan Default,Random forest,pay_delay_4,4300,30000,14.333333333333334
+Taiwan Default,Random forest,pay_delay_5,1382,30000,4.6066666666666665
+Taiwan Default,Random forest,pay_delay_6,999,30000,3.33

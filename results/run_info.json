@@ -1,0 +1,183 @@
+{
+  "smoke_test": false,
+  "settings": {
+    "folds": 5,
+    "repeats": 3,
+    "seed": 42,
+    "n_evaluations_per_model": 15
+  },
+  "data": [
+    {
+      "dataset": "German Credit",
+      "n": 1000,
+      "n_features": 20,
+      "default_rate": 0.3,
+      "missing_cells": 577
+    },
+    {
+      "dataset": "Taiwan Default",
+      "n": 30000,
+      "n_features": 21,
+      "default_rate": 0.2212,
+      "missing_cells": 0
+    }
+  ],
+  "table1": [
+    {
+      "Model": "Logistic regression",
+      "German Credit: AUC": "0.777 \u00b1 0.033",
+      "German Credit: Approved default rate (%)": "18.52 \u00b1 2.13",
+      "German Credit: Rule violations (%)": "0.00 \u00b1 0.00",
+      "Taiwan Default: AUC": "0.759 \u00b1 0.005",
+      "Taiwan Default: Approved default rate (%)": "12.26 \u00b1 0.29",
+      "Taiwan Default: Rule violations (%)": "1.03 \u00b1 2.71"
+    },
+    {
+      "Model": "Random forest",
+      "German Credit: AUC": "0.788 \u00b1 0.029",
+      "German Credit: Approved default rate (%)": "17.10 \u00b1 1.19",
+      "German Credit: Rule violations (%)": "18.81 \u00b1 3.06",
+      "Taiwan Default: AUC": "0.774 \u00b1 0.006",
+      "Taiwan Default: Approved default rate (%)": "11.89 \u00b1 0.37",
+      "Taiwan Default: Rule violations (%)": "30.99 \u00b1 0.93"
+    },
+    {
+      "Model": "GBM (data-only)",
+      "German Credit: AUC": "0.775 \u00b1 0.038",
+      "German Credit: Approved default rate (%)": "18.33 \u00b1 2.87",
+      "German Credit: Rule violations (%)": "24.48 \u00b1 2.64",
+      "Taiwan Default: AUC": "0.781 \u00b1 0.006",
+      "Taiwan Default: Approved default rate (%)": "11.62 \u00b1 0.34",
+      "Taiwan Default: Rule violations (%)": "14.55 \u00b1 1.13"
+    },
+    {
+      "Model": "GBM + knowledge features",
+      "German Credit: AUC": "0.770 \u00b1 0.042",
+      "German Credit: Approved default rate (%)": "18.19 \u00b1 3.02",
+      "German Credit: Rule violations (%)": "27.95 \u00b1 2.95",
+      "Taiwan Default: AUC": "0.783 \u00b1 0.005",
+      "Taiwan Default: Approved default rate (%)": "11.61 \u00b1 0.35",
+      "Taiwan Default: Rule violations (%)": "16.87 \u00b1 1.20"
+    },
+    {
+      "Model": "GBM + monotone constraints",
+      "German Credit: AUC": "0.763 \u00b1 0.044",
+      "German Credit: Approved default rate (%)": "19.05 \u00b1 2.61",
+      "German Credit: Rule violations (%)": "0.00 \u00b1 0.00",
+      "Taiwan Default: AUC": "0.781 \u00b1 0.005",
+      "Taiwan Default: Approved default rate (%)": "11.64 \u00b1 0.36",
+      "Taiwan Default: Rule violations (%)": "0.00 \u00b1 0.00"
+    },
+    {
+      "Model": "GBM + both (knowledge-augmented)",
+      "German Credit: AUC": "0.763 \u00b1 0.041",
+      "German Credit: Approved default rate (%)": "18.95 \u00b1 2.29",
+      "German Credit: Rule violations (%)": "0.00 \u00b1 0.00",
+      "Taiwan Default: AUC": "0.782 \u00b1 0.006",
+      "Taiwan Default: Approved default rate (%)": "11.62 \u00b1 0.33",
+      "Taiwan Default: Rule violations (%)": "0.00 \u00b1 0.00"
+    }
+  ],
+  "table2": [
+    {
+      "Dataset": "German Credit",
+      "Variant": "GBM (data-only)",
+      "\u0394AUC vs data-only GBM [95% CI]": "\u2014",
+      "p (Holm)": "\u2014",
+      "Rule violations (%)": "24.48",
+      "Rank stability (Spearman \u03c1)": "0.608",
+      "Top-5 overlap (Jaccard)": "0.615",
+      "Top-3 importance share": "0.640"
+    },
+    {
+      "Dataset": "German Credit",
+      "Variant": "GBM + knowledge features",
+      "\u0394AUC vs data-only GBM [95% CI]": "-0.0049 [-0.0185, +0.0086]",
+      "p (Holm)": "0.580",
+      "Rule violations (%)": "27.95",
+      "Rank stability (Spearman \u03c1)": "0.606",
+      "Top-5 overlap (Jaccard)": "0.633",
+      "Top-3 importance share": "0.634"
+    },
+    {
+      "Dataset": "German Credit",
+      "Variant": "GBM + monotone constraints",
+      "\u0394AUC vs data-only GBM [95% CI]": "-0.0120 [-0.0355, +0.0114]",
+      "p (Holm)": "0.580",
+      "Rule violations (%)": "0.00",
+      "Rank stability (Spearman \u03c1)": "0.572",
+      "Top-5 overlap (Jaccard)": "0.457",
+      "Top-3 importance share": "0.625"
+    },
+    {
+      "Dataset": "German Credit",
+      "Variant": "GBM + both (knowledge-augmented)",
+      "\u0394AUC vs data-only GBM [95% CI]": "-0.0121 [-0.0294, +0.0052]",
+      "p (Holm)": "0.468",
+      "Rule violations (%)": "0.00",
+      "Rank stability (Spearman \u03c1)": "0.526",
+      "Top-5 overlap (Jaccard)": "0.498",
+      "Top-3 importance share": "0.620"
+    },
+    {
+      "Dataset": "Taiwan Default",
+      "Variant": "GBM (data-only)",
+      "\u0394AUC vs data-only GBM [95% CI]": "\u2014",
+      "p (Holm)": "\u2014",
+      "Rule violations (%)": "14.55",
+      "Rank stability (Spearman \u03c1)": "0.580",
+      "Top-5 overlap (Jaccard)": "0.579",
+      "Top-3 importance share": "0.671"
+    },
+    {
+      "Dataset": "Taiwan Default",
+      "Variant": "GBM + knowledge features",
+      "\u0394AUC vs data-only GBM [95% CI]": "+0.0020 [-0.0009, +0.0049]",
+      "p (Holm)": "0.473",
+      "Rule violations (%)": "16.87",
+      "Rank stability (Spearman \u03c1)": "0.606",
+      "Top-5 overlap (Jaccard)": "0.590",
+      "Top-3 importance share": "0.597"
+    },
+    {
+      "Dataset": "Taiwan Default",
+      "Variant": "GBM + monotone constraints",
+      "\u0394AUC vs data-only GBM [95% CI]": "+0.0001 [-0.0018, +0.0020]",
+      "p (Holm)": "0.908",
+      "Rule violations (%)": "0.00",
+      "Rank stability (Spearman \u03c1)": "0.608",
+      "Top-5 overlap (Jaccard)": "0.579",
+      "Top-3 importance share": "0.671"
+    },
+    {
+      "Dataset": "Taiwan Default",
+      "Variant": "GBM + both (knowledge-augmented)",
+      "\u0394AUC vs data-only GBM [95% CI]": "+0.0012 [-0.0014, +0.0039]",
+      "p (Holm)": "0.676",
+      "Rule violations (%)": "0.00",
+      "Rank stability (Spearman \u03c1)": "0.660",
+      "Top-5 overlap (Jaccard)": "0.539",
+      "Top-3 importance share": "0.584"
+    }
+  ],
+  "delta_auc_knowledge_augmented_vs_data_only": {
+    "German Credit": -0.012087301587301601,
+    "Taiwan Default": 0.001221512568998214
+  },
+  "constrained_models_max_violation_pct": {
+    "German Credit|GBM + monotone constraints": 0.0,
+    "German Credit|GBM + both (knowledge-augmented)": 0.0,
+    "Taiwan Default|GBM + monotone constraints": 0.0,
+    "Taiwan Default|GBM + both (knowledge-augmented)": 0.007692307692307693
+  },
+  "environment": {
+    "python": "3.12.3",
+    "sklearn": "1.9.1",
+    "pandas": "3.1.0",
+    "numpy": "2.5.2",
+    "platform": "Linux-6.8.0-147-generic-x86_64-with-glibc2.39",
+    "nvidia_smi_found": true,
+    "cpu_count": 96
+  },
+  "runtime_seconds": 181.2
+}

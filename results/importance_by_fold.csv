@@ -1,0 +1,2461 @@
+dataset,model,fold,feature,importance
+German Credit,GBM (data-only),0,duration,0.058095238095238165
+German Credit,GBM (data-only),0,credit_amount,0.031190476190476286
+German Credit,GBM (data-only),0,installment_commitment,-0.01123015873015872
+German Credit,GBM (data-only),0,residence_since,0.007539682539682624
+German Credit,GBM (data-only),0,age,0.010238095238095232
+German Credit,GBM (data-only),0,existing_credits,0.0013095238095238715
+German Credit,GBM (data-only),0,num_dependents,-0.0011507936507936245
+German Credit,GBM (data-only),0,checking_lvl,0.10448412698412701
+German Credit,GBM (data-only),0,savings_lvl,0.011944444444444535
+German Credit,GBM (data-only),0,checking_none,0.0
+German Credit,GBM (data-only),0,savings_none,0.0
+German Credit,GBM (data-only),0,credit_history,0.018650793650793696
+German Credit,GBM (data-only),0,purpose,0.011230158730158793
+German Credit,GBM (data-only),0,employment,-0.002182539682539638
+German Credit,GBM (data-only),0,other_parties,-0.00952380952380949
+German Credit,GBM (data-only),0,property_magnitude,-0.005357142857142764
+German Credit,GBM (data-only),0,other_payment_plans,0.009722222222222335
+German Credit,GBM (data-only),0,housing,0.0016666666666667422
+German Credit,GBM (data-only),0,job,0.006031746031746055
+German Credit,GBM (data-only),0,own_telephone,-0.006150793650793592
+German Credit,GBM (data-only),1,duration,0.028452380952380934
+German Credit,GBM (data-only),1,credit_amount,-0.004007936507936553
+German Credit,GBM (data-only),1,installment_commitment,0.0012698412698412358
+German Credit,GBM (data-only),1,residence_since,-0.003174603174603311
+German Credit,GBM (data-only),1,age,0.006706349206349123
+German Credit,GBM (data-only),1,existing_credits,-3.9682539682561746e-05
+German Credit,GBM (data-only),1,num_dependents,-0.004126984126984164
+German Credit,GBM (data-only),1,checking_lvl,0.0809920634920634
+German Credit,GBM (data-only),1,savings_lvl,0.004206349206349176
+German Credit,GBM (data-only),1,checking_none,0.0
+German Credit,GBM (data-only),1,savings_none,0.0
+German Credit,GBM (data-only),1,credit_history,0.01702380952380948
+German Credit,GBM (data-only),1,purpose,0.011785714285714252
+German Credit,GBM (data-only),1,employment,0.0031349206349205647
+German Credit,GBM (data-only),1,other_parties,-0.006150793650793703
+German Credit,GBM (data-only),1,property_magnitude,-0.005198412698412776
+German Credit,GBM (data-only),1,other_payment_plans,-0.00031746031746038295
+German Credit,GBM (data-only),1,housing,0.0011111111111110628
+German Credit,GBM (data-only),1,job,0.0011111111111110628
+German Credit,GBM (data-only),1,own_telephone,-0.0005555555555556054
+German Credit,GBM (data-only),2,duration,0.0259126984126985
+German Credit,GBM (data-only),2,credit_amount,0.03373015873015887
+German Credit,GBM (data-only),2,installment_commitment,0.0031746031746033485
+German Credit,GBM (data-only),2,residence_since,-0.002142857142856965
+German Credit,GBM (data-only),2,age,0.011190476190476343
+German Credit,GBM (data-only),2,existing_credits,-0.005793650793650647
+German Credit,GBM (data-only),2,num_dependents,0.0007142857142858524
+German Credit,GBM (data-only),2,checking_lvl,0.05876984126984145
+German Credit,GBM (data-only),2,savings_lvl,0.01662698412698434
+German Credit,GBM (data-only),2,checking_none,0.0
+German Credit,GBM (data-only),2,savings_none,0.0
+German Credit,GBM (data-only),2,credit_history,-0.007222222222222093
+German Credit,GBM (data-only),2,purpose,0.03908730158730175
+German Credit,GBM (data-only),2,employment,-0.006746031746031574
+German Credit,GBM (data-only),2,other_parties,0.008809523809523934
+German Credit,GBM (data-only),2,property_magnitude,0.010238095238095416
+German Credit,GBM (data-only),2,other_payment_plans,0.0051984126984128505
+German Credit,GBM (data-only),2,housing,-0.0009920634920633775
+German Credit,GBM (data-only),2,job,-0.00765873015873005
+German Credit,GBM (data-only),2,own_telephone,-0.001230158730158563
+German Credit,GBM (data-only),3,duration,0.021031746031746068
+German Credit,GBM (data-only),3,credit_amount,0.0472222222222222
+German Credit,GBM (data-only),3,installment_commitment,0.015555555555555545
+German Credit,GBM (data-only),3,residence_since,0.002182539682539749
+German Credit,GBM (data-only),3,age,0.009960317460317447
+German Credit,GBM (data-only),3,existing_credits,-0.004642857142857171
+German Credit,GBM (data-only),3,num_dependents,-0.0014285714285714457
+German Credit,GBM (data-only),3,checking_lvl,0.0827777777777778
+German Credit,GBM (data-only),3,savings_lvl,0.012857142857142864
+German Credit,GBM (data-only),3,checking_none,0.0
+German Credit,GBM (data-only),3,savings_none,0.0
+German Credit,GBM (data-only),3,credit_history,0.024126984126984146
+German Credit,GBM (data-only),3,purpose,0.01972222222222227
+German Credit,GBM (data-only),3,employment,0.005714285714285709
+German Credit,GBM (data-only),3,other_parties,0.00833333333333334
+German Credit,GBM (data-only),3,property_magnitude,-0.00035714285714290767
+German Credit,GBM (data-only),3,other_payment_plans,0.007182539682539679
+German Credit,GBM (data-only),3,housing,0.0024206349206349342
+German Credit,GBM (data-only),3,job,0.0013888888888888469
+German Credit,GBM (data-only),3,own_telephone,0.0030158730158730274
+German Credit,GBM (data-only),4,duration,0.057817460317460344
+German Credit,GBM (data-only),4,credit_amount,0.01706349206349204
+German Credit,GBM (data-only),4,installment_commitment,-0.0057142857142857455
+German Credit,GBM (data-only),4,residence_since,0.0029365079365079407
+German Credit,GBM (data-only),4,age,0.0007936507936507539
+German Credit,GBM (data-only),4,existing_credits,0.00384920634920638
+German Credit,GBM (data-only),4,num_dependents,0.013055555555555598
+German Credit,GBM (data-only),4,checking_lvl,0.11130952380952386
+German Credit,GBM (data-only),4,savings_lvl,0.014285714285714346
+German Credit,GBM (data-only),4,checking_none,0.0
+German Credit,GBM (data-only),4,savings_none,0.0
+German Credit,GBM (data-only),4,credit_history,0.018412698412698436
+German Credit,GBM (data-only),4,purpose,0.03634920634920635
+German Credit,GBM (data-only),4,employment,0.009484126984126965
+German Credit,GBM (data-only),4,other_parties,0.018769841269841308
+German Credit,GBM (data-only),4,property_magnitude,0.012619047619047604
+German Credit,GBM (data-only),4,other_payment_plans,0.013928571428571438
+German Credit,GBM (data-only),4,housing,0.001230158730158748
+German Credit,GBM (data-only),4,job,-0.0005555555555554944
+German Credit,GBM (data-only),4,own_telephone,0.006984126984126944
+German Credit,GBM (data-only),5,duration,0.05150793650793658
+German Credit,GBM (data-only),5,credit_amount,0.023809523809523798
+German Credit,GBM (data-only),5,installment_commitment,-0.004841269841269795
+German Credit,GBM (data-only),5,residence_since,0.004920634920634955
+German Credit,GBM (data-only),5,age,-0.009523809523809415
+German Credit,GBM (data-only),5,existing_credits,0.0012698412698412358
+German Credit,GBM (data-only),5,num_dependents,0.002579365079365107
+German Credit,GBM (data-only),5,checking_lvl,0.08448412698412704
+German Credit,GBM (data-only),5,savings_lvl,0.01428571428571431
+German Credit,GBM (data-only),5,checking_none,0.0
+German Credit,GBM (data-only),5,savings_none,0.0
+German Credit,GBM (data-only),5,credit_history,0.027698412698412778
+German Credit,GBM (data-only),5,purpose,0.016388888888888935
+German Credit,GBM (data-only),5,employment,0.017896825396825466
+German Credit,GBM (data-only),5,other_parties,0.008293650793650853
+German Credit,GBM (data-only),5,property_magnitude,0.00976190476190486
+German Credit,GBM (data-only),5,other_payment_plans,0.008888888888888946
+German Credit,GBM (data-only),5,housing,-0.0010317460317459763
+German Credit,GBM (data-only),5,job,0.0008730158730158774
+German Credit,GBM (data-only),5,own_telephone,0.009920634920634922
+German Credit,GBM (data-only),6,duration,0.04301587301587292
+German Credit,GBM (data-only),6,credit_amount,0.025674603174603128
+German Credit,GBM (data-only),6,installment_commitment,0.010357142857142843
+German Credit,GBM (data-only),6,residence_since,0.004206349206349176
+German Credit,GBM (data-only),6,age,0.02111111111111108
+German Credit,GBM (data-only),6,existing_credits,0.003809523809523744
+German Credit,GBM (data-only),6,num_dependents,0.0028571428571427804
+German Credit,GBM (data-only),6,checking_lvl,0.11392857142857134
+German Credit,GBM (data-only),6,savings_lvl,0.00813492063492057
+German Credit,GBM (data-only),6,checking_none,0.0
+German Credit,GBM (data-only),6,savings_none,0.0
+German Credit,GBM (data-only),6,credit_history,0.021269841269841144
+German Credit,GBM (data-only),6,purpose,0.047539682539682514
+German Credit,GBM (data-only),6,employment,0.0035714285714285587
+German Credit,GBM (data-only),6,other_parties,0.009484126984126965
+German Credit,GBM (data-only),6,property_magnitude,-0.002301587301587397
+German Credit,GBM (data-only),6,other_payment_plans,0.016190476190476127
+German Credit,GBM (data-only),6,housing,-0.0025000000000000946
+German Credit,GBM (data-only),6,job,-0.009325396825396867
+German Credit,GBM (data-only),6,own_telephone,-7.936507936512349e-05
+German Credit,GBM (data-only),7,duration,0.05972222222222223
+German Credit,GBM (data-only),7,credit_amount,0.0658730158730159
+German Credit,GBM (data-only),7,installment_commitment,0.006746031746031759
+German Credit,GBM (data-only),7,residence_since,0.004166666666666652
+German Credit,GBM (data-only),7,age,0.014047619047619012
+German Credit,GBM (data-only),7,existing_credits,-0.0013888888888888469
+German Credit,GBM (data-only),7,num_dependents,0.003412698412698386
+German Credit,GBM (data-only),7,checking_lvl,0.09873015873015871
+German Credit,GBM (data-only),7,savings_lvl,0.014960317460317452
+German Credit,GBM (data-only),7,checking_none,0.0
+German Credit,GBM (data-only),7,savings_none,0.0
+German Credit,GBM (data-only),7,credit_history,0.00976190476190475
+German Credit,GBM (data-only),7,purpose,0.010277777777777794
+German Credit,GBM (data-only),7,employment,0.011190476190476195
+German Credit,GBM (data-only),7,other_parties,0.007103174603174593
+German Credit,GBM (data-only),7,property_magnitude,0.014880952380952328
+German Credit,GBM (data-only),7,other_payment_plans,0.015357142857142847
+German Credit,GBM (data-only),7,housing,-0.003373015873015898
+German Credit,GBM (data-only),7,job,0.007738095238095248
+German Credit,GBM (data-only),7,own_telephone,0.005476190476190486
+German Credit,GBM (data-only),8,duration,0.05662698412698416
+German Credit,GBM (data-only),8,credit_amount,0.03841269841269838
+German Credit,GBM (data-only),8,installment_commitment,-0.0022222222222222734
+German Credit,GBM (data-only),8,residence_since,-0.007500000000000025
+German Credit,GBM (data-only),8,age,0.010119047619047583
+German Credit,GBM (data-only),8,existing_credits,0.0019047619047618907
+German Credit,GBM (data-only),8,num_dependents,0.0003174603174602719
+German Credit,GBM (data-only),8,checking_lvl,0.085515873015873
+German Credit,GBM (data-only),8,savings_lvl,0.013730158730158667
+German Credit,GBM (data-only),8,checking_none,0.0
+German Credit,GBM (data-only),8,savings_none,0.0
+German Credit,GBM (data-only),8,credit_history,0.016626984126984008
+German Credit,GBM (data-only),8,purpose,0.00940476190476188
+German Credit,GBM (data-only),8,employment,0.009960317460317373
+German Credit,GBM (data-only),8,other_parties,0.007936507936507945
+German Credit,GBM (data-only),8,property_magnitude,0.0036111111111110836
+German Credit,GBM (data-only),8,other_payment_plans,0.00670634920634916
+German Credit,GBM (data-only),8,housing,0.001230158730158674
+German Credit,GBM (data-only),8,job,-0.003373015873015898
+German Credit,GBM (data-only),8,own_telephone,0.002182539682539675
+German Credit,GBM (data-only),9,duration,0.02492063492063497
+German Credit,GBM (data-only),9,credit_amount,0.01825396825396819
+German Credit,GBM (data-only),9,installment_commitment,-0.002182539682539675
+German Credit,GBM (data-only),9,residence_since,0.00488095238095243
+German Credit,GBM (data-only),9,age,-0.00861111111111105
+German Credit,GBM (data-only),9,existing_credits,-0.001666666666666668
+German Credit,GBM (data-only),9,num_dependents,-0.0013492063492062851
+German Credit,GBM (data-only),9,checking_lvl,0.06261904761904762
+German Credit,GBM (data-only),9,savings_lvl,0.003888888888888905
+German Credit,GBM (data-only),9,checking_none,0.0
+German Credit,GBM (data-only),9,savings_none,0.0
+German Credit,GBM (data-only),9,credit_history,0.02805555555555561
+German Credit,GBM (data-only),9,purpose,0.02690476190476195
+German Credit,GBM (data-only),9,employment,0.007023809523809543
+German Credit,GBM (data-only),9,other_parties,0.0055555555555556095
+German Credit,GBM (data-only),9,property_magnitude,0.005793650793650833
+German Credit,GBM (data-only),9,other_payment_plans,0.004404761904761949
+German Credit,GBM (data-only),9,housing,-0.002896825396825342
+German Credit,GBM (data-only),9,job,0.0008333333333333156
+German Credit,GBM (data-only),9,own_telephone,0.008253968253968291
+German Credit,GBM (data-only),10,duration,0.028928571428571342
+German Credit,GBM (data-only),10,credit_amount,0.06142857142857142
+German Credit,GBM (data-only),10,installment_commitment,0.014126984126984099
+German Credit,GBM (data-only),10,residence_since,0.004325396825396788
+German Credit,GBM (data-only),10,age,0.019126984126984103
+German Credit,GBM (data-only),10,existing_credits,0.003531746031745923
+German Credit,GBM (data-only),10,num_dependents,0.005238095238095116
+German Credit,GBM (data-only),10,checking_lvl,0.0838888888888889
+German Credit,GBM (data-only),10,savings_lvl,0.01130952380952377
+German Credit,GBM (data-only),10,checking_none,0.0
+German Credit,GBM (data-only),10,savings_none,0.0
+German Credit,GBM (data-only),10,credit_history,0.011666666666666603
+German Credit,GBM (data-only),10,purpose,0.021785714285714186
+German Credit,GBM (data-only),10,employment,0.00841269841269839
+German Credit,GBM (data-only),10,other_parties,0.012420634920634943
+German Credit,GBM (data-only),10,property_magnitude,0.005198412698412628
+German Credit,GBM (data-only),10,other_payment_plans,0.0017857142857142423
+German Credit,GBM (data-only),10,housing,0.001071428571428501
+German Credit,GBM (data-only),10,job,-0.004444444444444473
+German Credit,GBM (data-only),10,own_telephone,-0.002619047619047706
+German Credit,GBM (data-only),11,duration,0.0342460317460318
+German Credit,GBM (data-only),11,credit_amount,0.023611111111111138
+German Credit,GBM (data-only),11,installment_commitment,-0.007023809523809432
+German Credit,GBM (data-only),11,residence_since,-0.013134920634920574
+German Credit,GBM (data-only),11,age,0.011111111111111183
+German Credit,GBM (data-only),11,existing_credits,0.004126984126984201
+German Credit,GBM (data-only),11,num_dependents,0.002619047619047669
+German Credit,GBM (data-only),11,checking_lvl,0.08476190476190486
+German Credit,GBM (data-only),11,savings_lvl,0.01988095238095237
+German Credit,GBM (data-only),11,checking_none,0.0
+German Credit,GBM (data-only),11,savings_none,0.0
+German Credit,GBM (data-only),11,credit_history,0.015357142857142922
+German Credit,GBM (data-only),11,purpose,0.01404761904761905
+German Credit,GBM (data-only),11,employment,0.004206349206349251
+German Credit,GBM (data-only),11,other_parties,-3.968253968248773e-05
+German Credit,GBM (data-only),11,property_magnitude,-0.0003174603174602349
+German Credit,GBM (data-only),11,other_payment_plans,0.017341269841269897
+German Credit,GBM (data-only),11,housing,0.011507936507936578
+German Credit,GBM (data-only),11,job,0.004920634920634992
+German Credit,GBM (data-only),11,own_telephone,-0.0028571428571428172
+German Credit,GBM (data-only),12,duration,0.06111111111111119
+German Credit,GBM (data-only),12,credit_amount,0.055555555555555504
+German Credit,GBM (data-only),12,installment_commitment,-0.004404761904761949
+German Credit,GBM (data-only),12,residence_since,-0.001388888888888921
+German Credit,GBM (data-only),12,age,-0.0013492063492063593
+German Credit,GBM (data-only),12,existing_credits,0.0011507936507936984
+German Credit,GBM (data-only),12,num_dependents,0.0032936507936508117
+German Credit,GBM (data-only),12,checking_lvl,0.08912698412698412
+German Credit,GBM (data-only),12,savings_lvl,0.01515873015873015
+German Credit,GBM (data-only),12,checking_none,0.0
+German Credit,GBM (data-only),12,savings_none,0.0
+German Credit,GBM (data-only),12,credit_history,0.009841269841269836
+German Credit,GBM (data-only),12,purpose,0.012579365079365079
+German Credit,GBM (data-only),12,employment,0.011468253968253905
+German Credit,GBM (data-only),12,other_parties,0.010198412698412632
+German Credit,GBM (data-only),12,property_magnitude,0.006706349206349198
+German Credit,GBM (data-only),12,other_payment_plans,0.006269841269841277
+German Credit,GBM (data-only),12,housing,-0.00011904761904761123
+German Credit,GBM (data-only),12,job,0.006666666666666636
+German Credit,GBM (data-only),12,own_telephone,-0.0017857142857143533
+German Credit,GBM (data-only),13,duration,0.05658730158730163
+German Credit,GBM (data-only),13,credit_amount,0.04928571428571434
+German Credit,GBM (data-only),13,installment_commitment,-0.006150793650793555
+German Credit,GBM (data-only),13,residence_since,0.0035714285714285956
+German Credit,GBM (data-only),13,age,0.02234126984126994
+German Credit,GBM (data-only),13,existing_credits,0.007579365079365223
+German Credit,GBM (data-only),13,num_dependents,0.004761904761904856
+German Credit,GBM (data-only),13,checking_lvl,0.1286111111111112
+German Credit,GBM (data-only),13,savings_lvl,0.02496031746031761
+German Credit,GBM (data-only),13,checking_none,0.0
+German Credit,GBM (data-only),13,savings_none,0.0
+German Credit,GBM (data-only),13,credit_history,0.025238095238095355
+German Credit,GBM (data-only),13,purpose,0.03924603174603184
+German Credit,GBM (data-only),13,employment,0.0037301587301588426
+German Credit,GBM (data-only),13,other_parties,0.013492063492063519
+German Credit,GBM (data-only),13,property_magnitude,0.003690476190476355
+German Credit,GBM (data-only),13,other_payment_plans,0.014484126984127044
+German Credit,GBM (data-only),13,housing,-0.004007936507936405
+German Credit,GBM (data-only),13,job,-0.0012698412698411616
+German Credit,GBM (data-only),13,own_telephone,0.004563492063492121
+German Credit,GBM (data-only),14,duration,0.034325396825396814
+German Credit,GBM (data-only),14,credit_amount,0.018412698412698363
+German Credit,GBM (data-only),14,installment_commitment,-0.004285714285714337
+German Credit,GBM (data-only),14,residence_since,0.0001984126984126977
+German Credit,GBM (data-only),14,age,-0.01777777777777782
+German Credit,GBM (data-only),14,existing_credits,-0.012539682539682554
+German Credit,GBM (data-only),14,num_dependents,0.0022222222222221997
+German Credit,GBM (data-only),14,checking_lvl,0.1138095238095238
+German Credit,GBM (data-only),14,savings_lvl,0.018333333333333313
+German Credit,GBM (data-only),14,checking_none,0.0
+German Credit,GBM (data-only),14,savings_none,0.0
+German Credit,GBM (data-only),14,credit_history,0.0008730158730158774
+German Credit,GBM (data-only),14,purpose,0.022857142857142798
+German Credit,GBM (data-only),14,employment,0.00547619047619045
+German Credit,GBM (data-only),14,other_parties,0.011230158730158757
+German Credit,GBM (data-only),14,property_magnitude,0.0001984126984126977
+German Credit,GBM (data-only),14,other_payment_plans,0.009444444444444403
+German Credit,GBM (data-only),14,housing,0.0029761904761904656
+German Credit,GBM (data-only),14,job,-0.0009523809523809268
+German Credit,GBM (data-only),14,own_telephone,0.004999999999999931
+German Credit,GBM + knowledge features,0,duration,0.032063492063492016
+German Credit,GBM + knowledge features,0,credit_amount,0.04849206349206351
+German Credit,GBM + knowledge features,0,installment_commitment,-0.0028571428571429656
+German Credit,GBM + knowledge features,0,residence_since,0.009087301587301496
+German Credit,GBM + knowledge features,0,age,0.016547619047619033
+German Credit,GBM + knowledge features,0,existing_credits,-0.006150793650793703
+German Credit,GBM + knowledge features,0,num_dependents,-0.0010317460317461242
+German Credit,GBM + knowledge features,0,checking_lvl,0.11642857142857144
+German Credit,GBM + knowledge features,0,savings_lvl,0.018095238095238053
+German Credit,GBM + knowledge features,0,checking_none,0.0
+German Credit,GBM + knowledge features,0,savings_none,0.0
+German Credit,GBM + knowledge features,0,credit_history,0.03186507936507935
+German Credit,GBM + knowledge features,0,purpose,0.00849206349206344
+German Credit,GBM + knowledge features,0,employment,0.006904761904761895
+German Credit,GBM + knowledge features,0,other_parties,-0.011626984126984152
+German Credit,GBM + knowledge features,0,property_magnitude,-0.002182539682539749
+German Credit,GBM + knowledge features,0,other_payment_plans,0.007857142857142821
+German Credit,GBM + knowledge features,0,housing,-0.0003571428571429447
+German Credit,GBM + knowledge features,0,job,0.0013095238095237975
+German Credit,GBM + knowledge features,0,own_telephone,0.0007142857142855563
+German Credit,GBM + knowledge features,1,duration,0.021626984126984012
+German Credit,GBM + knowledge features,1,credit_amount,-0.0026984126984127923
+German Credit,GBM + knowledge features,1,installment_commitment,-0.0018253968253969521
+German Credit,GBM + knowledge features,1,residence_since,0.0003174603174601609
+German Credit,GBM + knowledge features,1,age,0.009007936507936373
+German Credit,GBM + knowledge features,1,existing_credits,-0.0019047619047620386
+German Credit,GBM + knowledge features,1,num_dependents,-0.001825396825396915
+German Credit,GBM + knowledge features,1,checking_lvl,0.07492063492063479
+German Credit,GBM + knowledge features,1,savings_lvl,0.010476190476190342
+German Credit,GBM + knowledge features,1,checking_none,0.0
+German Credit,GBM + knowledge features,1,savings_none,0.0
+German Credit,GBM + knowledge features,1,credit_history,0.022182539682539543
+German Credit,GBM + knowledge features,1,purpose,0.016111111111111003
+German Credit,GBM + knowledge features,1,employment,-0.0008730158730159884
+German Credit,GBM + knowledge features,1,other_parties,-0.008690476190476285
+German Credit,GBM + knowledge features,1,property_magnitude,-0.005079365079365202
+German Credit,GBM + knowledge features,1,other_payment_plans,0.0017460317460316066
+German Credit,GBM + knowledge features,1,housing,0.00182539682539673
+German Credit,GBM + knowledge features,1,job,0.004246031746031702
+German Credit,GBM + knowledge features,1,own_telephone,0.0003174603174602719
+German Credit,GBM + knowledge features,2,duration,0.03682539682539687
+German Credit,GBM + knowledge features,2,credit_amount,0.03765873015873019
+German Credit,GBM + knowledge features,2,installment_commitment,0.0018253968253968411
+German Credit,GBM + knowledge features,2,residence_since,0.0006349206349205808
+German Credit,GBM + knowledge features,2,age,0.03361111111111118
+German Credit,GBM + knowledge features,2,existing_credits,-0.00015873015873009896
+German Credit,GBM + knowledge features,2,num_dependents,0.0027380952380952803
+German Credit,GBM + knowledge features,2,checking_lvl,0.06503968253968255
+German Credit,GBM + knowledge features,2,savings_lvl,0.023293650793650828
+German Credit,GBM + knowledge features,2,checking_none,0.0
+German Credit,GBM + knowledge features,2,savings_none,0.0
+German Credit,GBM + knowledge features,2,credit_history,0.00043650793650795716
+German Credit,GBM + knowledge features,2,purpose,0.0384920634920635
+German Credit,GBM + knowledge features,2,employment,-0.0028571428571428172
+German Credit,GBM + knowledge features,2,other_parties,0.0073015873015873645
+German Credit,GBM + knowledge features,2,property_magnitude,0.009841269841269873
+German Credit,GBM + knowledge features,2,other_payment_plans,0.009404761904761952
+German Credit,GBM + knowledge features,2,housing,-0.0024999999999999467
+German Credit,GBM + knowledge features,2,job,-0.003253968253968176
+German Credit,GBM + knowledge features,2,own_telephone,0.005238095238095301
+German Credit,GBM + knowledge features,3,duration,0.02289682539682532
+German Credit,GBM + knowledge features,3,credit_amount,0.03940476190476183
+German Credit,GBM + knowledge features,3,installment_commitment,0.0003968253968253214
+German Credit,GBM + knowledge features,3,residence_since,-0.002936507936507978
+German Credit,GBM + knowledge features,3,age,0.004960317460317369
+German Credit,GBM + knowledge features,3,existing_credits,-0.007301587301587402
+German Credit,GBM + knowledge features,3,num_dependents,-0.003055555555555626
+German Credit,GBM + knowledge features,3,checking_lvl,0.08075396825396815
+German Credit,GBM + knowledge features,3,savings_lvl,0.008333333333333267
+German Credit,GBM + knowledge features,3,checking_none,0.0
+German Credit,GBM + knowledge features,3,savings_none,0.0
+German Credit,GBM + knowledge features,3,credit_history,0.02055555555555555
+German Credit,GBM + knowledge features,3,purpose,0.018015873015873003
+German Credit,GBM + knowledge features,3,employment,0.007142857142857044
+German Credit,GBM + knowledge features,3,other_parties,0.008214285714285655
+German Credit,GBM + knowledge features,3,property_magnitude,-0.0012698412698413097
+German Credit,GBM + knowledge features,3,other_payment_plans,0.005952380952380931
+German Credit,GBM + knowledge features,3,housing,0.0019047619047618536
+German Credit,GBM + knowledge features,3,job,-0.0028174603174603665
+German Credit,GBM + knowledge features,3,own_telephone,-0.0014285714285714828
+German Credit,GBM + knowledge features,4,duration,0.04797619047619043
+German Credit,GBM + knowledge features,4,credit_amount,0.02468253968253964
+German Credit,GBM + knowledge features,4,installment_commitment,0.00496031746031748
+German Credit,GBM + knowledge features,4,residence_since,0.002777777777777731
+German Credit,GBM + knowledge features,4,age,0.007619047619047563
+German Credit,GBM + knowledge features,4,existing_credits,0.005714285714285709
+German Credit,GBM + knowledge features,4,num_dependents,0.010476190476190453
+German Credit,GBM + knowledge features,4,checking_lvl,0.10305555555555553
+German Credit,GBM + knowledge features,4,savings_lvl,0.01031746031746028
+German Credit,GBM + knowledge features,4,checking_none,0.0
+German Credit,GBM + knowledge features,4,savings_none,0.0
+German Credit,GBM + knowledge features,4,credit_history,0.037539682539682574
+German Credit,GBM + knowledge features,4,purpose,0.03496031746031747
+German Credit,GBM + knowledge features,4,employment,0.010634920634920627
+German Credit,GBM + knowledge features,4,other_parties,0.015674603174603192
+German Credit,GBM + knowledge features,4,property_magnitude,0.002261904761904724
+German Credit,GBM + knowledge features,4,other_payment_plans,0.008809523809523786
+German Credit,GBM + knowledge features,4,housing,-0.0021825396825397116
+German Credit,GBM + knowledge features,4,job,0.0032936507936507375
+German Credit,GBM + knowledge features,4,own_telephone,0.011150793650793597
+German Credit,GBM + knowledge features,5,duration,0.040952380952381
+German Credit,GBM + knowledge features,5,credit_amount,0.007182539682539679
+German Credit,GBM + knowledge features,5,installment_commitment,-0.01321428571428566
+German Credit,GBM + knowledge features,5,residence_since,0.00412698412698409
+German Credit,GBM + knowledge features,5,age,-0.0037698412698412196
+German Credit,GBM + knowledge features,5,existing_credits,0.0005555555555555683
+German Credit,GBM + knowledge features,5,num_dependents,0.0022222222222221997
+German Credit,GBM + knowledge features,5,checking_lvl,0.10722222222222218
+German Credit,GBM + knowledge features,5,savings_lvl,0.02158730158730156
+German Credit,GBM + knowledge features,5,checking_none,0.0
+German Credit,GBM + knowledge features,5,savings_none,0.0
+German Credit,GBM + knowledge features,5,credit_history,0.026111111111111158
+German Credit,GBM + knowledge features,5,purpose,0.01809523809523809
+German Credit,GBM + knowledge features,5,employment,0.009206349206349218
+German Credit,GBM + knowledge features,5,other_parties,0.011349206349206406
+German Credit,GBM + knowledge features,5,property_magnitude,0.012023809523809473
+German Credit,GBM + knowledge features,5,other_payment_plans,0.00777777777777781
+German Credit,GBM + knowledge features,5,housing,-0.00531746031746035
+German Credit,GBM + knowledge features,5,job,0.001865079365079329
+German Credit,GBM + knowledge features,5,own_telephone,0.0031746031746031265
+German Credit,GBM + knowledge features,6,duration,0.0483730158730159
+German Credit,GBM + knowledge features,6,credit_amount,0.04361111111111112
+German Credit,GBM + knowledge features,6,installment_commitment,0.013492063492063444
+German Credit,GBM + knowledge features,6,residence_since,-0.0004761904761904819
+German Credit,GBM + knowledge features,6,age,0.02932539682539681
+German Credit,GBM + knowledge features,6,existing_credits,0.0013492063492062851
+German Credit,GBM + knowledge features,6,num_dependents,0.004603174603174609
+German Credit,GBM + knowledge features,6,checking_lvl,0.13309523809523813
+German Credit,GBM + knowledge features,6,savings_lvl,0.019444444444444375
+German Credit,GBM + knowledge features,6,checking_none,0.0
+German Credit,GBM + knowledge features,6,savings_none,0.0
+German Credit,GBM + knowledge features,6,credit_history,0.02698412698412696
+German Credit,GBM + knowledge features,6,purpose,0.03900793650793651
+German Credit,GBM + knowledge features,6,employment,0.006825396825396772
+German Credit,GBM + knowledge features,6,other_parties,0.007460317460317427
+German Credit,GBM + knowledge features,6,property_magnitude,0.0007142857142857784
+German Credit,GBM + knowledge features,6,other_payment_plans,0.007777777777777699
+German Credit,GBM + knowledge features,6,housing,0.0014682539682540074
+German Credit,GBM + knowledge features,6,job,-0.0013095238095237975
+German Credit,GBM + knowledge features,6,own_telephone,0.0017460317460317547
+German Credit,GBM + knowledge features,7,duration,0.03039682539682535
+German Credit,GBM + knowledge features,7,credit_amount,0.05539682539682537
+German Credit,GBM + knowledge features,7,installment_commitment,0.011587301587301516
+German Credit,GBM + knowledge features,7,residence_since,0.0046825396825396215
+German Credit,GBM + knowledge features,7,age,0.004920634920634881
+German Credit,GBM + knowledge features,7,existing_credits,-0.004166666666666689
+German Credit,GBM + knowledge features,7,num_dependents,0.0031349206349206384
+German Credit,GBM + knowledge features,7,checking_lvl,0.10083333333333326
+German Credit,GBM + knowledge features,7,savings_lvl,0.013888888888888803
+German Credit,GBM + knowledge features,7,checking_none,0.0
+German Credit,GBM + knowledge features,7,savings_none,0.0
+German Credit,GBM + knowledge features,7,credit_history,0.01222222222222217
+German Credit,GBM + knowledge features,7,purpose,0.01646825396825387
+German Credit,GBM + knowledge features,7,employment,0.016150793650793676
+German Credit,GBM + knowledge features,7,other_parties,0.0036507936507935343
+German Credit,GBM + knowledge features,7,property_magnitude,0.0022619047619046873
+German Credit,GBM + knowledge features,7,other_payment_plans,0.007539682539682439
+German Credit,GBM + knowledge features,7,housing,-0.003928571428571466
+German Credit,GBM + knowledge features,7,job,0.00523809523809519
+German Credit,GBM + knowledge features,7,own_telephone,0.004206349206349103
+German Credit,GBM + knowledge features,8,duration,0.06059523809523807
+German Credit,GBM + knowledge features,8,credit_amount,0.037698412698412676
+German Credit,GBM + knowledge features,8,installment_commitment,-0.013650793650793728
+German Credit,GBM + knowledge features,8,residence_since,-0.0019444444444444893
+German Credit,GBM + knowledge features,8,age,0.021626984126984123
+German Credit,GBM + knowledge features,8,existing_credits,-0.001388888888888921
+German Credit,GBM + knowledge features,8,num_dependents,-0.0004761904761904819
+German Credit,GBM + knowledge features,8,checking_lvl,0.08277777777777773
+German Credit,GBM + knowledge features,8,savings_lvl,0.01083333333333325
+German Credit,GBM + knowledge features,8,checking_none,0.0
+German Credit,GBM + knowledge features,8,savings_none,0.0
+German Credit,GBM + knowledge features,8,credit_history,0.011230158730158682
+German Credit,GBM + knowledge features,8,purpose,0.018253968253968262
+German Credit,GBM + knowledge features,8,employment,0.011507936507936503
+German Credit,GBM + knowledge features,8,other_parties,0.009325396825396792
+German Credit,GBM + knowledge features,8,property_magnitude,0.008452380952380914
+German Credit,GBM + knowledge features,8,other_payment_plans,0.0045238095238094855
+German Credit,GBM + knowledge features,8,housing,0.002619047619047632
+German Credit,GBM + knowledge features,8,job,-0.0009523809523810008
+German Credit,GBM + knowledge features,8,own_telephone,0.0031349206349206016
+German Credit,GBM + knowledge features,9,duration,0.006825396825396808
+German Credit,GBM + knowledge features,9,credit_amount,0.0014682539682539335
+German Credit,GBM + knowledge features,9,installment_commitment,-0.004285714285714337
+German Credit,GBM + knowledge features,9,residence_since,0.0035714285714285587
+German Credit,GBM + knowledge features,9,age,-0.00805555555555563
+German Credit,GBM + knowledge features,9,existing_credits,0.0007539682539681921
+German Credit,GBM + knowledge features,9,num_dependents,-0.005992063492063567
+German Credit,GBM + knowledge features,9,checking_lvl,0.06964285714285705
+German Credit,GBM + knowledge features,9,savings_lvl,0.014285714285714235
+German Credit,GBM + knowledge features,9,checking_none,0.0
+German Credit,GBM + knowledge features,9,savings_none,0.0
+German Credit,GBM + knowledge features,9,credit_history,0.030039682539682477
+German Credit,GBM + knowledge features,9,purpose,0.020158730158730116
+German Credit,GBM + knowledge features,9,employment,-0.0017857142857143164
+German Credit,GBM + knowledge features,9,other_parties,0.004246031746031664
+German Credit,GBM + knowledge features,9,property_magnitude,0.004206349206349103
+German Credit,GBM + knowledge features,9,other_payment_plans,0.0015873015873015077
+German Credit,GBM + knowledge features,9,housing,-0.00031746031746030895
+German Credit,GBM + knowledge features,9,job,-0.003809523809523855
+German Credit,GBM + knowledge features,9,own_telephone,0.0015873015873015446
+German Credit,GBM + knowledge features,10,duration,0.03301587301587291
+German Credit,GBM + knowledge features,10,credit_amount,0.06115079365079357
+German Credit,GBM + knowledge features,10,installment_commitment,0.003373015873015898
+German Credit,GBM + knowledge features,10,residence_since,0.0030555555555555522
+German Credit,GBM + knowledge features,10,age,0.018174603174603104
+German Credit,GBM + knowledge features,10,existing_credits,0.0009920634920634885
+German Credit,GBM + knowledge features,10,num_dependents,0.005833333333333246
+German Credit,GBM + knowledge features,10,checking_lvl,0.08670634920634912
+German Credit,GBM + knowledge features,10,savings_lvl,0.00952380952380949
+German Credit,GBM + knowledge features,10,checking_none,0.0
+German Credit,GBM + knowledge features,10,savings_none,0.0
+German Credit,GBM + knowledge features,10,credit_history,0.015436507936507896
+German Credit,GBM + knowledge features,10,purpose,0.03182539682539679
+German Credit,GBM + knowledge features,10,employment,0.007619047619047563
+German Credit,GBM + knowledge features,10,other_parties,0.010634920634920627
+German Credit,GBM + knowledge features,10,property_magnitude,-0.0051984126984127394
+German Credit,GBM + knowledge features,10,other_payment_plans,-0.0004365079365079942
+German Credit,GBM + knowledge features,10,housing,-0.0023412698412699218
+German Credit,GBM + knowledge features,10,job,-0.00043650793650803116
+German Credit,GBM + knowledge features,10,own_telephone,-0.00214285714285715
+German Credit,GBM + knowledge features,11,duration,0.03210317460317458
+German Credit,GBM + knowledge features,11,credit_amount,0.017341269841269862
+German Credit,GBM + knowledge features,11,installment_commitment,-0.025396825396825418
+German Credit,GBM + knowledge features,11,residence_since,-0.012619047619047677
+German Credit,GBM + knowledge features,11,age,0.0193253968253968
+German Credit,GBM + knowledge features,11,existing_credits,0.000912698412698402
+German Credit,GBM + knowledge features,11,num_dependents,0.0037301587301586947
+German Credit,GBM + knowledge features,11,checking_lvl,0.06865079365079367
+German Credit,GBM + knowledge features,11,savings_lvl,0.01388888888888884
+German Credit,GBM + knowledge features,11,checking_none,0.0
+German Credit,GBM + knowledge features,11,savings_none,0.0
+German Credit,GBM + knowledge features,11,credit_history,0.011111111111111035
+German Credit,GBM + knowledge features,11,purpose,-0.00015873015873013596
+German Credit,GBM + knowledge features,11,employment,0.0074999999999999884
+German Credit,GBM + knowledge features,11,other_parties,0.0018650793650794029
+German Credit,GBM + knowledge features,11,property_magnitude,-0.004365079365079423
+German Credit,GBM + knowledge features,11,other_payment_plans,0.01428571428571431
+German Credit,GBM + knowledge features,11,housing,0.008531746031745965
+German Credit,GBM + knowledge features,11,job,0.00559523809523806
+German Credit,GBM + knowledge features,11,own_telephone,0.0009523809523808898
+German Credit,GBM + knowledge features,12,duration,0.050674603174603074
+German Credit,GBM + knowledge features,12,credit_amount,0.04908730158730149
+German Credit,GBM + knowledge features,12,installment_commitment,-0.002738095238095317
+German Credit,GBM + knowledge features,12,residence_since,0.0011904761904761492
+German Credit,GBM + knowledge features,12,age,-0.0002777777777778952
+German Credit,GBM + knowledge features,12,existing_credits,0.0019444444444443414
+German Credit,GBM + knowledge features,12,num_dependents,0.0018650793650793658
+German Credit,GBM + knowledge features,12,checking_lvl,0.08876984126984126
+German Credit,GBM + knowledge features,12,savings_lvl,0.021111111111111042
+German Credit,GBM + knowledge features,12,checking_none,0.0
+German Credit,GBM + knowledge features,12,savings_none,0.0
+German Credit,GBM + knowledge features,12,credit_history,0.014841269841269766
+German Credit,GBM + knowledge features,12,purpose,0.013253968253968185
+German Credit,GBM + knowledge features,12,employment,0.012777777777777666
+German Credit,GBM + knowledge features,12,other_parties,0.010714285714285602
+German Credit,GBM + knowledge features,12,property_magnitude,0.013968253968253816
+German Credit,GBM + knowledge features,12,other_payment_plans,0.00611111111111103
+German Credit,GBM + knowledge features,12,housing,0.007976190476190395
+German Credit,GBM + knowledge features,12,job,0.0018650793650792918
+German Credit,GBM + knowledge features,12,own_telephone,-0.002619047619047706
+German Credit,GBM + knowledge features,13,duration,0.03944444444444432
+German Credit,GBM + knowledge features,13,credit_amount,0.04305555555555544
+German Credit,GBM + knowledge features,13,installment_commitment,-0.00452380952380967
+German Credit,GBM + knowledge features,13,residence_since,0.00035714285714272265
+German Credit,GBM + knowledge features,13,age,0.026190476190476025
+German Credit,GBM + knowledge features,13,existing_credits,0.00900793650793641
+German Credit,GBM + knowledge features,13,num_dependents,0.0021031746031745144
+German Credit,GBM + knowledge features,13,checking_lvl,0.14603174603174596
+German Credit,GBM + knowledge features,13,savings_lvl,0.022023809523809407
+German Credit,GBM + knowledge features,13,checking_none,0.0
+German Credit,GBM + knowledge features,13,savings_none,0.0
+German Credit,GBM + knowledge features,13,credit_history,0.02876984126984113
+German Credit,GBM + knowledge features,13,purpose,0.045277777777777674
+German Credit,GBM + knowledge features,13,employment,0.0028968253968253053
+German Credit,GBM + knowledge features,13,other_parties,0.01567460317460308
+German Credit,GBM + knowledge features,13,property_magnitude,0.013888888888888803
+German Credit,GBM + knowledge features,13,other_payment_plans,0.007936507936507872
+German Credit,GBM + knowledge features,13,housing,-0.0013095238095239454
+German Credit,GBM + knowledge features,13,job,0.0059523809523808575
+German Credit,GBM + knowledge features,13,own_telephone,0.0025396825396824716
+German Credit,GBM + knowledge features,14,duration,0.017222222222222288
+German Credit,GBM + knowledge features,14,credit_amount,0.021984126984127068
+German Credit,GBM + knowledge features,14,installment_commitment,-0.009880952380952287
+German Credit,GBM + knowledge features,14,residence_since,-0.004206349206349103
+German Credit,GBM + knowledge features,14,age,-0.02420634920634912
+German Credit,GBM + knowledge features,14,existing_credits,-0.00694444444444442
+German Credit,GBM + knowledge features,14,num_dependents,0.0005952380952380931
+German Credit,GBM + knowledge features,14,checking_lvl,0.10936507936507944
+German Credit,GBM + knowledge features,14,savings_lvl,0.010158730158730181
+German Credit,GBM + knowledge features,14,checking_none,0.0
+German Credit,GBM + knowledge features,14,savings_none,0.0
+German Credit,GBM + knowledge features,14,credit_history,0.010793650793650836
+German Credit,GBM + knowledge features,14,purpose,0.028888888888888926
+German Credit,GBM + knowledge features,14,employment,-0.006468253968253901
+German Credit,GBM + knowledge features,14,other_parties,0.00936507936507939
+German Credit,GBM + knowledge features,14,property_magnitude,0.00154761904761902
+German Credit,GBM + knowledge features,14,other_payment_plans,0.009047619047619046
+German Credit,GBM + knowledge features,14,housing,-0.0022619047619046873
+German Credit,GBM + knowledge features,14,job,-0.002738095238095206
+German Credit,GBM + knowledge features,14,own_telephone,0.003650793650793719
+German Credit,GBM + monotone constraints,0,duration,0.026547619047619115
+German Credit,GBM + monotone constraints,0,credit_amount,0.01091269841269841
+German Credit,GBM + monotone constraints,0,installment_commitment,-0.007460317460317463
+German Credit,GBM + monotone constraints,0,residence_since,0.003214285714285725
+German Credit,GBM + monotone constraints,0,age,-3.968253968248773e-05
+German Credit,GBM + monotone constraints,0,existing_credits,0.0019444444444444524
+German Credit,GBM + monotone constraints,0,num_dependents,0.0019841269841270512
+German Credit,GBM + monotone constraints,0,checking_lvl,0.1013888888888889
+German Credit,GBM + monotone constraints,0,savings_lvl,0.0046825396825397325
+German Credit,GBM + monotone constraints,0,checking_none,-0.0006349206349206549
+German Credit,GBM + monotone constraints,0,savings_none,-3.968253968252474e-05
+German Credit,GBM + monotone constraints,0,credit_history,0.018452380952380998
+German Credit,GBM + monotone constraints,0,purpose,0.020992063492063544
+German Credit,GBM + monotone constraints,0,employment,0.008412698412698464
+German Credit,GBM + monotone constraints,0,other_parties,-0.012619047619047604
+German Credit,GBM + monotone constraints,0,property_magnitude,0.0009523809523810008
+German Credit,GBM + monotone constraints,0,other_payment_plans,0.012301587301587369
+German Credit,GBM + monotone constraints,0,housing,0.008730158730158774
+German Credit,GBM + monotone constraints,0,job,-0.005674603174603221
+German Credit,GBM + monotone constraints,0,own_telephone,-0.010039682539682496
+German Credit,GBM + monotone constraints,1,duration,0.014246031746031748
+German Credit,GBM + monotone constraints,1,credit_amount,0.00833333333333334
+German Credit,GBM + monotone constraints,1,installment_commitment,0.009246031746031743
+German Credit,GBM + monotone constraints,1,residence_since,0.007857142857142821
+German Credit,GBM + monotone constraints,1,age,-0.0020634920634920637
+German Credit,GBM + monotone constraints,1,existing_credits,0.00214285714285715
+German Credit,GBM + monotone constraints,1,num_dependents,-0.0017857142857142423
+German Credit,GBM + monotone constraints,1,checking_lvl,0.07194444444444444
+German Credit,GBM + monotone constraints,1,savings_lvl,0.004880952380952393
+German Credit,GBM + monotone constraints,1,checking_none,0.00031746031746030895
+German Credit,GBM + monotone constraints,1,savings_none,-0.0011111111111111738
+German Credit,GBM + monotone constraints,1,credit_history,0.029801587301587256
+German Credit,GBM + monotone constraints,1,purpose,0.02488095238095241
+German Credit,GBM + monotone constraints,1,employment,0.0018650793650793658
+German Credit,GBM + monotone constraints,1,other_parties,0.0062698412698412405
+German Credit,GBM + monotone constraints,1,property_magnitude,0.002142857142857113
+German Credit,GBM + monotone constraints,1,other_payment_plans,0.004126984126984164
+German Credit,GBM + monotone constraints,1,housing,-0.0008333333333333156
+German Credit,GBM + monotone constraints,1,job,0.0021031746031745513
+German Credit,GBM + monotone constraints,1,own_telephone,0.006309523809523839
+German Credit,GBM + monotone constraints,2,duration,-0.0013095238095238344
+German Credit,GBM + monotone constraints,2,credit_amount,-0.0031349206349207126
+German Credit,GBM + monotone constraints,2,installment_commitment,0.020952380952380906
+German Credit,GBM + monotone constraints,2,residence_since,-0.0015873015873016187
+German Credit,GBM + monotone constraints,2,age,0.005238095238095227
+German Credit,GBM + monotone constraints,2,existing_credits,0.003531746031746034
+German Credit,GBM + monotone constraints,2,num_dependents,0.00404761904761904
+German Credit,GBM + monotone constraints,2,checking_lvl,0.06448412698412691
+German Credit,GBM + monotone constraints,2,savings_lvl,0.03527777777777771
+German Credit,GBM + monotone constraints,2,checking_none,-0.0029365079365079407
+German Credit,GBM + monotone constraints,2,savings_none,-0.0032539682539682127
+German Credit,GBM + monotone constraints,2,credit_history,-0.004484126984127035
+German Credit,GBM + monotone constraints,2,purpose,0.0641269841269841
+German Credit,GBM + monotone constraints,2,employment,-0.0036507936507936454
+German Credit,GBM + monotone constraints,2,other_parties,0.00583333333333332
+German Credit,GBM + monotone constraints,2,property_magnitude,-0.0005952380952380562
+German Credit,GBM + monotone constraints,2,other_payment_plans,0.015992063492063502
+German Credit,GBM + monotone constraints,2,housing,-0.010674603174603225
+German Credit,GBM + monotone constraints,2,job,-0.008690476190476174
+German Credit,GBM + monotone constraints,2,own_telephone,0.0011904761904761862
+German Credit,GBM + monotone constraints,3,duration,0.013611111111111166
+German Credit,GBM + monotone constraints,3,credit_amount,0.03972222222222229
+German Credit,GBM + monotone constraints,3,installment_commitment,0.02861111111111118
+German Credit,GBM + monotone constraints,3,residence_since,0.004523809523809708
+German Credit,GBM + monotone constraints,3,age,0.006309523809523913
+German Credit,GBM + monotone constraints,3,existing_credits,-0.007738095238095173
+German Credit,GBM + monotone constraints,3,num_dependents,-0.0023809523809522615
+German Credit,GBM + monotone constraints,3,checking_lvl,0.06793650793650803
+German Credit,GBM + monotone constraints,3,savings_lvl,0.01789682539682554
+German Credit,GBM + monotone constraints,3,checking_none,-0.001071428571428464
+German Credit,GBM + monotone constraints,3,savings_none,0.0016666666666667422
+German Credit,GBM + monotone constraints,3,credit_history,0.039444444444444615
+German Credit,GBM + monotone constraints,3,purpose,0.01876984126984138
+German Credit,GBM + monotone constraints,3,employment,0.01079365079365091
+German Credit,GBM + monotone constraints,3,other_parties,0.01571428571428583
+German Credit,GBM + monotone constraints,3,property_magnitude,-0.004523809523809448
+German Credit,GBM + monotone constraints,3,other_payment_plans,0.009880952380952471
+German Credit,GBM + monotone constraints,3,housing,-3.968253968248773e-05
+German Credit,GBM + monotone constraints,3,job,-0.004087301587301455
+German Credit,GBM + monotone constraints,3,own_telephone,0.0036111111111112315
+German Credit,GBM + monotone constraints,4,duration,0.03365079365079363
+German Credit,GBM + monotone constraints,4,credit_amount,0.011825396825396775
+German Credit,GBM + monotone constraints,4,installment_commitment,0.009126984126984131
+German Credit,GBM + monotone constraints,4,residence_since,0.00670634920634916
+German Credit,GBM + monotone constraints,4,age,-0.0003174603174602719
+German Credit,GBM + monotone constraints,4,existing_credits,0.0024206349206349342
+German Credit,GBM + monotone constraints,4,num_dependents,0.0038888888888888675
+German Credit,GBM + monotone constraints,4,checking_lvl,0.11646825396825404
+German Credit,GBM + monotone constraints,4,savings_lvl,0.02214285714285713
+German Credit,GBM + monotone constraints,4,checking_none,0.0013095238095239086
+German Credit,GBM + monotone constraints,4,savings_none,-0.002023809523809502
+German Credit,GBM + monotone constraints,4,credit_history,0.02607142857142856
+German Credit,GBM + monotone constraints,4,purpose,0.06230158730158727
+German Credit,GBM + monotone constraints,4,employment,0.0062301587301587524
+German Credit,GBM + monotone constraints,4,other_parties,0.026865079365079352
+German Credit,GBM + monotone constraints,4,property_magnitude,0.0034920634920635094
+German Credit,GBM + monotone constraints,4,other_payment_plans,0.021468253968253952
+German Credit,GBM + monotone constraints,4,housing,0.006468253968254012
+German Credit,GBM + monotone constraints,4,job,0.0031349206349206757
+German Credit,GBM + monotone constraints,4,own_telephone,0.008055555555555557
+German Credit,GBM + monotone constraints,5,duration,0.033769841269841394
+German Credit,GBM + monotone constraints,5,credit_amount,0.020833333333333443
+German Credit,GBM + monotone constraints,5,installment_commitment,-0.011507936507936356
+German Credit,GBM + monotone constraints,5,residence_since,-0.001230158730158711
+German Credit,GBM + monotone constraints,5,age,-0.006388888888888815
+German Credit,GBM + monotone constraints,5,existing_credits,0.0017857142857144275
+German Credit,GBM + monotone constraints,5,num_dependents,0.0007539682539683771
+German Credit,GBM + monotone constraints,5,checking_lvl,0.08694444444444453
+German Credit,GBM + monotone constraints,5,savings_lvl,0.012023809523809622
+German Credit,GBM + monotone constraints,5,checking_none,-0.00015873015873002494
+German Credit,GBM + monotone constraints,5,savings_none,0.00023809523809537048
+German Credit,GBM + monotone constraints,5,credit_history,0.023492063492063602
+German Credit,GBM + monotone constraints,5,purpose,0.031190476190476286
+German Credit,GBM + monotone constraints,5,employment,0.02011904761904774
+German Credit,GBM + monotone constraints,5,other_parties,0.013650793650793839
+German Credit,GBM + monotone constraints,5,property_magnitude,0.008531746031746112
+German Credit,GBM + monotone constraints,5,other_payment_plans,0.017698412698412807
+German Credit,GBM + monotone constraints,5,housing,-0.0028174603174602186
+German Credit,GBM + monotone constraints,5,job,0.00019841269841280873
+German Credit,GBM + monotone constraints,5,own_telephone,0.006547619047619246
+German Credit,GBM + monotone constraints,6,duration,0.020158730158730265
+German Credit,GBM + monotone constraints,6,credit_amount,-0.002142857142856965
+German Credit,GBM + monotone constraints,6,installment_commitment,0.01642857142857157
+German Credit,GBM + monotone constraints,6,residence_since,-0.006428571428571265
+German Credit,GBM + monotone constraints,6,age,0.005515873015873122
+German Credit,GBM + monotone constraints,6,existing_credits,0.004404761904762022
+German Credit,GBM + monotone constraints,6,num_dependents,0.0028571428571430393
+German Credit,GBM + monotone constraints,6,checking_lvl,0.10329365079365098
+German Credit,GBM + monotone constraints,6,savings_lvl,0.010515873015873164
+German Credit,GBM + monotone constraints,6,checking_none,-0.0011111111111109147
+German Credit,GBM + monotone constraints,6,savings_none,-0.0004365079365078091
+German Credit,GBM + monotone constraints,6,credit_history,0.029920634920635014
+German Credit,GBM + monotone constraints,6,purpose,0.04734126984126996
+German Credit,GBM + monotone constraints,6,employment,0.005714285714285894
+German Credit,GBM + monotone constraints,6,other_parties,0.004166666666666726
+German Credit,GBM + monotone constraints,6,property_magnitude,-0.015158730158730038
+German Credit,GBM + monotone constraints,6,other_payment_plans,0.013769841269841376
+German Credit,GBM + monotone constraints,6,housing,-0.004761904761904597
+German Credit,GBM + monotone constraints,6,job,-0.00809523809523797
+German Credit,GBM + monotone constraints,6,own_telephone,0.0019047619047620756
+German Credit,GBM + monotone constraints,7,duration,0.03531746031746045
+German Credit,GBM + monotone constraints,7,credit_amount,0.026507936507936664
+German Credit,GBM + monotone constraints,7,installment_commitment,0.007777777777777883
+German Credit,GBM + monotone constraints,7,residence_since,-0.0008333333333332046
+German Credit,GBM + monotone constraints,7,age,-0.003214285714285577
+German Credit,GBM + monotone constraints,7,existing_credits,-0.003373015873015713
+German Credit,GBM + monotone constraints,7,num_dependents,0.0006349206349208399
+German Credit,GBM + monotone constraints,7,checking_lvl,0.08845238095238106
+German Credit,GBM + monotone constraints,7,savings_lvl,0.016865079365079454
+German Credit,GBM + monotone constraints,7,checking_none,-0.00023809523809511143
+German Credit,GBM + monotone constraints,7,savings_none,-0.0001190476190474632
+German Credit,GBM + monotone constraints,7,credit_history,0.011666666666666789
+German Credit,GBM + monotone constraints,7,purpose,0.0038095238095240034
+German Credit,GBM + monotone constraints,7,employment,0.008849206349206459
+German Credit,GBM + monotone constraints,7,other_parties,0.003412698412698534
+German Credit,GBM + monotone constraints,7,property_magnitude,0.0037698412698413675
+German Credit,GBM + monotone constraints,7,other_payment_plans,0.01626984126984136
+German Credit,GBM + monotone constraints,7,housing,0.0009126984126984761
+German Credit,GBM + monotone constraints,7,job,0.001547619047619168
+German Credit,GBM + monotone constraints,7,own_telephone,0.002619047619047706
+German Credit,GBM + monotone constraints,8,duration,0.031865079365079395
+German Credit,GBM + monotone constraints,8,credit_amount,0.04059523809523813
+German Credit,GBM + monotone constraints,8,installment_commitment,0.01003968253968257
+German Credit,GBM + monotone constraints,8,residence_since,0.001388888888888884
+German Credit,GBM + monotone constraints,8,age,0.019722222222222197
+German Credit,GBM + monotone constraints,8,existing_credits,0.003373015873015898
+German Credit,GBM + monotone constraints,8,num_dependents,0.0001984126984127347
+German Credit,GBM + monotone constraints,8,checking_lvl,0.08063492063492073
+German Credit,GBM + monotone constraints,8,savings_lvl,0.02214285714285713
+German Credit,GBM + monotone constraints,8,checking_none,-0.00023809523809522246
+German Credit,GBM + monotone constraints,8,savings_none,0.0008333333333333895
+German Credit,GBM + monotone constraints,8,credit_history,0.029761904761904805
+German Credit,GBM + monotone constraints,8,purpose,0.016944444444444467
+German Credit,GBM + monotone constraints,8,employment,0.008968253968253959
+German Credit,GBM + monotone constraints,8,other_parties,0.014206349206349259
+German Credit,GBM + monotone constraints,8,property_magnitude,-0.0005158730158730066
+German Credit,GBM + monotone constraints,8,other_payment_plans,0.012063492063492073
+German Credit,GBM + monotone constraints,8,housing,-0.0045238095238094855
+German Credit,GBM + monotone constraints,8,job,0.0016269841269841434
+German Credit,GBM + monotone constraints,8,own_telephone,0.002420634920634971
+German Credit,GBM + monotone constraints,9,duration,0.00599206349206353
+German Credit,GBM + monotone constraints,9,credit_amount,-0.01365079365079358
+German Credit,GBM + monotone constraints,9,installment_commitment,0.004841269841269942
+German Credit,GBM + monotone constraints,9,residence_since,0.004603174603174646
+German Credit,GBM + monotone constraints,9,age,-0.014920634920634815
+German Credit,GBM + monotone constraints,9,existing_credits,-0.006428571428571339
+German Credit,GBM + monotone constraints,9,num_dependents,-0.004960317460317369
+German Credit,GBM + monotone constraints,9,checking_lvl,0.07511904761904771
+German Credit,GBM + monotone constraints,9,savings_lvl,-0.004960317460317369
+German Credit,GBM + monotone constraints,9,checking_none,-0.0003968253968252844
+German Credit,GBM + monotone constraints,9,savings_none,-0.0006746031746031056
+German Credit,GBM + monotone constraints,9,credit_history,0.011388888888889004
+German Credit,GBM + monotone constraints,9,purpose,0.02670634920634929
+German Credit,GBM + monotone constraints,9,employment,0.01638888888888901
+German Credit,GBM + monotone constraints,9,other_parties,0.008174603174603242
+German Credit,GBM + monotone constraints,9,property_magnitude,-0.0018253968253967672
+German Credit,GBM + monotone constraints,9,other_payment_plans,0.004285714285714411
+German Credit,GBM + monotone constraints,9,housing,0.00011904761904768524
+German Credit,GBM + monotone constraints,9,job,-0.0036111111111110463
+German Credit,GBM + monotone constraints,9,own_telephone,0.0048015873015873805
+German Credit,GBM + monotone constraints,10,duration,0.03706349206349213
+German Credit,GBM + monotone constraints,10,credit_amount,0.04186507936507936
+German Credit,GBM + monotone constraints,10,installment_commitment,0.03686507936507932
+German Credit,GBM + monotone constraints,10,residence_since,0.008690476190476174
+German Credit,GBM + monotone constraints,10,age,0.009047619047619119
+German Credit,GBM + monotone constraints,10,existing_credits,0.0055952380952380976
+German Credit,GBM + monotone constraints,10,num_dependents,0.01706349206349204
+German Credit,GBM + monotone constraints,10,checking_lvl,0.0950396825396825
+German Credit,GBM + monotone constraints,10,savings_lvl,0.005119047619047652
+German Credit,GBM + monotone constraints,10,checking_none,-0.0022619047619046873
+German Credit,GBM + monotone constraints,10,savings_none,0.0
+German Credit,GBM + monotone constraints,10,credit_history,0.01571428571428572
+German Credit,GBM + monotone constraints,10,purpose,0.045634920634920695
+German Credit,GBM + monotone constraints,10,employment,0.019682539682539673
+German Credit,GBM + monotone constraints,10,other_parties,0.014484126984127044
+German Credit,GBM + monotone constraints,10,property_magnitude,0.0033333333333332993
+German Credit,GBM + monotone constraints,10,other_payment_plans,0.010753968253968238
+German Credit,GBM + monotone constraints,10,housing,-0.003055555555555589
+German Credit,GBM + monotone constraints,10,job,0.0034920634920634352
+German Credit,GBM + monotone constraints,10,own_telephone,-0.007817460317460334
+German Credit,GBM + monotone constraints,11,duration,0.02317460317460322
+German Credit,GBM + monotone constraints,11,credit_amount,0.020674603174603196
+German Credit,GBM + monotone constraints,11,installment_commitment,-0.003849206349206269
+German Credit,GBM + monotone constraints,11,residence_since,-0.009880952380952398
+German Credit,GBM + monotone constraints,11,age,0.014166666666666697
+German Credit,GBM + monotone constraints,11,existing_credits,0.006150793650793666
+German Credit,GBM + monotone constraints,11,num_dependents,0.004246031746031775
+German Credit,GBM + monotone constraints,11,checking_lvl,0.0928174603174603
+German Credit,GBM + monotone constraints,11,savings_lvl,0.02214285714285717
+German Credit,GBM + monotone constraints,11,checking_none,-0.0031746031746031265
+German Credit,GBM + monotone constraints,11,savings_none,-0.0004761904761904449
+German Credit,GBM + monotone constraints,11,credit_history,0.01130952380952377
+German Credit,GBM + monotone constraints,11,purpose,0.01896825396825404
+German Credit,GBM + monotone constraints,11,employment,0.0055555555555554985
+German Credit,GBM + monotone constraints,11,other_parties,0.002341269841269885
+German Credit,GBM + monotone constraints,11,property_magnitude,-0.004007936507936516
+German Credit,GBM + monotone constraints,11,other_payment_plans,0.029761904761904805
+German Credit,GBM + monotone constraints,11,housing,0.008214285714285693
+German Credit,GBM + monotone constraints,11,job,0.0007142857142857414
+German Credit,GBM + monotone constraints,11,own_telephone,0.0020238095238095757
+German Credit,GBM + monotone constraints,12,duration,0.025396825396825418
+German Credit,GBM + monotone constraints,12,credit_amount,0.03436507936507934
+German Credit,GBM + monotone constraints,12,installment_commitment,0.0026984126984126813
+German Credit,GBM + monotone constraints,12,residence_since,-0.002261904761904835
+German Credit,GBM + monotone constraints,12,age,-0.012222222222222282
+German Credit,GBM + monotone constraints,12,existing_credits,0.00011904761904757422
+German Credit,GBM + monotone constraints,12,num_dependents,0.0046428571428571335
+German Credit,GBM + monotone constraints,12,checking_lvl,0.06837301587301581
+German Credit,GBM + monotone constraints,12,savings_lvl,0.021746031746031663
+German Credit,GBM + monotone constraints,12,checking_none,-0.0001984126984126607
+German Credit,GBM + monotone constraints,12,savings_none,-0.001230158730158785
+German Credit,GBM + monotone constraints,12,credit_history,0.004999999999999931
+German Credit,GBM + monotone constraints,12,purpose,0.008333333333333267
+German Credit,GBM + monotone constraints,12,employment,0.00833333333333334
+German Credit,GBM + monotone constraints,12,other_parties,0.007698412698412649
+German Credit,GBM + monotone constraints,12,property_magnitude,0.004166666666666615
+German Credit,GBM + monotone constraints,12,other_payment_plans,0.006428571428571376
+German Credit,GBM + monotone constraints,12,housing,0.001984126984126977
+German Credit,GBM + monotone constraints,12,job,-0.0003571428571428707
+German Credit,GBM + monotone constraints,12,own_telephone,-0.009047619047619157
+German Credit,GBM + monotone constraints,13,duration,0.017579365079365156
+German Credit,GBM + monotone constraints,13,credit_amount,0.020952380952381056
+German Credit,GBM + monotone constraints,13,installment_commitment,0.005912698412698518
+German Credit,GBM + monotone constraints,13,residence_since,-0.00043650793650784614
+German Credit,GBM + monotone constraints,13,age,0.013809523809523938
+German Credit,GBM + monotone constraints,13,existing_credits,0.006230158730158901
+German Credit,GBM + monotone constraints,13,num_dependents,0.002301587301587397
+German Credit,GBM + monotone constraints,13,checking_lvl,0.12190476190476207
+German Credit,GBM + monotone constraints,13,savings_lvl,0.030079365079365223
+German Credit,GBM + monotone constraints,13,checking_none,0.0008730158730159513
+German Credit,GBM + monotone constraints,13,savings_none,0.0
+German Credit,GBM + monotone constraints,13,credit_history,0.024404761904762002
+German Credit,GBM + monotone constraints,13,purpose,0.04634920634920647
+German Credit,GBM + monotone constraints,13,employment,0.006587301587301697
+German Credit,GBM + monotone constraints,13,other_parties,0.012103174603174671
+German Credit,GBM + monotone constraints,13,property_magnitude,0.00543650793650811
+German Credit,GBM + monotone constraints,13,other_payment_plans,0.014880952380952514
+German Credit,GBM + monotone constraints,13,housing,-0.001071428571428464
+German Credit,GBM + monotone constraints,13,job,0.002976190476190651
+German Credit,GBM + monotone constraints,13,own_telephone,0.00476190476190493
+German Credit,GBM + monotone constraints,14,duration,0.010873015873015887
+German Credit,GBM + monotone constraints,14,credit_amount,-0.0011507936507936616
+German Credit,GBM + monotone constraints,14,installment_commitment,0.0022222222222221997
+German Credit,GBM + monotone constraints,14,residence_since,-0.0009920634920635625
+German Credit,GBM + monotone constraints,14,age,-0.03551587301587308
+German Credit,GBM + monotone constraints,14,existing_credits,-0.008015873015872995
+German Credit,GBM + monotone constraints,14,num_dependents,0.0018650793650792918
+German Credit,GBM + monotone constraints,14,checking_lvl,0.0922222222222222
+German Credit,GBM + monotone constraints,14,savings_lvl,0.020555555555555476
+German Credit,GBM + monotone constraints,14,checking_none,-0.0002777777777777842
+German Credit,GBM + monotone constraints,14,savings_none,0.0006746031746031056
+German Credit,GBM + monotone constraints,14,credit_history,0.0015079365079363842
+German Credit,GBM + monotone constraints,14,purpose,0.038968253968253874
+German Credit,GBM + monotone constraints,14,employment,-0.005158730158730251
+German Credit,GBM + monotone constraints,14,other_parties,0.012976190476190438
+German Credit,GBM + monotone constraints,14,property_magnitude,-0.011507936507936578
+German Credit,GBM + monotone constraints,14,other_payment_plans,0.004682539682539659
+German Credit,GBM + monotone constraints,14,housing,0.0014682539682539704
+German Credit,GBM + monotone constraints,14,job,-0.0008730158730159143
+German Credit,GBM + monotone constraints,14,own_telephone,-0.002301587301587397
+German Credit,GBM + both (knowledge-augmented),0,duration,0.020039682539682618
+German Credit,GBM + both (knowledge-augmented),0,credit_amount,0.02388888888888896
+German Credit,GBM + both (knowledge-augmented),0,installment_commitment,-0.0026587301587301195
+German Credit,GBM + both (knowledge-augmented),0,residence_since,0.006984126984127019
+German Credit,GBM + both (knowledge-augmented),0,age,0.002777777777777879
+German Credit,GBM + both (knowledge-augmented),0,existing_credits,0.0055555555555556095
+German Credit,GBM + both (knowledge-augmented),0,num_dependents,0.00035714285714290767
+German Credit,GBM + both (knowledge-augmented),0,checking_lvl,0.10686507936507939
+German Credit,GBM + both (knowledge-augmented),0,savings_lvl,0.004960317460317554
+German Credit,GBM + both (knowledge-augmented),0,checking_none,-0.0024999999999999836
+German Credit,GBM + both (knowledge-augmented),0,savings_none,0.0002777777777778212
+German Credit,GBM + both (knowledge-augmented),0,credit_history,0.024484126984127014
+German Credit,GBM + both (knowledge-augmented),0,purpose,0.0290476190476191
+German Credit,GBM + both (knowledge-augmented),0,employment,0.010119047619047694
+German Credit,GBM + both (knowledge-augmented),0,other_parties,-0.01555555555555547
+German Credit,GBM + both (knowledge-augmented),0,property_magnitude,0.003888888888889016
+German Credit,GBM + both (knowledge-augmented),0,other_payment_plans,0.01388888888888895
+German Credit,GBM + both (knowledge-augmented),0,housing,0.007182539682539753
+German Credit,GBM + both (knowledge-augmented),0,job,3.9682539682561746e-05
+German Credit,GBM + both (knowledge-augmented),0,own_telephone,-0.007420634920634865
+German Credit,GBM + both (knowledge-augmented),1,duration,0.012420634920635018
+German Credit,GBM + both (knowledge-augmented),1,credit_amount,0.003055555555555626
+German Credit,GBM + both (knowledge-augmented),1,installment_commitment,-0.0015873015873015077
+German Credit,GBM + both (knowledge-augmented),1,residence_since,0.0008333333333334266
+German Credit,GBM + both (knowledge-augmented),1,age,0.0002777777777778212
+German Credit,GBM + both (knowledge-augmented),1,existing_credits,0.0019047619047619275
+German Credit,GBM + both (knowledge-augmented),1,num_dependents,-0.0026984126984126076
+German Credit,GBM + both (knowledge-augmented),1,checking_lvl,0.07277777777777783
+German Credit,GBM + both (knowledge-augmented),1,savings_lvl,0.0073015873015873645
+German Credit,GBM + both (knowledge-augmented),1,checking_none,0.0003968253968253954
+German Credit,GBM + both (knowledge-augmented),1,savings_none,-0.0017460317460317547
+German Credit,GBM + both (knowledge-augmented),1,credit_history,0.020198412698412715
+German Credit,GBM + both (knowledge-augmented),1,purpose,0.017817460317460416
+German Credit,GBM + both (knowledge-augmented),1,employment,-0.006309523809523728
+German Credit,GBM + both (knowledge-augmented),1,other_parties,-0.004087301587301455
+German Credit,GBM + both (knowledge-augmented),1,property_magnitude,0.001547619047619131
+German Credit,GBM + both (knowledge-augmented),1,other_payment_plans,0.0014285714285715196
+German Credit,GBM + both (knowledge-augmented),1,housing,-0.0046825396825396215
+German Credit,GBM + both (knowledge-augmented),1,job,-0.0014285714285713347
+German Credit,GBM + both (knowledge-augmented),1,own_telephone,0.004722222222222368
+German Credit,GBM + both (knowledge-augmented),2,duration,-0.0011507936507935135
+German Credit,GBM + both (knowledge-augmented),2,credit_amount,-0.006468253968253901
+German Credit,GBM + both (knowledge-augmented),2,installment_commitment,0.02206349206349219
+German Credit,GBM + both (knowledge-augmented),2,residence_since,0.0061111111111112155
+German Credit,GBM + both (knowledge-augmented),2,age,0.01543650793650797
+German Credit,GBM + both (knowledge-augmented),2,existing_credits,0.004365079365079534
+German Credit,GBM + both (knowledge-augmented),2,num_dependents,0.004603174603174646
+German Credit,GBM + both (knowledge-augmented),2,checking_lvl,0.06507936507936514
+German Credit,GBM + both (knowledge-augmented),2,savings_lvl,0.038968253968254096
+German Credit,GBM + both (knowledge-augmented),2,checking_none,-0.001547619047618909
+German Credit,GBM + both (knowledge-augmented),2,savings_none,-0.00023809523809514843
+German Credit,GBM + both (knowledge-augmented),2,credit_history,-0.005238095238095153
+German Credit,GBM + both (knowledge-augmented),2,purpose,0.08142857142857152
+German Credit,GBM + both (knowledge-augmented),2,employment,0.0019047619047620017
+German Credit,GBM + both (knowledge-augmented),2,other_parties,0.008452380952381064
+German Credit,GBM + both (knowledge-augmented),2,property_magnitude,0.0025396825396826936
+German Credit,GBM + both (knowledge-augmented),2,other_payment_plans,0.02265873015873025
+German Credit,GBM + both (knowledge-augmented),2,housing,-0.009722222222222113
+German Credit,GBM + both (knowledge-augmented),2,job,-0.004126984126984053
+German Credit,GBM + both (knowledge-augmented),2,own_telephone,0.005595238095238209
+German Credit,GBM + both (knowledge-augmented),3,duration,0.017579365079365045
+German Credit,GBM + both (knowledge-augmented),3,credit_amount,0.04869047619047614
+German Credit,GBM + both (knowledge-augmented),3,installment_commitment,0.025396825396825345
+German Credit,GBM + both (knowledge-augmented),3,residence_since,0.0021825396825396006
+German Credit,GBM + both (knowledge-augmented),3,age,0.0010317460317459763
+German Credit,GBM + both (knowledge-augmented),3,existing_credits,-0.0069841269841269815
+German Credit,GBM + both (knowledge-augmented),3,num_dependents,-0.005476190476190597
+German Credit,GBM + both (knowledge-augmented),3,checking_lvl,0.07623015873015866
+German Credit,GBM + both (knowledge-augmented),3,savings_lvl,0.012261904761904696
+German Credit,GBM + both (knowledge-augmented),3,checking_none,-0.000912698412698513
+German Credit,GBM + both (knowledge-augmented),3,savings_none,0.0011507936507935506
+German Credit,GBM + both (knowledge-augmented),3,credit_history,0.033888888888888746
+German Credit,GBM + both (knowledge-augmented),3,purpose,0.023095238095238096
+German Credit,GBM + both (knowledge-augmented),3,employment,0.011031746031745985
+German Credit,GBM + both (knowledge-augmented),3,other_parties,0.016547619047618995
+German Credit,GBM + both (knowledge-augmented),3,property_magnitude,-0.014880952380952476
+German Credit,GBM + both (knowledge-augmented),3,other_payment_plans,-7.93650793651605e-05
+German Credit,GBM + both (knowledge-augmented),3,housing,0.005357142857142838
+German Credit,GBM + both (knowledge-augmented),3,job,-0.005000000000000078
+German Credit,GBM + both (knowledge-augmented),3,own_telephone,0.005277777777777715
+German Credit,GBM + both (knowledge-augmented),4,duration,0.027182539682539548
+German Credit,GBM + both (knowledge-augmented),4,credit_amount,0.01071428571428564
+German Credit,GBM + both (knowledge-augmented),4,installment_commitment,0.009603174603174502
+German Credit,GBM + both (knowledge-augmented),4,residence_since,0.0023809523809522983
+German Credit,GBM + both (knowledge-augmented),4,age,-0.0010317460317460503
+German Credit,GBM + both (knowledge-augmented),4,existing_credits,0.0037698412698411823
+German Credit,GBM + both (knowledge-augmented),4,num_dependents,0.005714285714285598
+German Credit,GBM + both (knowledge-augmented),4,checking_lvl,0.0974603174603174
+German Credit,GBM + both (knowledge-augmented),4,savings_lvl,0.021190476190476093
+German Credit,GBM + both (knowledge-augmented),4,checking_none,3.968253968252474e-05
+German Credit,GBM + both (knowledge-augmented),4,savings_none,-0.003253968253968361
+German Credit,GBM + both (knowledge-augmented),4,credit_history,0.02317460317460307
+German Credit,GBM + both (knowledge-augmented),4,purpose,0.054960317460317376
+German Credit,GBM + both (knowledge-augmented),4,employment,0.008293650793650742
+German Credit,GBM + both (knowledge-augmented),4,other_parties,0.02623015873015862
+German Credit,GBM + both (knowledge-augmented),4,property_magnitude,0.002301587301587212
+German Credit,GBM + both (knowledge-augmented),4,other_payment_plans,0.019126984126983992
+German Credit,GBM + both (knowledge-augmented),4,housing,0.0011904761904760752
+German Credit,GBM + both (knowledge-augmented),4,job,0.0032936507936506634
+German Credit,GBM + both (knowledge-augmented),4,own_telephone,0.009484126984126892
+German Credit,GBM + both (knowledge-augmented),5,duration,0.029126984126983963
+German Credit,GBM + both (knowledge-augmented),5,credit_amount,0.007261904761904654
+German Credit,GBM + both (knowledge-augmented),5,installment_commitment,-0.01615079365079382
+German Credit,GBM + both (knowledge-augmented),5,residence_since,-0.0028174603174604775
+German Credit,GBM + both (knowledge-augmented),5,age,-0.009047619047619119
+German Credit,GBM + both (knowledge-augmented),5,existing_credits,-0.0028571428571429656
+German Credit,GBM + both (knowledge-augmented),5,num_dependents,0.0004365079365077351
+German Credit,GBM + both (knowledge-augmented),5,checking_lvl,0.08095238095238082
+German Credit,GBM + both (knowledge-augmented),5,savings_lvl,0.012658730158730055
+German Credit,GBM + both (knowledge-augmented),5,checking_none,-3.968253968267277e-05
+German Credit,GBM + both (knowledge-augmented),5,savings_none,-3.968253968263576e-05
+German Credit,GBM + both (knowledge-augmented),5,credit_history,0.029325396825396737
+German Credit,GBM + both (knowledge-augmented),5,purpose,0.03194444444444433
+German Credit,GBM + both (knowledge-augmented),5,employment,0.014722222222222118
+German Credit,GBM + both (knowledge-augmented),5,other_parties,0.013928571428571254
+German Credit,GBM + both (knowledge-augmented),5,property_magnitude,0.01432539682539665
+German Credit,GBM + both (knowledge-augmented),5,other_payment_plans,0.014682539682539594
+German Credit,GBM + both (knowledge-augmented),5,housing,-0.0020238095238096867
+German Credit,GBM + both (knowledge-augmented),5,job,-0.002777777777777916
+German Credit,GBM + both (knowledge-augmented),5,own_telephone,0.007460317460317352
+German Credit,GBM + both (knowledge-augmented),6,duration,0.023412698412698402
+German Credit,GBM + both (knowledge-augmented),6,credit_amount,-0.0003174603174602719
+German Credit,GBM + both (knowledge-augmented),6,installment_commitment,0.022222222222222216
+German Credit,GBM + both (knowledge-augmented),6,residence_since,-0.003015873015872953
+German Credit,GBM + both (knowledge-augmented),6,age,0.00821428571428573
+German Credit,GBM + both (knowledge-augmented),6,existing_credits,0.008531746031746001
+German Credit,GBM + both (knowledge-augmented),6,num_dependents,0.0031349206349206016
+German Credit,GBM + both (knowledge-augmented),6,checking_lvl,0.10837301587301588
+German Credit,GBM + both (knowledge-augmented),6,savings_lvl,0.01674603174603177
+German Credit,GBM + both (knowledge-augmented),6,checking_none,0.0006746031746031796
+German Credit,GBM + both (knowledge-augmented),6,savings_none,0.0002777777777777842
+German Credit,GBM + both (knowledge-augmented),6,credit_history,0.0256746031746032
+German Credit,GBM + both (knowledge-augmented),6,purpose,0.05416666666666673
+German Credit,GBM + both (knowledge-augmented),6,employment,0.0032936507936508117
+German Credit,GBM + both (knowledge-augmented),6,other_parties,0.008769841269841335
+German Credit,GBM + both (knowledge-augmented),6,property_magnitude,-0.0026984126984127186
+German Credit,GBM + both (knowledge-augmented),6,other_payment_plans,0.012896825396825426
+German Credit,GBM + both (knowledge-augmented),6,housing,0.0008730158730158774
+German Credit,GBM + both (knowledge-augmented),6,job,-0.005912698412698407
+German Credit,GBM + both (knowledge-augmented),6,own_telephone,0.005833333333333394
+German Credit,GBM + both (knowledge-augmented),7,duration,0.03472222222222221
+German Credit,GBM + both (knowledge-augmented),7,credit_amount,0.03468253968253965
+German Credit,GBM + both (knowledge-augmented),7,installment_commitment,0.008174603174603093
+German Credit,GBM + both (knowledge-augmented),7,residence_since,0.003214285714285688
+German Credit,GBM + both (knowledge-augmented),7,age,-0.0005952380952381301
+German Credit,GBM + both (knowledge-augmented),7,existing_credits,0.00043650793650788316
+German Credit,GBM + both (knowledge-augmented),7,num_dependents,0.0014285714285714086
+German Credit,GBM + both (knowledge-augmented),7,checking_lvl,0.08892857142857143
+German Credit,GBM + both (knowledge-augmented),7,savings_lvl,0.019325396825396763
+German Credit,GBM + both (knowledge-augmented),7,checking_none,0.0001190476190475372
+German Credit,GBM + both (knowledge-augmented),7,savings_none,0.0
+German Credit,GBM + both (knowledge-augmented),7,credit_history,0.018928571428571444
+German Credit,GBM + both (knowledge-augmented),7,purpose,0.00801587301587292
+German Credit,GBM + both (knowledge-augmented),7,employment,0.010873015873015849
+German Credit,GBM + both (knowledge-augmented),7,other_parties,-0.00011904761904764823
+German Credit,GBM + both (knowledge-augmented),7,property_magnitude,0.0016666666666666312
+German Credit,GBM + both (knowledge-augmented),7,other_payment_plans,0.009126984126984058
+German Credit,GBM + both (knowledge-augmented),7,housing,0.008928571428571433
+German Credit,GBM + both (knowledge-augmented),7,job,0.0006746031746031426
+German Credit,GBM + both (knowledge-augmented),7,own_telephone,0.006190476190476153
+German Credit,GBM + both (knowledge-augmented),8,duration,0.03353174603174599
+German Credit,GBM + both (knowledge-augmented),8,credit_amount,0.04591269841269837
+German Credit,GBM + both (knowledge-augmented),8,installment_commitment,0.007222222222222204
+German Credit,GBM + both (knowledge-augmented),8,residence_since,-0.0034126984126984596
+German Credit,GBM + both (knowledge-augmented),8,age,0.013452380952380919
+German Credit,GBM + both (knowledge-augmented),8,existing_credits,0.0046825396825396215
+German Credit,GBM + both (knowledge-augmented),8,num_dependents,0.0032936507936507744
+German Credit,GBM + both (knowledge-augmented),8,checking_lvl,0.08452380952380945
+German Credit,GBM + both (knowledge-augmented),8,savings_lvl,0.017698412698412658
+German Credit,GBM + both (knowledge-augmented),8,checking_none,-0.0011507936507937355
+German Credit,GBM + both (knowledge-augmented),8,savings_none,-3.700743415417188e-17
+German Credit,GBM + both (knowledge-augmented),8,credit_history,0.03115079365079369
+German Credit,GBM + both (knowledge-augmented),8,purpose,0.006031746031745981
+German Credit,GBM + both (knowledge-augmented),8,employment,0.0013095238095237605
+German Credit,GBM + both (knowledge-augmented),8,other_parties,0.013412698412698357
+German Credit,GBM + both (knowledge-augmented),8,property_magnitude,0.002023809523809428
+German Credit,GBM + both (knowledge-augmented),8,other_payment_plans,0.007857142857142785
+German Credit,GBM + both (knowledge-augmented),8,housing,-0.0002777777777778212
+German Credit,GBM + both (knowledge-augmented),8,job,-0.0014285714285714828
+German Credit,GBM + both (knowledge-augmented),8,own_telephone,0.001071428571428501
+German Credit,GBM + both (knowledge-augmented),9,duration,0.0073015873015872534
+German Credit,GBM + both (knowledge-augmented),9,credit_amount,-0.014880952380952439
+German Credit,GBM + both (knowledge-augmented),9,installment_commitment,0.0034920634920634352
+German Credit,GBM + both (knowledge-augmented),9,residence_since,0.002341269841269774
+German Credit,GBM + both (knowledge-augmented),9,age,-0.005396825396825437
+German Credit,GBM + both (knowledge-augmented),9,existing_credits,-0.0028571428571429283
+German Credit,GBM + both (knowledge-augmented),9,num_dependents,-0.006111111111111178
+German Credit,GBM + both (knowledge-augmented),9,checking_lvl,0.08067460317460307
+German Credit,GBM + both (knowledge-augmented),9,savings_lvl,0.0017460317460317176
+German Credit,GBM + both (knowledge-augmented),9,checking_none,0.001230158730158711
+German Credit,GBM + both (knowledge-augmented),9,savings_none,-0.0013492063492063593
+German Credit,GBM + both (knowledge-augmented),9,credit_history,0.025912698412698314
+German Credit,GBM + both (knowledge-augmented),9,purpose,0.03821428571428561
+German Credit,GBM + both (knowledge-augmented),9,employment,0.019404761904761814
+German Credit,GBM + both (knowledge-augmented),9,other_parties,0.006626984126984037
+German Credit,GBM + both (knowledge-augmented),9,property_magnitude,0.0007142857142856304
+German Credit,GBM + both (knowledge-augmented),9,other_payment_plans,0.0038492063492061948
+German Credit,GBM + both (knowledge-augmented),9,housing,0.002896825396825268
+German Credit,GBM + both (knowledge-augmented),9,job,0.0006349206349205069
+German Credit,GBM + both (knowledge-augmented),9,own_telephone,0.012023809523809473
+German Credit,GBM + both (knowledge-augmented),10,duration,0.028134920634920735
+German Credit,GBM + both (knowledge-augmented),10,credit_amount,0.04238095238095252
+German Credit,GBM + both (knowledge-augmented),10,installment_commitment,0.02742063492063503
+German Credit,GBM + both (knowledge-augmented),10,residence_since,0.0008333333333334266
+German Credit,GBM + both (knowledge-augmented),10,age,-0.0031349206349205647
+German Credit,GBM + both (knowledge-augmented),10,existing_credits,0.004603174603174683
+German Credit,GBM + both (knowledge-augmented),10,num_dependents,0.009761904761904786
+German Credit,GBM + both (knowledge-augmented),10,checking_lvl,0.09408730158730168
+German Credit,GBM + both (knowledge-augmented),10,savings_lvl,0.008373015873015976
+German Credit,GBM + both (knowledge-augmented),10,checking_none,-0.0020238095238094647
+German Credit,GBM + both (knowledge-augmented),10,savings_none,0.0
+German Credit,GBM + both (knowledge-augmented),10,credit_history,0.014722222222222303
+German Credit,GBM + both (knowledge-augmented),10,purpose,0.0407539682539683
+German Credit,GBM + both (knowledge-augmented),10,employment,0.017301587301587373
+German Credit,GBM + both (knowledge-augmented),10,other_parties,0.013888888888889025
+German Credit,GBM + both (knowledge-augmented),10,property_magnitude,0.0024206349206350453
+German Credit,GBM + both (knowledge-augmented),10,other_payment_plans,0.00742063492063505
+German Credit,GBM + both (knowledge-augmented),10,housing,-0.010595238095237991
+German Credit,GBM + both (knowledge-augmented),10,job,-0.002301587301587249
+German Credit,GBM + both (knowledge-augmented),10,own_telephone,-0.013571428571428457
+German Credit,GBM + both (knowledge-augmented),11,duration,0.023611111111111138
+German Credit,GBM + both (knowledge-augmented),11,credit_amount,0.024404761904761856
+German Credit,GBM + both (knowledge-augmented),11,installment_commitment,-0.004960317460317443
+German Credit,GBM + both (knowledge-augmented),11,residence_since,-0.014007936507936525
+German Credit,GBM + both (knowledge-augmented),11,age,0.00547619047619045
+German Credit,GBM + both (knowledge-augmented),11,existing_credits,0.0038888888888888675
+German Credit,GBM + both (knowledge-augmented),11,num_dependents,0.003373015873015824
+German Credit,GBM + both (knowledge-augmented),11,checking_lvl,0.08908730158730156
+German Credit,GBM + both (knowledge-augmented),11,savings_lvl,0.017896825396825355
+German Credit,GBM + both (knowledge-augmented),11,checking_none,-0.0015079365079366063
+German Credit,GBM + both (knowledge-augmented),11,savings_none,-0.0004761904761905189
+German Credit,GBM + both (knowledge-augmented),11,credit_history,-0.0006349206349206549
+German Credit,GBM + both (knowledge-augmented),11,purpose,0.012738095238095215
+German Credit,GBM + both (knowledge-augmented),11,employment,-0.0008730158730159513
+German Credit,GBM + both (knowledge-augmented),11,other_parties,0.0020634920634921006
+German Credit,GBM + both (knowledge-augmented),11,property_magnitude,0.0004761904761904449
+German Credit,GBM + both (knowledge-augmented),11,other_payment_plans,0.023214285714285743
+German Credit,GBM + both (knowledge-augmented),11,housing,0.004206349206349176
+German Credit,GBM + both (knowledge-augmented),11,job,0.0016269841269840695
+German Credit,GBM + both (knowledge-augmented),11,own_telephone,0.0047222222222222205
+German Credit,GBM + both (knowledge-augmented),12,duration,0.024563492063492176
+German Credit,GBM + both (knowledge-augmented),12,credit_amount,0.03773809523809527
+German Credit,GBM + both (knowledge-augmented),12,installment_commitment,0.004841269841269906
+German Credit,GBM + both (knowledge-augmented),12,residence_since,0.004087301587301677
+German Credit,GBM + both (knowledge-augmented),12,age,-0.004801587301587196
+German Credit,GBM + both (knowledge-augmented),12,existing_credits,0.0008730158730159143
+German Credit,GBM + both (knowledge-augmented),12,num_dependents,0.004722222222222294
+German Credit,GBM + both (knowledge-augmented),12,checking_lvl,0.06448412698412702
+German Credit,GBM + both (knowledge-augmented),12,savings_lvl,0.02123015873015884
+German Credit,GBM + both (knowledge-augmented),12,checking_none,-0.0001190476190475372
+German Credit,GBM + both (knowledge-augmented),12,savings_none,-0.0026587301587300827
+German Credit,GBM + both (knowledge-augmented),12,credit_history,0.008531746031746076
+German Credit,GBM + both (knowledge-augmented),12,purpose,0.028373015873015956
+German Credit,GBM + both (knowledge-augmented),12,employment,0.009365079365079429
+German Credit,GBM + both (knowledge-augmented),12,other_parties,0.01051587301587309
+German Credit,GBM + both (knowledge-augmented),12,property_magnitude,0.002142857142857224
+German Credit,GBM + both (knowledge-augmented),12,other_payment_plans,0.007738095238095359
+German Credit,GBM + both (knowledge-augmented),12,housing,0.004007936507936553
+German Credit,GBM + both (knowledge-augmented),12,job,-0.00027777777777767315
+German Credit,GBM + both (knowledge-augmented),12,own_telephone,-0.008412698412698353
+German Credit,GBM + both (knowledge-augmented),13,duration,0.020436507936507937
+German Credit,GBM + both (knowledge-augmented),13,credit_amount,0.01853174603174601
+German Credit,GBM + both (knowledge-augmented),13,installment_commitment,0.009801587301587311
+German Credit,GBM + both (knowledge-augmented),13,residence_since,-0.0037301587301587316
+German Credit,GBM + both (knowledge-augmented),13,age,0.014087301587301574
+German Credit,GBM + both (knowledge-augmented),13,existing_credits,0.00992063492063496
+German Credit,GBM + both (knowledge-augmented),13,num_dependents,0.006349206349206364
+German Credit,GBM + both (knowledge-augmented),13,checking_lvl,0.12662698412698414
+German Credit,GBM + both (knowledge-augmented),13,savings_lvl,0.034722222222222245
+German Credit,GBM + both (knowledge-augmented),13,checking_none,0.0006349206349206549
+German Credit,GBM + both (knowledge-augmented),13,savings_none,-0.00011904761904764823
+German Credit,GBM + both (knowledge-augmented),13,credit_history,0.03682539682539684
+German Credit,GBM + both (knowledge-augmented),13,purpose,0.04908730158730168
+German Credit,GBM + both (knowledge-augmented),13,employment,0.008531746031746076
+German Credit,GBM + both (knowledge-augmented),13,other_parties,0.011071428571428546
+German Credit,GBM + both (knowledge-augmented),13,property_magnitude,0.007579365079365112
+German Credit,GBM + both (knowledge-augmented),13,other_payment_plans,0.01198412698412706
+German Credit,GBM + both (knowledge-augmented),13,housing,-0.0009523809523808898
+German Credit,GBM + both (knowledge-augmented),13,job,0.0015873015873015817
+German Credit,GBM + both (knowledge-augmented),13,own_telephone,0.009166666666666693
+German Credit,GBM + both (knowledge-augmented),14,duration,0.013611111111111166
+German Credit,GBM + both (knowledge-augmented),14,credit_amount,0.005396825396825437
+German Credit,GBM + both (knowledge-augmented),14,installment_commitment,0.004563492063492121
+German Credit,GBM + both (knowledge-augmented),14,residence_since,0.009920634920634996
+German Credit,GBM + both (knowledge-augmented),14,age,-0.02079365079365077
+German Credit,GBM + both (knowledge-augmented),14,existing_credits,-0.004523809523809448
+German Credit,GBM + both (knowledge-augmented),14,num_dependents,0.0011507936507937726
+German Credit,GBM + both (knowledge-augmented),14,checking_lvl,0.10373015873015883
+German Credit,GBM + both (knowledge-augmented),14,savings_lvl,0.011349206349206368
+German Credit,GBM + both (knowledge-augmented),14,checking_none,0.0001984126984127347
+German Credit,GBM + both (knowledge-augmented),14,savings_none,0.0007936507936509019
+German Credit,GBM + both (knowledge-augmented),14,credit_history,0.005238095238095338
+German Credit,GBM + both (knowledge-augmented),14,purpose,0.04091269841269851
+German Credit,GBM + both (knowledge-augmented),14,employment,-0.002817460317460293
+German Credit,GBM + both (knowledge-augmented),14,other_parties,0.01595238095238105
+German Credit,GBM + both (knowledge-augmented),14,property_magnitude,-0.0001984126984126607
+German Credit,GBM + both (knowledge-augmented),14,other_payment_plans,0.004722222222222405
+German Credit,GBM + both (knowledge-augmented),14,housing,-0.0037698412698412196
+German Credit,GBM + both (knowledge-augmented),14,job,-0.0001190476190475372
+German Credit,GBM + both (knowledge-augmented),14,own_telephone,0.004642857142857208
+Taiwan Default,GBM (data-only),0,limit_bal,0.018097371883779762
+Taiwan Default,GBM (data-only),0,age,-0.00028924689118847713
+Taiwan Default,GBM (data-only),0,education,0.002417345329966736
+Taiwan Default,GBM (data-only),0,pay_delay_1,0.10221179036713031
+Taiwan Default,GBM (data-only),0,pay_delay_2,0.005146935049847756
+Taiwan Default,GBM (data-only),0,pay_delay_3,0.0038951124388018807
+Taiwan Default,GBM (data-only),0,pay_delay_4,0.005091693635383088
+Taiwan Default,GBM (data-only),0,pay_delay_5,0.00229643064594535
+Taiwan Default,GBM (data-only),0,pay_delay_6,0.0006994084663988579
+Taiwan Default,GBM (data-only),0,bill_amt_1,0.01744466967767951
+Taiwan Default,GBM (data-only),0,bill_amt_2,0.0038021740934363057
+Taiwan Default,GBM (data-only),0,bill_amt_3,0.0019462522375144342
+Taiwan Default,GBM (data-only),0,bill_amt_4,0.0021435091338005696
+Taiwan Default,GBM (data-only),0,bill_amt_5,0.0003850302879430482
+Taiwan Default,GBM (data-only),0,bill_amt_6,0.00020436952475795986
+Taiwan Default,GBM (data-only),0,pay_amt_1,0.011488554595350883
+Taiwan Default,GBM (data-only),0,pay_amt_2,0.004606138198371264
+Taiwan Default,GBM (data-only),0,pay_amt_3,0.0068077337980252395
+Taiwan Default,GBM (data-only),0,pay_amt_4,0.001401424896570617
+Taiwan Default,GBM (data-only),0,pay_amt_5,-0.0013281648233103664
+Taiwan Default,GBM (data-only),0,pay_amt_6,0.002249961473262544
+Taiwan Default,GBM (data-only),1,limit_bal,0.015599144184336722
+Taiwan Default,GBM (data-only),1,age,0.0021710995070021166
+Taiwan Default,GBM (data-only),1,education,0.003282023780849038
+Taiwan Default,GBM (data-only),1,pay_delay_1,0.08402475745240827
+Taiwan Default,GBM (data-only),1,pay_delay_2,0.004883017149136045
+Taiwan Default,GBM (data-only),1,pay_delay_3,0.005816950987535911
+Taiwan Default,GBM (data-only),1,pay_delay_4,0.003500926359354728
+Taiwan Default,GBM (data-only),1,pay_delay_5,0.0012601416024476952
+Taiwan Default,GBM (data-only),1,pay_delay_6,0.0018251980853726257
+Taiwan Default,GBM (data-only),1,bill_amt_1,0.014316784096412091
+Taiwan Default,GBM (data-only),1,bill_amt_2,0.0008937890748677383
+Taiwan Default,GBM (data-only),1,bill_amt_3,-0.0010187680556755414
+Taiwan Default,GBM (data-only),1,bill_amt_4,0.0017954051162102729
+Taiwan Default,GBM (data-only),1,bill_amt_5,0.001015233296622342
+Taiwan Default,GBM (data-only),1,bill_amt_6,-0.0002762161717246858
+Taiwan Default,GBM (data-only),1,pay_amt_1,0.007067750726771756
+Taiwan Default,GBM (data-only),1,pay_amt_2,0.002190540681794436
+Taiwan Default,GBM (data-only),1,pay_amt_3,0.007292965375015188
+Taiwan Default,GBM (data-only),1,pay_amt_4,0.004302306733261559
+Taiwan Default,GBM (data-only),1,pay_amt_5,-0.0021758966800027313
+Taiwan Default,GBM (data-only),1,pay_amt_6,0.0035804584380505857
+Taiwan Default,GBM (data-only),2,limit_bal,0.022641842018288116
+Taiwan Default,GBM (data-only),2,age,0.0030320835322488935
+Taiwan Default,GBM (data-only),2,education,0.0012331533913555088
+Taiwan Default,GBM (data-only),2,pay_delay_1,0.07213788207067932
+Taiwan Default,GBM (data-only),2,pay_delay_2,0.007285324323993536
+Taiwan Default,GBM (data-only),2,pay_delay_3,0.006930336748558659
+Taiwan Default,GBM (data-only),2,pay_delay_4,0.004571015876513392
+Taiwan Default,GBM (data-only),2,pay_delay_5,0.0045553474593906795
+Taiwan Default,GBM (data-only),2,pay_delay_6,0.004672615768792965
+Taiwan Default,GBM (data-only),2,bill_amt_1,0.010376409239469808
+Taiwan Default,GBM (data-only),2,bill_amt_2,0.002763272250988639
+Taiwan Default,GBM (data-only),2,bill_amt_3,0.00459427368317981
+Taiwan Default,GBM (data-only),2,bill_amt_4,-0.00019561039501536648
+Taiwan Default,GBM (data-only),2,bill_amt_5,0.0014324360716341245
+Taiwan Default,GBM (data-only),2,bill_amt_6,0.0028634032291629716
+Taiwan Default,GBM (data-only),2,pay_amt_1,0.005581628780923831
+Taiwan Default,GBM (data-only),2,pay_amt_2,0.007910592094793945
+Taiwan Default,GBM (data-only),2,pay_amt_3,0.005871249678675065
+Taiwan Default,GBM (data-only),2,pay_amt_4,0.007768841883637578
+Taiwan Default,GBM (data-only),2,pay_amt_5,0.003135397157651284
+Taiwan Default,GBM (data-only),2,pay_amt_6,0.0032556032952640868
+Taiwan Default,GBM (data-only),3,limit_bal,0.015861972626383707
+Taiwan Default,GBM (data-only),3,age,0.0011674948746552467
+Taiwan Default,GBM (data-only),3,education,0.003142318544899214
+Taiwan Default,GBM (data-only),3,pay_delay_1,0.08169257675091919
+Taiwan Default,GBM (data-only),3,pay_delay_2,0.006577194353470817
+Taiwan Default,GBM (data-only),3,pay_delay_3,0.0004653077294773193
+Taiwan Default,GBM (data-only),3,pay_delay_4,0.0045521611953239045
+Taiwan Default,GBM (data-only),3,pay_delay_5,0.002717774954115478
+Taiwan Default,GBM (data-only),3,pay_delay_6,0.002631524002123705
+Taiwan Default,GBM (data-only),3,bill_amt_1,0.014249552091598061
+Taiwan Default,GBM (data-only),3,bill_amt_2,0.0026153674837391025
+Taiwan Default,GBM (data-only),3,bill_amt_3,0.00500802357559164
+Taiwan Default,GBM (data-only),3,bill_amt_4,0.002053617767596679
+Taiwan Default,GBM (data-only),3,bill_amt_5,0.0010360056711865573
+Taiwan Default,GBM (data-only),3,bill_amt_6,-0.0012768620760281364
+Taiwan Default,GBM (data-only),3,pay_amt_1,0.0048138967931548775
+Taiwan Default,GBM (data-only),3,pay_amt_2,0.005412185097028566
+Taiwan Default,GBM (data-only),3,pay_amt_3,0.003706802441076018
+Taiwan Default,GBM (data-only),3,pay_amt_4,0.007417581871292711
+Taiwan Default,GBM (data-only),3,pay_amt_5,0.0012940128416979446
+Taiwan Default,GBM (data-only),3,pay_amt_6,-0.0010780126189865828
+Taiwan Default,GBM (data-only),4,limit_bal,0.022500853232514606
+Taiwan Default,GBM (data-only),4,age,0.0009346831146910262
+Taiwan Default,GBM (data-only),4,education,0.00278331192131979
+Taiwan Default,GBM (data-only),4,pay_delay_1,0.06445690688597372
+Taiwan Default,GBM (data-only),4,pay_delay_2,0.00537124234151994
+Taiwan Default,GBM (data-only),4,pay_delay_3,0.0022693736248965055
+Taiwan Default,GBM (data-only),4,pay_delay_4,0.00482832162293582
+Taiwan Default,GBM (data-only),4,pay_delay_5,0.004029805922707889
+Taiwan Default,GBM (data-only),4,pay_delay_6,0.0050554338793522184
+Taiwan Default,GBM (data-only),4,bill_amt_1,0.015661501299461866
+Taiwan Default,GBM (data-only),4,bill_amt_2,0.0022186543861149044
+Taiwan Default,GBM (data-only),4,bill_amt_3,0.004283651965083253
+Taiwan Default,GBM (data-only),4,bill_amt_4,0.0026481439007242833
+Taiwan Default,GBM (data-only),4,bill_amt_5,0.0007457976737109684
+Taiwan Default,GBM (data-only),4,bill_amt_6,-6.121287439157334e-05
+Taiwan Default,GBM (data-only),4,pay_amt_1,0.0046779128458590185
+Taiwan Default,GBM (data-only),4,pay_amt_2,0.0027650729832357688
+Taiwan Default,GBM (data-only),4,pay_amt_3,0.00478534768662812
+Taiwan Default,GBM (data-only),4,pay_amt_4,-3.3729543032046116e-05
+Taiwan Default,GBM (data-only),4,pay_amt_5,0.0015033382253663758
+Taiwan Default,GBM (data-only),4,pay_amt_6,0.0015208276180497249
+Taiwan Default,GBM (data-only),5,limit_bal,0.019802743103713993
+Taiwan Default,GBM (data-only),5,age,-0.0021868961674786913
+Taiwan Default,GBM (data-only),5,education,0.0019735173133231068
+Taiwan Default,GBM (data-only),5,pay_delay_1,0.08396600163590462
+Taiwan Default,GBM (data-only),5,pay_delay_2,0.009696409308059742
+Taiwan Default,GBM (data-only),5,pay_delay_3,0.00200481287859929
+Taiwan Default,GBM (data-only),5,pay_delay_4,0.001720307739725202
+Taiwan Default,GBM (data-only),5,pay_delay_5,0.0023995637587870635
+Taiwan Default,GBM (data-only),5,pay_delay_6,0.0013618312647439106
+Taiwan Default,GBM (data-only),5,bill_amt_1,0.023034010218476213
+Taiwan Default,GBM (data-only),5,bill_amt_2,0.0018691987624026944
+Taiwan Default,GBM (data-only),5,bill_amt_3,0.004369050582642735
+Taiwan Default,GBM (data-only),5,bill_amt_4,-0.003475467358962573
+Taiwan Default,GBM (data-only),5,bill_amt_5,0.001958580793532209
+Taiwan Default,GBM (data-only),5,bill_amt_6,0.001799495003378541
+Taiwan Default,GBM (data-only),5,pay_amt_1,0.00765413658617542
+Taiwan Default,GBM (data-only),5,pay_amt_2,0.004899889754258702
+Taiwan Default,GBM (data-only),5,pay_amt_3,0.010284623682681904
+Taiwan Default,GBM (data-only),5,pay_amt_4,0.00831418850836326
+Taiwan Default,GBM (data-only),5,pay_amt_5,0.00021077089038249822
+Taiwan Default,GBM (data-only),5,pay_amt_6,0.0010223217990208422
+Taiwan Default,GBM (data-only),6,limit_bal,0.011688407803107722
+Taiwan Default,GBM (data-only),6,age,0.0021331279834634342
+Taiwan Default,GBM (data-only),6,education,0.00448804694193113
+Taiwan Default,GBM (data-only),6,pay_delay_1,0.08638208097548687
+Taiwan Default,GBM (data-only),6,pay_delay_2,0.008676547255529946
+Taiwan Default,GBM (data-only),6,pay_delay_3,0.0033523928365496447
+Taiwan Default,GBM (data-only),6,pay_delay_4,0.0026605548849521674
+Taiwan Default,GBM (data-only),6,pay_delay_5,0.001566354847760613
+Taiwan Default,GBM (data-only),6,pay_delay_6,0.004349164103306398
+Taiwan Default,GBM (data-only),6,bill_amt_1,0.01713832964930802
+Taiwan Default,GBM (data-only),6,bill_amt_2,0.004333238246600739
+Taiwan Default,GBM (data-only),6,bill_amt_3,0.0007768539219530357
+Taiwan Default,GBM (data-only),6,bill_amt_4,0.0011724240980695022
+Taiwan Default,GBM (data-only),6,bill_amt_5,0.004272345265078951
+Taiwan Default,GBM (data-only),6,bill_amt_6,0.0003496662362002523
+Taiwan Default,GBM (data-only),6,pay_amt_1,-3.325693606185768e-05
+Taiwan Default,GBM (data-only),6,pay_amt_2,0.004613580165376015
+Taiwan Default,GBM (data-only),6,pay_amt_3,0.011040365957450874
+Taiwan Default,GBM (data-only),6,pay_amt_4,0.002042491122505948
+Taiwan Default,GBM (data-only),6,pay_amt_5,8.150291372925149e-05
+Taiwan Default,GBM (data-only),6,pay_amt_6,0.0040566435882267715
+Taiwan Default,GBM (data-only),7,limit_bal,0.019293902228937492
+Taiwan Default,GBM (data-only),7,age,0.0025945625698785926
+Taiwan Default,GBM (data-only),7,education,0.0012705621462765586
+Taiwan Default,GBM (data-only),7,pay_delay_1,0.08911552574724531
+Taiwan Default,GBM (data-only),7,pay_delay_2,0.006829607050534148
+Taiwan Default,GBM (data-only),7,pay_delay_3,0.0034405466223349133
+Taiwan Default,GBM (data-only),7,pay_delay_4,0.0005021734006217157
+Taiwan Default,GBM (data-only),7,pay_delay_5,0.00275390136026051
+Taiwan Default,GBM (data-only),7,pay_delay_6,0.0017112449264138723
+Taiwan Default,GBM (data-only),7,bill_amt_1,0.018529661660061352
+Taiwan Default,GBM (data-only),7,bill_amt_2,0.006110264395027524
+Taiwan Default,GBM (data-only),7,bill_amt_3,0.0007578962985087534
+Taiwan Default,GBM (data-only),7,bill_amt_4,0.0036072057246792446
+Taiwan Default,GBM (data-only),7,bill_amt_5,0.004440013215603278
+Taiwan Default,GBM (data-only),7,bill_amt_6,0.002592854497087386
+Taiwan Default,GBM (data-only),7,pay_amt_1,0.003887817683238537
+Taiwan Default,GBM (data-only),7,pay_amt_2,0.0020562756302423546
+Taiwan Default,GBM (data-only),7,pay_amt_3,0.0033793000122493977
+Taiwan Default,GBM (data-only),7,pay_amt_4,0.0022339152005303267
+Taiwan Default,GBM (data-only),7,pay_amt_5,0.002563573249237764
+Taiwan Default,GBM (data-only),7,pay_amt_6,0.0008027942118782327
+Taiwan Default,GBM (data-only),8,limit_bal,0.02206907516867203
+Taiwan Default,GBM (data-only),8,age,0.0005313511687551342
+Taiwan Default,GBM (data-only),8,education,0.005611928555860568
+Taiwan Default,GBM (data-only),8,pay_delay_1,0.07303843464283973
+Taiwan Default,GBM (data-only),8,pay_delay_2,0.004687923613013993
+Taiwan Default,GBM (data-only),8,pay_delay_3,0.0047323841018958035
+Taiwan Default,GBM (data-only),8,pay_delay_4,0.0035111704561984944
+Taiwan Default,GBM (data-only),8,pay_delay_5,0.0019359643310895198
+Taiwan Default,GBM (data-only),8,pay_delay_6,-8.118871882748883e-05
+Taiwan Default,GBM (data-only),8,bill_amt_1,0.013880129689312995
+Taiwan Default,GBM (data-only),8,bill_amt_2,0.004406662694218744
+Taiwan Default,GBM (data-only),8,bill_amt_3,0.003145821221474702
+Taiwan Default,GBM (data-only),8,bill_amt_4,0.00440400473020941
+Taiwan Default,GBM (data-only),8,bill_amt_5,0.0015314705355025104
+Taiwan Default,GBM (data-only),8,bill_amt_6,0.0022578196092986427
+Taiwan Default,GBM (data-only),8,pay_amt_1,0.0007623524044667596
+Taiwan Default,GBM (data-only),8,pay_amt_2,0.0045081485927530585
+Taiwan Default,GBM (data-only),8,pay_amt_3,0.01037234209639907
+Taiwan Default,GBM (data-only),8,pay_amt_4,0.0037006108001293634
+Taiwan Default,GBM (data-only),8,pay_amt_5,0.004260474673710897
+Taiwan Default,GBM (data-only),8,pay_amt_6,0.00036800719873316307
+Taiwan Default,GBM (data-only),9,limit_bal,0.016364905112547883
+Taiwan Default,GBM (data-only),9,age,-0.0001774930405891162
+Taiwan Default,GBM (data-only),9,education,0.0015371037625718047
+Taiwan Default,GBM (data-only),9,pay_delay_1,0.07543968697617331
+Taiwan Default,GBM (data-only),9,pay_delay_2,0.007683180301125432
+Taiwan Default,GBM (data-only),9,pay_delay_3,0.001377851113505672
+Taiwan Default,GBM (data-only),9,pay_delay_4,0.006256454292385009
+Taiwan Default,GBM (data-only),9,pay_delay_5,0.0017606654843151566
+Taiwan Default,GBM (data-only),9,pay_delay_6,0.0011367505537595395
+Taiwan Default,GBM (data-only),9,bill_amt_1,0.012652050032926207
+Taiwan Default,GBM (data-only),9,bill_amt_2,0.0029554111290707916
+Taiwan Default,GBM (data-only),9,bill_amt_3,0.0035260079920976426
+Taiwan Default,GBM (data-only),9,bill_amt_4,0.003248660500478858
+Taiwan Default,GBM (data-only),9,bill_amt_5,0.0009819410769874581
+Taiwan Default,GBM (data-only),9,bill_amt_6,0.0015001552771791344
+Taiwan Default,GBM (data-only),9,pay_amt_1,-0.00561149275622604
+Taiwan Default,GBM (data-only),9,pay_amt_2,0.00955469124161871
+Taiwan Default,GBM (data-only),9,pay_amt_3,0.004261703783524899
+Taiwan Default,GBM (data-only),9,pay_amt_4,-0.0003828143708094478
+Taiwan Default,GBM (data-only),9,pay_amt_5,-0.001453151191331455
+Taiwan Default,GBM (data-only),9,pay_amt_6,0.0036747373383619886
+Taiwan Default,GBM (data-only),10,limit_bal,0.023140575935624758
+Taiwan Default,GBM (data-only),10,age,-0.0005437745648377845
+Taiwan Default,GBM (data-only),10,education,0.002208579575352513
+Taiwan Default,GBM (data-only),10,pay_delay_1,0.07668456136151662
+Taiwan Default,GBM (data-only),10,pay_delay_2,0.0051017452076602314
+Taiwan Default,GBM (data-only),10,pay_delay_3,0.00591265793208003
+Taiwan Default,GBM (data-only),10,pay_delay_4,0.003972641253160658
+Taiwan Default,GBM (data-only),10,pay_delay_5,0.0026984515959902846
+Taiwan Default,GBM (data-only),10,pay_delay_6,0.002748554841920788
+Taiwan Default,GBM (data-only),10,bill_amt_1,0.00677082442872808
+Taiwan Default,GBM (data-only),10,bill_amt_2,0.0007617593030567749
+Taiwan Default,GBM (data-only),10,bill_amt_3,0.003551156601375801
+Taiwan Default,GBM (data-only),10,bill_amt_4,0.001601879132924237
+Taiwan Default,GBM (data-only),10,bill_amt_5,-0.0018383854502072767
+Taiwan Default,GBM (data-only),10,bill_amt_6,-0.0024802294016294337
+Taiwan Default,GBM (data-only),10,pay_amt_1,0.004599050555362472
+Taiwan Default,GBM (data-only),10,pay_amt_2,0.004456101957968491
+Taiwan Default,GBM (data-only),10,pay_amt_3,0.003989975551515775
+Taiwan Default,GBM (data-only),10,pay_amt_4,0.0037584558132113255
+Taiwan Default,GBM (data-only),10,pay_amt_5,-0.0013924428158117823
+Taiwan Default,GBM (data-only),10,pay_amt_6,-0.00015434649220273192
+Taiwan Default,GBM (data-only),11,limit_bal,0.03492762315300276
+Taiwan Default,GBM (data-only),11,age,0.0018965511370794275
+Taiwan Default,GBM (data-only),11,education,0.00436513206056699
+Taiwan Default,GBM (data-only),11,pay_delay_1,0.07121065531946351
+Taiwan Default,GBM (data-only),11,pay_delay_2,0.00905081482627268
+Taiwan Default,GBM (data-only),11,pay_delay_3,0.003098737886320646
+Taiwan Default,GBM (data-only),11,pay_delay_4,0.005403395308091012
+Taiwan Default,GBM (data-only),11,pay_delay_5,0.003338299680373469
+Taiwan Default,GBM (data-only),11,pay_delay_6,0.0017871066626390746
+Taiwan Default,GBM (data-only),11,bill_amt_1,0.018767052057142613
+Taiwan Default,GBM (data-only),11,bill_amt_2,0.004326948099484529
+Taiwan Default,GBM (data-only),11,bill_amt_3,0.005672385505271012
+Taiwan Default,GBM (data-only),11,bill_amt_4,0.005931404094779842
+Taiwan Default,GBM (data-only),11,bill_amt_5,0.0011788385946939945
+Taiwan Default,GBM (data-only),11,bill_amt_6,0.002603076022077544
+Taiwan Default,GBM (data-only),11,pay_amt_1,0.004067929509975661
+Taiwan Default,GBM (data-only),11,pay_amt_2,0.011748256306312118
+Taiwan Default,GBM (data-only),11,pay_amt_3,0.00232873520614707
+Taiwan Default,GBM (data-only),11,pay_amt_4,0.0013495719748209585
+Taiwan Default,GBM (data-only),11,pay_amt_5,-3.550865170735366e-05
+Taiwan Default,GBM (data-only),11,pay_amt_6,0.0008624224585898806
+Taiwan Default,GBM (data-only),12,limit_bal,0.022565999779541435
+Taiwan Default,GBM (data-only),12,age,0.0055616575333837055
+Taiwan Default,GBM (data-only),12,education,0.001198005243764196
+Taiwan Default,GBM (data-only),12,pay_delay_1,0.07318141376921143
+Taiwan Default,GBM (data-only),12,pay_delay_2,0.00890421272675738
+Taiwan Default,GBM (data-only),12,pay_delay_3,0.0031174217372133737
+Taiwan Default,GBM (data-only),12,pay_delay_4,0.003433592765810012
+Taiwan Default,GBM (data-only),12,pay_delay_5,0.001167003259637145
+Taiwan Default,GBM (data-only),12,pay_delay_6,0.0015087632275131806
+Taiwan Default,GBM (data-only),12,bill_amt_1,0.01558464821113629
+Taiwan Default,GBM (data-only),12,bill_amt_2,0.0009957542044594832
+Taiwan Default,GBM (data-only),12,bill_amt_3,0.0024747456853111784
+Taiwan Default,GBM (data-only),12,bill_amt_4,0.002500088577097529
+Taiwan Default,GBM (data-only),12,bill_amt_5,0.0029188614103048773
+Taiwan Default,GBM (data-only),12,bill_amt_6,0.001000675154321044
+Taiwan Default,GBM (data-only),12,pay_amt_1,0.005257296784454561
+Taiwan Default,GBM (data-only),12,pay_amt_2,0.007492638259007293
+Taiwan Default,GBM (data-only),12,pay_amt_3,0.004660385566263543
+Taiwan Default,GBM (data-only),12,pay_amt_4,0.0013958274281934784
+Taiwan Default,GBM (data-only),12,pay_amt_5,0.0011345249905517403
+Taiwan Default,GBM (data-only),12,pay_amt_6,0.001975515321869533
+Taiwan Default,GBM (data-only),13,limit_bal,0.01830274790919954
+Taiwan Default,GBM (data-only),13,age,-0.002369892473118288
+Taiwan Default,GBM (data-only),13,education,0.0034661887694146243
+Taiwan Default,GBM (data-only),13,pay_delay_1,0.0904248506571087
+Taiwan Default,GBM (data-only),13,pay_delay_2,0.005037037037037062
+Taiwan Default,GBM (data-only),13,pay_delay_3,0.002837275985663116
+Taiwan Default,GBM (data-only),13,pay_delay_4,0.0009201911589008146
+Taiwan Default,GBM (data-only),13,pay_delay_5,0.0021935483870968073
+Taiwan Default,GBM (data-only),13,pay_delay_6,0.002331182795698883
+Taiwan Default,GBM (data-only),13,bill_amt_1,0.017463082437275863
+Taiwan Default,GBM (data-only),13,bill_amt_2,0.0018912783751493523
+Taiwan Default,GBM (data-only),13,bill_amt_3,0.007535005973715592
+Taiwan Default,GBM (data-only),13,bill_amt_4,0.001732616487455189
+Taiwan Default,GBM (data-only),13,bill_amt_5,0.0002724014336917084
+Taiwan Default,GBM (data-only),13,bill_amt_6,-0.0012334528076463809
+Taiwan Default,GBM (data-only),13,pay_amt_1,0.006218160095579406
+Taiwan Default,GBM (data-only),13,pay_amt_2,0.007639904420549515
+Taiwan Default,GBM (data-only),13,pay_amt_3,0.0016054958183991201
+Taiwan Default,GBM (data-only),13,pay_amt_4,-0.00036702508960576957
+Taiwan Default,GBM (data-only),13,pay_amt_5,0.0012198327359617862
+Taiwan Default,GBM (data-only),13,pay_amt_6,0.00439091995221023
+Taiwan Default,GBM (data-only),14,limit_bal,0.0069625377305325324
+Taiwan Default,GBM (data-only),14,age,0.00403214911569653
+Taiwan Default,GBM (data-only),14,education,0.0056911828280722014
+Taiwan Default,GBM (data-only),14,pay_delay_1,0.07540292541899225
+Taiwan Default,GBM (data-only),14,pay_delay_2,0.0017181384469301397
+Taiwan Default,GBM (data-only),14,pay_delay_3,0.001346864216401437
+Taiwan Default,GBM (data-only),14,pay_delay_4,0.002571417818847066
+Taiwan Default,GBM (data-only),14,pay_delay_5,0.0027902259586063036
+Taiwan Default,GBM (data-only),14,pay_delay_6,0.0006134830202952543
+Taiwan Default,GBM (data-only),14,bill_amt_1,0.01943001806433679
+Taiwan Default,GBM (data-only),14,bill_amt_2,0.0014667623922122546
+Taiwan Default,GBM (data-only),14,bill_amt_3,0.0032365270154472623
+Taiwan Default,GBM (data-only),14,bill_amt_4,0.004712939160239811
+Taiwan Default,GBM (data-only),14,bill_amt_5,0.0021325953202558923
+Taiwan Default,GBM (data-only),14,bill_amt_6,0.001086320896732107
+Taiwan Default,GBM (data-only),14,pay_amt_1,0.003293460555671294
+Taiwan Default,GBM (data-only),14,pay_amt_2,0.0037346954924075324
+Taiwan Default,GBM (data-only),14,pay_amt_3,0.008290584929402342
+Taiwan Default,GBM (data-only),14,pay_amt_4,0.003635303040829929
+Taiwan Default,GBM (data-only),14,pay_amt_5,0.0034893505330522525
+Taiwan Default,GBM (data-only),14,pay_amt_6,0.0033122775732028855
+Taiwan Default,GBM + knowledge features,0,limit_bal,0.011642187370342763
+Taiwan Default,GBM + knowledge features,0,age,-0.0007849970956766613
+Taiwan Default,GBM + knowledge features,0,education,0.0023640006164278304
+Taiwan Default,GBM + knowledge features,0,pay_delay_1,0.09270149483741723
+Taiwan Default,GBM + knowledge features,0,pay_delay_2,0.008646822433230228
+Taiwan Default,GBM + knowledge features,0,pay_delay_3,0.00496437758573683
+Taiwan Default,GBM + knowledge features,0,pay_delay_4,0.007816778690565074
+Taiwan Default,GBM + knowledge features,0,pay_delay_5,0.00425880484132916
+Taiwan Default,GBM + knowledge features,0,pay_delay_6,0.0030641203456737895
+Taiwan Default,GBM + knowledge features,0,bill_amt_1,0.01163341512856079
+Taiwan Default,GBM + knowledge features,0,bill_amt_2,0.000701542254940383
+Taiwan Default,GBM + knowledge features,0,bill_amt_3,-0.0021624761430586448
+Taiwan Default,GBM + knowledge features,0,bill_amt_4,-0.0002166980807757346
+Taiwan Default,GBM + knowledge features,0,bill_amt_5,-0.00245741313702467
+Taiwan Default,GBM + knowledge features,0,bill_amt_6,2.1100797799822324e-05
+Taiwan Default,GBM + knowledge features,0,pay_amt_1,0.006676861434143033
+Taiwan Default,GBM + knowledge features,0,pay_amt_2,0.0024294367983688594
+Taiwan Default,GBM + knowledge features,0,pay_amt_3,0.005122752113043434
+Taiwan Default,GBM + knowledge features,0,pay_amt_4,-0.003491115141600498
+Taiwan Default,GBM + knowledge features,0,pay_amt_5,-0.0027250850551821713
+Taiwan Default,GBM + knowledge features,0,pay_amt_6,0.00033879820287593027
+Taiwan Default,GBM + knowledge features,1,limit_bal,0.018252990784883145
+Taiwan Default,GBM + knowledge features,1,age,0.0016767382051401751
+Taiwan Default,GBM + knowledge features,1,education,0.0033974084156553155
+Taiwan Default,GBM + knowledge features,1,pay_delay_1,0.07639068782876413
+Taiwan Default,GBM + knowledge features,1,pay_delay_2,0.008977278063840743
+Taiwan Default,GBM + knowledge features,1,pay_delay_3,0.006319139255872612
+Taiwan Default,GBM + knowledge features,1,pay_delay_4,0.005780088500267381
+Taiwan Default,GBM + knowledge features,1,pay_delay_5,0.001820400912371678
+Taiwan Default,GBM + knowledge features,1,pay_delay_6,0.0043475011525839396
+Taiwan Default,GBM + knowledge features,1,bill_amt_1,0.016491165879677805
+Taiwan Default,GBM + knowledge features,1,bill_amt_2,0.00023783878771891734
+Taiwan Default,GBM + knowledge features,1,bill_amt_3,-0.000728917813317261
+Taiwan Default,GBM + knowledge features,1,bill_amt_4,0.00026813672246025116
+Taiwan Default,GBM + knowledge features,1,bill_amt_5,0.0032408690861586895
+Taiwan Default,GBM + knowledge features,1,bill_amt_6,-0.0007155362254732308
+Taiwan Default,GBM + knowledge features,1,pay_amt_1,0.01000589294830708
+Taiwan Default,GBM + knowledge features,1,pay_amt_2,0.005311227960146048
+Taiwan Default,GBM + knowledge features,1,pay_amt_3,0.0054089387996867355
+Taiwan Default,GBM + knowledge features,1,pay_amt_4,0.005913146930339471
+Taiwan Default,GBM + knowledge features,1,pay_amt_5,0.0007061943622613068
+Taiwan Default,GBM + knowledge features,1,pay_amt_6,0.007517927540469131
+Taiwan Default,GBM + knowledge features,2,limit_bal,0.024842030528931452
+Taiwan Default,GBM + knowledge features,2,age,0.001871641389103081
+Taiwan Default,GBM + knowledge features,2,education,0.0011976546338118659
+Taiwan Default,GBM + knowledge features,2,pay_delay_1,0.06798403780005635
+Taiwan Default,GBM + knowledge features,2,pay_delay_2,0.009888974575545087
+Taiwan Default,GBM + knowledge features,2,pay_delay_3,0.009659089518073705
+Taiwan Default,GBM + knowledge features,2,pay_delay_4,0.007080165987293848
+Taiwan Default,GBM + knowledge features,2,pay_delay_5,0.008282227363421546
+Taiwan Default,GBM + knowledge features,2,pay_delay_6,0.007088734652907787
+Taiwan Default,GBM + knowledge features,2,bill_amt_1,0.0088149535455914
+Taiwan Default,GBM + knowledge features,2,bill_amt_2,0.001342832311213941
+Taiwan Default,GBM + knowledge features,2,bill_amt_3,0.0065359333112996465
+Taiwan Default,GBM + knowledge features,2,bill_amt_4,0.002621766858849628
+Taiwan Default,GBM + knowledge features,2,bill_amt_5,0.002857772391759402
+Taiwan Default,GBM + knowledge features,2,bill_amt_6,0.004270378122972558
+Taiwan Default,GBM + knowledge features,2,pay_amt_1,0.009479637178215908
+Taiwan Default,GBM + knowledge features,2,pay_amt_2,0.006881128126032772
+Taiwan Default,GBM + knowledge features,2,pay_amt_3,0.005340726867662997
+Taiwan Default,GBM + knowledge features,2,pay_amt_4,0.0029870368330212247
+Taiwan Default,GBM + knowledge features,2,pay_amt_5,0.0017827720857354807
+Taiwan Default,GBM + knowledge features,2,pay_amt_6,0.0041910567612892064
+Taiwan Default,GBM + knowledge features,3,limit_bal,0.017175870413785804
+Taiwan Default,GBM + knowledge features,3,age,0.0008960653657935266
+Taiwan Default,GBM + knowledge features,3,education,0.0029447118969641397
+Taiwan Default,GBM + knowledge features,3,pay_delay_1,0.08339050255223275
+Taiwan Default,GBM + knowledge features,3,pay_delay_2,0.007963175069050385
+Taiwan Default,GBM + knowledge features,3,pay_delay_3,0.0030381711417736637
+Taiwan Default,GBM + knowledge features,3,pay_delay_4,0.004669233813157092
+Taiwan Default,GBM + knowledge features,3,pay_delay_5,0.0055682819208062355
+Taiwan Default,GBM + knowledge features,3,pay_delay_6,0.004846955515387978
+Taiwan Default,GBM + knowledge features,3,bill_amt_1,0.015072291720107453
+Taiwan Default,GBM + knowledge features,3,bill_amt_2,0.005566790549878371
+Taiwan Default,GBM + knowledge features,3,bill_amt_3,0.001996945672339915
+Taiwan Default,GBM + knowledge features,3,bill_amt_4,0.0042896799120289986
+Taiwan Default,GBM + knowledge features,3,bill_amt_5,0.0006064908439766814
+Taiwan Default,GBM + knowledge features,3,bill_amt_6,-0.0005065689918134127
+Taiwan Default,GBM + knowledge features,3,pay_amt_1,0.00552453504025711
+Taiwan Default,GBM + knowledge features,3,pay_amt_2,0.0037855965384286927
+Taiwan Default,GBM + knowledge features,3,pay_amt_3,0.00629930223725524
+Taiwan Default,GBM + knowledge features,3,pay_amt_4,0.005412682220671187
+Taiwan Default,GBM + knowledge features,3,pay_amt_5,0.0012616998049287398
+Taiwan Default,GBM + knowledge features,3,pay_amt_6,0.003378700836957386
+Taiwan Default,GBM + knowledge features,4,limit_bal,0.02781912769905052
+Taiwan Default,GBM + knowledge features,4,age,0.0032710161287179407
+Taiwan Default,GBM + knowledge features,4,education,0.002936219183065488
+Taiwan Default,GBM + knowledge features,4,pay_delay_1,0.060363389604205064
+Taiwan Default,GBM + knowledge features,4,pay_delay_2,0.007965668821859525
+Taiwan Default,GBM + knowledge features,4,pay_delay_3,0.0060623232009786214
+Taiwan Default,GBM + knowledge features,4,pay_delay_4,0.0054334546097792496
+Taiwan Default,GBM + knowledge features,4,pay_delay_5,0.005177859628135588
+Taiwan Default,GBM + knowledge features,4,pay_delay_6,0.008479607118282809
+Taiwan Default,GBM + knowledge features,4,bill_amt_1,0.025564994830635235
+Taiwan Default,GBM + knowledge features,4,bill_amt_2,0.009617666885034293
+Taiwan Default,GBM + knowledge features,4,bill_amt_3,0.009740592330751419
+Taiwan Default,GBM + knowledge features,4,bill_amt_4,0.005445197487723726
+Taiwan Default,GBM + knowledge features,4,bill_amt_5,0.004515511342370863
+Taiwan Default,GBM + knowledge features,4,bill_amt_6,0.004608454972059528
+Taiwan Default,GBM + knowledge features,4,pay_amt_1,0.003591571711756799
+Taiwan Default,GBM + knowledge features,4,pay_amt_2,0.0014905959535542006
+Taiwan Default,GBM + knowledge features,4,pay_amt_3,0.006481319079977954
+Taiwan Default,GBM + knowledge features,4,pay_amt_4,0.00042824027227491196
+Taiwan Default,GBM + knowledge features,4,pay_amt_5,0.0014628627737277948
+Taiwan Default,GBM + knowledge features,4,pay_amt_6,0.0025696914821161285
+Taiwan Default,GBM + knowledge features,5,limit_bal,0.02751425489289557
+Taiwan Default,GBM + knowledge features,5,age,-0.00014343800751581703
+Taiwan Default,GBM + knowledge features,5,education,0.002305202887727028
+Taiwan Default,GBM + knowledge features,5,pay_delay_1,0.07788375594200829
+Taiwan Default,GBM + knowledge features,5,pay_delay_2,0.012628234764157012
+Taiwan Default,GBM + knowledge features,5,pay_delay_3,0.005322142797870836
+Taiwan Default,GBM + knowledge features,5,pay_delay_4,0.002813992911080162
+Taiwan Default,GBM + knowledge features,5,pay_delay_5,0.004146425311473727
+Taiwan Default,GBM + knowledge features,5,pay_delay_6,0.003190725132472575
+Taiwan Default,GBM + knowledge features,5,bill_amt_1,0.019819339236814892
+Taiwan Default,GBM + knowledge features,5,bill_amt_2,0.004612539563995728
+Taiwan Default,GBM + knowledge features,5,bill_amt_3,0.0030664912218309657
+Taiwan Default,GBM + knowledge features,5,bill_amt_4,0.0010128382943915826
+Taiwan Default,GBM + knowledge features,5,bill_amt_5,0.004012944983818656
+Taiwan Default,GBM + knowledge features,5,bill_amt_6,0.0028879642471874023
+Taiwan Default,GBM + knowledge features,5,pay_amt_1,0.005035266782839461
+Taiwan Default,GBM + knowledge features,5,pay_amt_2,0.0029280320542455587
+Taiwan Default,GBM + knowledge features,5,pay_amt_3,0.00937159927451181
+Taiwan Default,GBM + knowledge features,5,pay_amt_4,0.004697416930426431
+Taiwan Default,GBM + knowledge features,5,pay_amt_5,0.0015047950970279074
+Taiwan Default,GBM + knowledge features,5,pay_amt_6,0.003742428014272566
+Taiwan Default,GBM + knowledge features,6,limit_bal,0.014209611441884817
+Taiwan Default,GBM + knowledge features,6,age,0.002925907762122019
+Taiwan Default,GBM + knowledge features,6,education,0.003443029697506983
+Taiwan Default,GBM + knowledge features,6,pay_delay_1,0.08170596840216338
+Taiwan Default,GBM + knowledge features,6,pay_delay_2,0.010606386362220444
+Taiwan Default,GBM + knowledge features,6,pay_delay_3,0.006731250699683722
+Taiwan Default,GBM + knowledge features,6,pay_delay_4,0.007135720619253457
+Taiwan Default,GBM + knowledge features,6,pay_delay_5,0.0032744029794467
+Taiwan Default,GBM + knowledge features,6,pay_delay_6,0.009350585720221072
+Taiwan Default,GBM + knowledge features,6,bill_amt_1,0.01813252467453867
+Taiwan Default,GBM + knowledge features,6,bill_amt_2,0.005465145091580581
+Taiwan Default,GBM + knowledge features,6,bill_amt_3,0.004450105930367432
+Taiwan Default,GBM + knowledge features,6,bill_amt_4,0.0009925555988051042
+Taiwan Default,GBM + knowledge features,6,bill_amt_5,0.005571239401693573
+Taiwan Default,GBM + knowledge features,6,bill_amt_6,0.001336132536853089
+Taiwan Default,GBM + knowledge features,6,pay_amt_1,0.0056752258778308695
+Taiwan Default,GBM + knowledge features,6,pay_amt_2,0.006374324146456038
+Taiwan Default,GBM + knowledge features,6,pay_amt_3,0.01001712966410965
+Taiwan Default,GBM + knowledge features,6,pay_amt_4,0.002401525509709438
+Taiwan Default,GBM + knowledge features,6,pay_amt_5,-0.0007726382540015712
+Taiwan Default,GBM + knowledge features,6,pay_amt_6,0.005490204895514661
+Taiwan Default,GBM + knowledge features,7,limit_bal,0.02574407310941958
+Taiwan Default,GBM + knowledge features,7,age,0.0034952049516541184
+Taiwan Default,GBM + knowledge features,7,education,0.0018437425729334784
+Taiwan Default,GBM + knowledge features,7,pay_delay_1,0.08224931713689909
+Taiwan Default,GBM + knowledge features,7,pay_delay_2,0.01270562146276418
+Taiwan Default,GBM + knowledge features,7,pay_delay_3,0.004766011108329342
+Taiwan Default,GBM + knowledge features,7,pay_delay_4,0.0035871968719818717
+Taiwan Default,GBM + knowledge features,7,pay_delay_5,0.005974594613323984
+Taiwan Default,GBM + knowledge features,7,pay_delay_6,0.0036594239500111017
+Taiwan Default,GBM + knowledge features,7,bill_amt_1,0.02202755072610178
+Taiwan Default,GBM + knowledge features,7,bill_amt_2,0.011569997066994945
+Taiwan Default,GBM + knowledge features,7,bill_amt_3,0.006479696138730599
+Taiwan Default,GBM + knowledge features,7,bill_amt_4,0.006651723469847326
+Taiwan Default,GBM + knowledge features,7,bill_amt_5,0.005921644356795874
+Taiwan Default,GBM + knowledge features,7,bill_amt_6,0.006352810731382126
+Taiwan Default,GBM + knowledge features,7,pay_amt_1,0.005871134204255187
+Taiwan Default,GBM + knowledge features,7,pay_amt_2,0.0066058495148828555
+Taiwan Default,GBM + knowledge features,7,pay_amt_3,0.00586137378830535
+Taiwan Default,GBM + knowledge features,7,pay_amt_4,0.005994359455622507
+Taiwan Default,GBM + knowledge features,7,pay_amt_5,0.004345093170490588
+Taiwan Default,GBM + knowledge features,7,pay_amt_6,0.004357049680029072
+Taiwan Default,GBM + knowledge features,8,limit_bal,0.028064717074229157
+Taiwan Default,GBM + knowledge features,8,age,0.00023535063136315149
+Taiwan Default,GBM + knowledge features,8,education,0.004823721410576631
+Taiwan Default,GBM + knowledge features,8,pay_delay_1,0.0730140297005732
+Taiwan Default,GBM + knowledge features,8,pay_delay_2,0.008447734520621716
+Taiwan Default,GBM + knowledge features,8,pay_delay_3,0.007644546123649472
+Taiwan Default,GBM + knowledge features,8,pay_delay_4,0.006438555362732412
+Taiwan Default,GBM + knowledge features,8,pay_delay_5,0.0028590027415690646
+Taiwan Default,GBM + knowledge features,8,pay_delay_6,0.0018419690583993582
+Taiwan Default,GBM + knowledge features,8,bill_amt_1,0.018962640141152416
+Taiwan Default,GBM + knowledge features,8,bill_amt_2,0.008066195868750755
+Taiwan Default,GBM + knowledge features,8,bill_amt_3,0.00526711813393536
+Taiwan Default,GBM + knowledge features,8,bill_amt_4,0.0070909647104534885
+Taiwan Default,GBM + knowledge features,8,bill_amt_5,0.0030982195024001533
+Taiwan Default,GBM + knowledge features,8,bill_amt_6,0.0027906205766042116
+Taiwan Default,GBM + knowledge features,8,pay_amt_1,0.004449915017641655
+Taiwan Default,GBM + knowledge features,8,pay_amt_2,0.008780946554142965
+Taiwan Default,GBM + knowledge features,8,pay_amt_3,0.00990913145951707
+Taiwan Default,GBM + knowledge features,8,pay_amt_4,0.0035621550385573166
+Taiwan Default,GBM + knowledge features,8,pay_amt_5,0.004035997531476358
+Taiwan Default,GBM + knowledge features,8,pay_amt_6,-7.031522969876598e-05
+Taiwan Default,GBM + knowledge features,9,limit_bal,0.016472008949952193
+Taiwan Default,GBM + knowledge features,9,age,0.00014662468570410722
+Taiwan Default,GBM + knowledge features,9,education,0.000793457031250111
+Taiwan Default,GBM + knowledge features,9,pay_delay_1,0.07070092679897029
+Taiwan Default,GBM + knowledge features,9,pay_delay_2,0.010327803220785525
+Taiwan Default,GBM + knowledge features,9,pay_delay_3,0.0025178755836926157
+Taiwan Default,GBM + knowledge features,9,pay_delay_4,0.008479677397629337
+Taiwan Default,GBM + knowledge features,9,pay_delay_5,0.003063450371168619
+Taiwan Default,GBM + knowledge features,9,pay_delay_6,0.003066724287595801
+Taiwan Default,GBM + knowledge features,9,bill_amt_1,0.0130491293253114
+Taiwan Default,GBM + knowledge features,9,bill_amt_2,-0.0007667979974855799
+Taiwan Default,GBM + knowledge features,9,bill_amt_3,0.0009078102550288033
+Taiwan Default,GBM + knowledge features,9,bill_amt_4,0.0006164316930077351
+Taiwan Default,GBM + knowledge features,9,bill_amt_5,-0.002490982698754659
+Taiwan Default,GBM + knowledge features,9,bill_amt_6,-0.00046957315613023926
+Taiwan Default,GBM + knowledge features,9,pay_amt_1,-0.0023593244881465005
+Taiwan Default,GBM + knowledge features,9,pay_amt_2,0.005657795288553702
+Taiwan Default,GBM + knowledge features,9,pay_amt_3,-6.734913793093877e-05
+Taiwan Default,GBM + knowledge features,9,pay_amt_4,0.0007873769007423759
+Taiwan Default,GBM + knowledge features,9,pay_amt_5,0.0007520653735632413
+Taiwan Default,GBM + knowledge features,9,pay_amt_6,0.0005626459231322656
+Taiwan Default,GBM + knowledge features,10,limit_bal,0.02440811682082311
+Taiwan Default,GBM + knowledge features,10,age,0.0012865373765464927
+Taiwan Default,GBM + knowledge features,10,education,0.002343454663923531
+Taiwan Default,GBM + knowledge features,10,pay_delay_1,0.07881739242761861
+Taiwan Default,GBM + knowledge features,10,pay_delay_2,0.006457857233768904
+Taiwan Default,GBM + knowledge features,10,pay_delay_3,0.006142040565107624
+Taiwan Default,GBM + knowledge features,10,pay_delay_4,0.008017706629585453
+Taiwan Default,GBM + knowledge features,10,pay_delay_5,0.0047928147671125005
+Taiwan Default,GBM + knowledge features,10,pay_delay_6,0.0028226411581780595
+Taiwan Default,GBM + knowledge features,10,bill_amt_1,0.009874376202715326
+Taiwan Default,GBM + knowledge features,10,bill_amt_2,0.0050979459093905
+Taiwan Default,GBM + knowledge features,10,bill_amt_3,0.005178680997619682
+Taiwan Default,GBM + knowledge features,10,bill_amt_4,0.006535980304437768
+Taiwan Default,GBM + knowledge features,10,bill_amt_5,0.0010478939539866339
+Taiwan Default,GBM + knowledge features,10,bill_amt_6,0.0038712474805903487
+Taiwan Default,GBM + knowledge features,10,pay_amt_1,0.004764557486232279
+Taiwan Default,GBM + knowledge features,10,pay_amt_2,0.009726915938626105
+Taiwan Default,GBM + knowledge features,10,pay_amt_3,0.009384266725935694
+Taiwan Default,GBM + knowledge features,10,pay_amt_4,0.007794735312387724
+Taiwan Default,GBM + knowledge features,10,pay_amt_5,0.0018683049240804477
+Taiwan Default,GBM + knowledge features,10,pay_amt_6,0.003389211512633642
+Taiwan Default,GBM + knowledge features,11,limit_bal,0.03578980240164953
+Taiwan Default,GBM + knowledge features,11,age,0.0017389510938852955
+Taiwan Default,GBM + knowledge features,11,education,0.0023922130013226037
+Taiwan Default,GBM + knowledge features,11,pay_delay_1,0.06644909105147927
+Taiwan Default,GBM + knowledge features,11,pay_delay_2,0.0165338983586734
+Taiwan Default,GBM + knowledge features,11,pay_delay_3,0.005137323630229451
+Taiwan Default,GBM + knowledge features,11,pay_delay_4,0.011940635371384123
+Taiwan Default,GBM + knowledge features,11,pay_delay_5,0.004380697496931855
+Taiwan Default,GBM + knowledge features,11,pay_delay_6,0.0038911158812687807
+Taiwan Default,GBM + knowledge features,11,bill_amt_1,0.014199082903946189
+Taiwan Default,GBM + knowledge features,11,bill_amt_2,0.004556295075922923
+Taiwan Default,GBM + knowledge features,11,bill_amt_3,0.0019111437336715535
+Taiwan Default,GBM + knowledge features,11,bill_amt_4,0.002237045057560468
+Taiwan Default,GBM + knowledge features,11,bill_amt_5,0.003462336751405911
+Taiwan Default,GBM + knowledge features,11,bill_amt_6,-0.0011350608049179496
+Taiwan Default,GBM + knowledge features,11,pay_amt_1,0.0031186811016632086
+Taiwan Default,GBM + knowledge features,11,pay_amt_2,0.014016432236602427
+Taiwan Default,GBM + knowledge features,11,pay_amt_3,0.0024710130229197067
+Taiwan Default,GBM + knowledge features,11,pay_amt_4,0.00343704291731306
+Taiwan Default,GBM + knowledge features,11,pay_amt_5,-0.00047717790855990777
+Taiwan Default,GBM + knowledge features,11,pay_amt_6,0.0031697551897353904
+Taiwan Default,GBM + knowledge features,12,limit_bal,0.024978495449105503
+Taiwan Default,GBM + knowledge features,12,age,0.0034173536312672357
+Taiwan Default,GBM + knowledge features,12,education,0.0029587211041823824
+Taiwan Default,GBM + knowledge features,12,pay_delay_1,0.06817631566515481
+Taiwan Default,GBM + knowledge features,12,pay_delay_2,0.01337194310594599
+Taiwan Default,GBM + knowledge features,12,pay_delay_3,0.005409846230158537
+Taiwan Default,GBM + knowledge features,12,pay_delay_4,0.005835016298185873
+Taiwan Default,GBM + knowledge features,12,pay_delay_5,0.004856977513227408
+Taiwan Default,GBM + knowledge features,12,pay_delay_6,0.004460102906903425
+Taiwan Default,GBM + knowledge features,12,bill_amt_1,0.01607379062736188
+Taiwan Default,GBM + knowledge features,12,bill_amt_2,0.0061484808043587025
+Taiwan Default,GBM + knowledge features,12,bill_amt_3,0.01066640487213392
+Taiwan Default,GBM + knowledge features,12,bill_amt_4,0.0019504184775760807
+Taiwan Default,GBM + knowledge features,12,bill_amt_5,0.00373967584719063
+Taiwan Default,GBM + knowledge features,12,bill_amt_6,0.0033952093568908235
+Taiwan Default,GBM + knowledge features,12,pay_amt_1,0.005785314704585431
+Taiwan Default,GBM + knowledge features,12,pay_amt_2,0.008397108843537357
+Taiwan Default,GBM + knowledge features,12,pay_amt_3,0.008913316484000955
+Taiwan Default,GBM + knowledge features,12,pay_amt_4,0.002869159816704362
+Taiwan Default,GBM + knowledge features,12,pay_amt_5,0.0013650714915594737
+Taiwan Default,GBM + knowledge features,12,pay_amt_6,0.005456841301335206
+Taiwan Default,GBM + knowledge features,13,limit_bal,0.021403106332138672
+Taiwan Default,GBM + knowledge features,13,age,-0.0004200716845877602
+Taiwan Default,GBM + knowledge features,13,education,0.0034031063321386576
+Taiwan Default,GBM + knowledge features,13,pay_delay_1,0.08766236559139788
+Taiwan Default,GBM + knowledge features,13,pay_delay_2,0.005793309438470747
+Taiwan Default,GBM + knowledge features,13,pay_delay_3,0.0029037037037037785
+Taiwan Default,GBM + knowledge features,13,pay_delay_4,0.001189725209080117
+Taiwan Default,GBM + knowledge features,13,pay_delay_5,0.0029431302270012116
+Taiwan Default,GBM + knowledge features,13,pay_delay_6,0.005355794504181628
+Taiwan Default,GBM + knowledge features,13,bill_amt_1,0.01521242532855438
+Taiwan Default,GBM + knowledge features,13,bill_amt_2,0.006484826762246154
+Taiwan Default,GBM + knowledge features,13,bill_amt_3,0.005668100358422949
+Taiwan Default,GBM + knowledge features,13,bill_amt_4,0.0030217443249701548
+Taiwan Default,GBM + knowledge features,13,bill_amt_5,0.0025522102747910225
+Taiwan Default,GBM + knowledge features,13,bill_amt_6,0.003646117084826835
+Taiwan Default,GBM + knowledge features,13,pay_amt_1,0.0034556750298686176
+Taiwan Default,GBM + knowledge features,13,pay_amt_2,0.005309916367980986
+Taiwan Default,GBM + knowledge features,13,pay_amt_3,0.0018038231780167873
+Taiwan Default,GBM + knowledge features,13,pay_amt_4,-0.005559617682198333
+Taiwan Default,GBM + knowledge features,13,pay_amt_5,-0.0015235364396654443
+Taiwan Default,GBM + knowledge features,13,pay_amt_6,0.0037751493428913965
+Taiwan Default,GBM + knowledge features,14,limit_bal,0.01076574646626057
+Taiwan Default,GBM + knowledge features,14,age,0.0032703011494784606
+Taiwan Default,GBM + knowledge features,14,education,0.003811411025421263
+Taiwan Default,GBM + knowledge features,14,pay_delay_1,0.0663746169048226
+Taiwan Default,GBM + knowledge features,14,pay_delay_2,0.006717675258806362
+Taiwan Default,GBM + knowledge features,14,pay_delay_3,0.0037052637470374647
+Taiwan Default,GBM + knowledge features,14,pay_delay_4,0.004538037394721213
+Taiwan Default,GBM + knowledge features,14,pay_delay_5,0.003977628013617673
+Taiwan Default,GBM + knowledge features,14,pay_delay_6,0.001928020565552635
+Taiwan Default,GBM + knowledge features,14,bill_amt_1,0.016240292348904155
+Taiwan Default,GBM + knowledge features,14,bill_amt_2,0.007567094729691119
+Taiwan Default,GBM + knowledge features,14,bill_amt_3,0.006724188841798077
+Taiwan Default,GBM + knowledge features,14,bill_amt_4,0.007420177246655372
+Taiwan Default,GBM + knowledge features,14,bill_amt_5,0.0036258945320642257
+Taiwan Default,GBM + knowledge features,14,bill_amt_6,0.002225232945027226
+Taiwan Default,GBM + knowledge features,14,pay_amt_1,0.004854790523170949
+Taiwan Default,GBM + knowledge features,14,pay_amt_2,0.0038985000424589153
+Taiwan Default,GBM + knowledge features,14,pay_amt_3,0.01037879138778878
+Taiwan Default,GBM + knowledge features,14,pay_amt_4,0.006052324818391612
+Taiwan Default,GBM + knowledge features,14,pay_amt_5,0.0015801469850312833
+Taiwan Default,GBM + knowledge features,14,pay_amt_6,0.004857926692759529
+Taiwan Default,GBM + monotone constraints,0,limit_bal,0.014535367545076228
+Taiwan Default,GBM + monotone constraints,0,age,0.0016477589293122374
+Taiwan Default,GBM + monotone constraints,0,education,0.0019469635003615722
+Taiwan Default,GBM + monotone constraints,0,pay_delay_1,0.10950010076223664
+Taiwan Default,GBM + monotone constraints,0,pay_delay_2,0.002466659554038205
+Taiwan Default,GBM + monotone constraints,0,pay_delay_3,0.002692366964211601
+Taiwan Default,GBM + monotone constraints,0,pay_delay_4,0.002882985407257251
+Taiwan Default,GBM + monotone constraints,0,pay_delay_5,0.0019474376755929852
+Taiwan Default,GBM + monotone constraints,0,pay_delay_6,0.0011064879026044434
+Taiwan Default,GBM + monotone constraints,0,bill_amt_1,0.02448166720011376
+Taiwan Default,GBM + monotone constraints,0,bill_amt_2,0.007685432151451528
+Taiwan Default,GBM + monotone constraints,0,bill_amt_3,0.0076003176974050275
+Taiwan Default,GBM + monotone constraints,0,bill_amt_4,0.004875232642222893
+Taiwan Default,GBM + monotone constraints,0,bill_amt_5,0.0019822895551050066
+Taiwan Default,GBM + monotone constraints,0,bill_amt_6,0.004454402124304961
+Taiwan Default,GBM + monotone constraints,0,pay_amt_1,0.005871948978745101
+Taiwan Default,GBM + monotone constraints,0,pay_amt_2,0.00789975935607005
+Taiwan Default,GBM + monotone constraints,0,pay_amt_3,0.006473677347463662
+Taiwan Default,GBM + monotone constraints,0,pay_amt_4,0.0025083869744063625
+Taiwan Default,GBM + monotone constraints,0,pay_amt_5,0.00047061891722081456
+Taiwan Default,GBM + monotone constraints,0,pay_amt_6,0.0009144469338643324
+Taiwan Default,GBM + monotone constraints,1,limit_bal,0.018785224505171616
+Taiwan Default,GBM + monotone constraints,1,age,0.004411884263909223
+Taiwan Default,GBM + monotone constraints,1,education,0.0030260062322852535
+Taiwan Default,GBM + monotone constraints,1,pay_delay_1,0.08610445818960762
+Taiwan Default,GBM + monotone constraints,1,pay_delay_2,0.0015492343964374304
+Taiwan Default,GBM + monotone constraints,1,pay_delay_3,0.0032822762636384915
+Taiwan Default,GBM + monotone constraints,1,pay_delay_4,0.0027321162652948297
+Taiwan Default,GBM + monotone constraints,1,pay_delay_5,0.0006084835227207671
+Taiwan Default,GBM + monotone constraints,1,pay_delay_6,0.002111261085888142
+Taiwan Default,GBM + monotone constraints,1,bill_amt_1,0.024088120533263885
+Taiwan Default,GBM + monotone constraints,1,bill_amt_2,0.0013510354066715857
+Taiwan Default,GBM + monotone constraints,1,bill_amt_3,0.0033128266811693527
+Taiwan Default,GBM + monotone constraints,1,bill_amt_4,0.004876200113819247
+Taiwan Default,GBM + monotone constraints,1,bill_amt_5,0.010670932615878334
+Taiwan Default,GBM + monotone constraints,1,bill_amt_6,0.00026258210109112817
+Taiwan Default,GBM + monotone constraints,1,pay_amt_1,0.0031817881134132606
+Taiwan Default,GBM + monotone constraints,1,pay_amt_2,0.00266091611865286
+Taiwan Default,GBM + monotone constraints,1,pay_amt_3,0.0076706796281232155
+Taiwan Default,GBM + monotone constraints,1,pay_amt_4,0.003616563476950644
+Taiwan Default,GBM + monotone constraints,1,pay_amt_5,0.0006004040734563695
+Taiwan Default,GBM + monotone constraints,1,pay_amt_6,0.003153257558198582
+Taiwan Default,GBM + monotone constraints,2,limit_bal,0.023186564332317434
+Taiwan Default,GBM + monotone constraints,2,age,0.006741581286034452
+Taiwan Default,GBM + monotone constraints,2,education,0.001339404844968417
+Taiwan Default,GBM + monotone constraints,2,pay_delay_1,0.07183650986008594
+Taiwan Default,GBM + monotone constraints,2,pay_delay_2,0.0029434590478989073
+Taiwan Default,GBM + monotone constraints,2,pay_delay_3,0.007498316869254469
+Taiwan Default,GBM + monotone constraints,2,pay_delay_4,0.0037741299744165437
+Taiwan Default,GBM + monotone constraints,2,pay_delay_5,0.004423145189918339
+Taiwan Default,GBM + monotone constraints,2,pay_delay_6,0.002477568457517824
+Taiwan Default,GBM + monotone constraints,2,bill_amt_1,0.009959972090632116
+Taiwan Default,GBM + monotone constraints,2,bill_amt_2,0.005974563304077529
+Taiwan Default,GBM + monotone constraints,2,bill_amt_3,0.006311434272214293
+Taiwan Default,GBM + monotone constraints,2,bill_amt_4,0.002703291591690915
+Taiwan Default,GBM + monotone constraints,2,bill_amt_5,0.002237156182292329
+Taiwan Default,GBM + monotone constraints,2,bill_amt_6,0.005553964231941655
+Taiwan Default,GBM + monotone constraints,2,pay_amt_1,0.0073617078574664445
+Taiwan Default,GBM + monotone constraints,2,pay_amt_2,0.009536680009303225
+Taiwan Default,GBM + monotone constraints,2,pay_amt_3,0.007229015949959061
+Taiwan Default,GBM + monotone constraints,2,pay_amt_4,0.0027194496468486338
+Taiwan Default,GBM + monotone constraints,2,pay_amt_5,0.00017259740736667398
+Taiwan Default,GBM + monotone constraints,2,pay_amt_6,0.002625683963130306
+Taiwan Default,GBM + monotone constraints,3,limit_bal,0.014411614399086892
+Taiwan Default,GBM + monotone constraints,3,age,-0.0002314110556320692
+Taiwan Default,GBM + monotone constraints,3,education,0.0029705623263796
+Taiwan Default,GBM + monotone constraints,3,pay_delay_1,0.0882931359155924
+Taiwan Default,GBM + monotone constraints,3,pay_delay_2,0.003282755973934829
+Taiwan Default,GBM + monotone constraints,3,pay_delay_3,0.0020210561690062003
+Taiwan Default,GBM + monotone constraints,3,pay_delay_4,0.003246714509846075
+Taiwan Default,GBM + monotone constraints,3,pay_delay_5,0.0024687160091709424
+Taiwan Default,GBM + monotone constraints,3,pay_delay_6,0.00277171286933812
+Taiwan Default,GBM + monotone constraints,3,bill_amt_1,0.015090933856705124
+Taiwan Default,GBM + monotone constraints,3,bill_amt_2,0.0034801140600485927
+Taiwan Default,GBM + monotone constraints,3,bill_amt_3,0.003112739688164279
+Taiwan Default,GBM + monotone constraints,3,bill_amt_4,0.001909949034884173
+Taiwan Default,GBM + monotone constraints,3,bill_amt_5,0.0022323337171128075
+Taiwan Default,GBM + monotone constraints,3,bill_amt_6,-0.0016437393242697551
+Taiwan Default,GBM + monotone constraints,3,pay_amt_1,0.009274587238239596
+Taiwan Default,GBM + monotone constraints,3,pay_amt_2,0.0036615641895989906
+Taiwan Default,GBM + monotone constraints,3,pay_amt_3,0.0029998926212931134
+Taiwan Default,GBM + monotone constraints,3,pay_amt_4,0.0013795181082258967
+Taiwan Default,GBM + monotone constraints,3,pay_amt_5,-0.0019502160499349868
+Taiwan Default,GBM + monotone constraints,3,pay_amt_6,4.2752633263994554e-05
+Taiwan Default,GBM + monotone constraints,4,limit_bal,0.023644909362471617
+Taiwan Default,GBM + monotone constraints,4,age,-0.00039051315377217993
+Taiwan Default,GBM + monotone constraints,4,education,0.0021027246974710443
+Taiwan Default,GBM + monotone constraints,4,pay_delay_1,0.07035183161412602
+Taiwan Default,GBM + monotone constraints,4,pay_delay_2,0.002649892839992507
+Taiwan Default,GBM + monotone constraints,4,pay_delay_3,0.0023158454397408748
+Taiwan Default,GBM + monotone constraints,4,pay_delay_4,0.002297356653189938
+Taiwan Default,GBM + monotone constraints,4,pay_delay_5,0.002749582378287596
+Taiwan Default,GBM + monotone constraints,4,pay_delay_6,0.005541139299015156
+Taiwan Default,GBM + monotone constraints,4,bill_amt_1,0.016404050943103043
+Taiwan Default,GBM + monotone constraints,4,bill_amt_2,0.00958018961499855
+Taiwan Default,GBM + monotone constraints,4,bill_amt_3,0.010613812722583807
+Taiwan Default,GBM + monotone constraints,4,bill_amt_4,0.00480183768544377
+Taiwan Default,GBM + monotone constraints,4,bill_amt_5,0.002047758034751953
+Taiwan Default,GBM + monotone constraints,4,bill_amt_6,0.0020090315223817066
+Taiwan Default,GBM + monotone constraints,4,pay_amt_1,0.0020200248549255098
+Taiwan Default,GBM + monotone constraints,4,pay_amt_2,0.00200128621990762
+Taiwan Default,GBM + monotone constraints,4,pay_amt_3,0.004731630266243496
+Taiwan Default,GBM + monotone constraints,4,pay_amt_4,-0.0008899602391149545
+Taiwan Default,GBM + monotone constraints,4,pay_amt_5,0.0002870758884736535
+Taiwan Default,GBM + monotone constraints,4,pay_amt_6,-0.0003957599715772586
+Taiwan Default,GBM + monotone constraints,5,limit_bal,0.023873300378154754
+Taiwan Default,GBM + monotone constraints,5,age,0.0008852851571298596
+Taiwan Default,GBM + monotone constraints,5,education,0.0030328247803976063
+Taiwan Default,GBM + monotone constraints,5,pay_delay_1,0.08826511137190751
+Taiwan Default,GBM + monotone constraints,5,pay_delay_2,0.005014165985039787
+Taiwan Default,GBM + monotone constraints,5,pay_delay_3,0.001258223976670636
+Taiwan Default,GBM + monotone constraints,5,pay_delay_4,0.0019154308474697383
+Taiwan Default,GBM + monotone constraints,5,pay_delay_5,0.0018262859039558006
+Taiwan Default,GBM + monotone constraints,5,pay_delay_6,0.0019412733975840608
+Taiwan Default,GBM + monotone constraints,5,bill_amt_1,0.02337778726128244
+Taiwan Default,GBM + monotone constraints,5,bill_amt_2,-0.0019185129864740895
+Taiwan Default,GBM + monotone constraints,5,bill_amt_3,0.008101283829439162
+Taiwan Default,GBM + monotone constraints,5,bill_amt_4,-0.0018220183268726764
+Taiwan Default,GBM + monotone constraints,5,bill_amt_5,0.0005403226762450419
+Taiwan Default,GBM + monotone constraints,5,bill_amt_6,-0.0021717225600721055
+Taiwan Default,GBM + monotone constraints,5,pay_amt_1,0.009731498275187636
+Taiwan Default,GBM + monotone constraints,5,pay_amt_2,0.006230188366110667
+Taiwan Default,GBM + monotone constraints,5,pay_amt_3,0.010998257406024448
+Taiwan Default,GBM + monotone constraints,5,pay_amt_4,0.004155434640871573
+Taiwan Default,GBM + monotone constraints,5,pay_amt_5,-0.0009509584266865397
+Taiwan Default,GBM + monotone constraints,5,pay_amt_6,0.0016219163791979148
+Taiwan Default,GBM + monotone constraints,6,limit_bal,0.011774828996113743
+Taiwan Default,GBM + monotone constraints,6,age,0.002555163186164444
+Taiwan Default,GBM + monotone constraints,6,education,0.003892232538117879
+Taiwan Default,GBM + monotone constraints,6,pay_delay_1,0.09575866331474232
+Taiwan Default,GBM + monotone constraints,6,pay_delay_2,0.002929420818748326
+Taiwan Default,GBM + monotone constraints,6,pay_delay_3,0.003835086816997476
+Taiwan Default,GBM + monotone constraints,6,pay_delay_4,0.0015975039498467385
+Taiwan Default,GBM + monotone constraints,6,pay_delay_5,0.0019570067446003834
+Taiwan Default,GBM + monotone constraints,6,pay_delay_6,0.004231359604439211
+Taiwan Default,GBM + monotone constraints,6,bill_amt_1,0.02474152100362877
+Taiwan Default,GBM + monotone constraints,6,bill_amt_2,0.004509125281688601
+Taiwan Default,GBM + monotone constraints,6,bill_amt_3,0.0027207452551486857
+Taiwan Default,GBM + monotone constraints,6,bill_amt_4,0.001966140691828618
+Taiwan Default,GBM + monotone constraints,6,bill_amt_5,0.006708064525950593
+Taiwan Default,GBM + monotone constraints,6,bill_amt_6,0.0009246365040308883
+Taiwan Default,GBM + monotone constraints,6,pay_amt_1,0.003382605123535609
+Taiwan Default,GBM + monotone constraints,6,pay_amt_2,0.002897100697786814
+Taiwan Default,GBM + monotone constraints,6,pay_amt_3,0.012127071473839771
+Taiwan Default,GBM + monotone constraints,6,pay_amt_4,0.0018078189398720301
+Taiwan Default,GBM + monotone constraints,6,pay_amt_5,0.0011431486261842168
+Taiwan Default,GBM + monotone constraints,6,pay_amt_6,0.003814008477239931
+Taiwan Default,GBM + monotone constraints,7,limit_bal,0.019441284509780665
+Taiwan Default,GBM + monotone constraints,7,age,0.003710910144146632
+Taiwan Default,GBM + monotone constraints,7,education,0.00229540582101447
+Taiwan Default,GBM + monotone constraints,7,pay_delay_1,0.09246261638685986
+Taiwan Default,GBM + monotone constraints,7,pay_delay_2,0.003831451281127792
+Taiwan Default,GBM + monotone constraints,7,pay_delay_3,0.002235379262922573
+Taiwan Default,GBM + monotone constraints,7,pay_delay_4,0.0010038587804457693
+Taiwan Default,GBM + monotone constraints,7,pay_delay_5,0.002477681588878585
+Taiwan Default,GBM + monotone constraints,7,pay_delay_6,0.0015155485866185463
+Taiwan Default,GBM + monotone constraints,7,bill_amt_1,0.021968256199206098
+Taiwan Default,GBM + monotone constraints,7,bill_amt_2,0.008093092895246809
+Taiwan Default,GBM + monotone constraints,7,bill_amt_3,0.006675148468127075
+Taiwan Default,GBM + monotone constraints,7,bill_amt_4,0.007350081231061734
+Taiwan Default,GBM + monotone constraints,7,bill_amt_5,0.005010997548671514
+Taiwan Default,GBM + monotone constraints,7,bill_amt_6,0.00652483806249889
+Taiwan Default,GBM + monotone constraints,7,pay_amt_1,0.004416100196526014
+Taiwan Default,GBM + monotone constraints,7,pay_amt_2,0.0036743085843346326
+Taiwan Default,GBM + monotone constraints,7,pay_amt_3,0.007964987435904458
+Taiwan Default,GBM + monotone constraints,7,pay_amt_4,0.0011993111098422087
+Taiwan Default,GBM + monotone constraints,7,pay_amt_5,-0.0016546345139043888
+Taiwan Default,GBM + monotone constraints,7,pay_amt_6,0.001644142066758299
+Taiwan Default,GBM + monotone constraints,8,limit_bal,0.021714599423076703
+Taiwan Default,GBM + monotone constraints,8,age,0.002198619501820135
+Taiwan Default,GBM + monotone constraints,8,education,0.0058453461224894365
+Taiwan Default,GBM + monotone constraints,8,pay_delay_1,0.07697753730452468
+Taiwan Default,GBM + monotone constraints,8,pay_delay_2,0.002973053560874258
+Taiwan Default,GBM + monotone constraints,8,pay_delay_3,0.004226887673957587
+Taiwan Default,GBM + monotone constraints,8,pay_delay_4,0.003942002258785974
+Taiwan Default,GBM + monotone constraints,8,pay_delay_5,0.001001569165297737
+Taiwan Default,GBM + monotone constraints,8,pay_delay_6,-0.0005291764709295007
+Taiwan Default,GBM + monotone constraints,8,bill_amt_1,0.017807633962594105
+Taiwan Default,GBM + monotone constraints,8,bill_amt_2,0.006597066670919231
+Taiwan Default,GBM + monotone constraints,8,bill_amt_3,0.00883555563287793
+Taiwan Default,GBM + monotone constraints,8,bill_amt_4,0.005839546928287476
+Taiwan Default,GBM + monotone constraints,8,bill_amt_5,0.002564693635819052
+Taiwan Default,GBM + monotone constraints,8,bill_amt_6,0.0012448936886884827
+Taiwan Default,GBM + monotone constraints,8,pay_amt_1,0.002112598121157605
+Taiwan Default,GBM + monotone constraints,8,pay_amt_2,0.0034546283127291355
+Taiwan Default,GBM + monotone constraints,8,pay_amt_3,0.009806920661707222
+Taiwan Default,GBM + monotone constraints,8,pay_amt_4,0.0029445408560479316
+Taiwan Default,GBM + monotone constraints,8,pay_amt_5,-6.934869733203157e-05
+Taiwan Default,GBM + monotone constraints,8,pay_amt_6,0.002003138330595511
+Taiwan Default,GBM + monotone constraints,9,limit_bal,0.01698718308488978
+Taiwan Default,GBM + monotone constraints,9,age,0.0017492067768198154
+Taiwan Default,GBM + monotone constraints,9,education,0.0025302696958810302
+Taiwan Default,GBM + monotone constraints,9,pay_delay_1,0.08143352640086195
+Taiwan Default,GBM + monotone constraints,9,pay_delay_2,0.0037392802622125223
+Taiwan Default,GBM + monotone constraints,9,pay_delay_3,0.0008886344588121542
+Taiwan Default,GBM + monotone constraints,9,pay_delay_4,0.0035479900023945112
+Taiwan Default,GBM + monotone constraints,9,pay_delay_5,0.0019877349736589314
+Taiwan Default,GBM + monotone constraints,9,pay_delay_6,0.001889985183189576
+Taiwan Default,GBM + monotone constraints,9,bill_amt_1,0.012432463781130129
+Taiwan Default,GBM + monotone constraints,9,bill_amt_2,0.004739227879549686
+Taiwan Default,GBM + monotone constraints,9,bill_amt_3,0.005816346384099484
+Taiwan Default,GBM + monotone constraints,9,bill_amt_4,0.005220025892001767
+Taiwan Default,GBM + monotone constraints,9,bill_amt_5,0.002925478178879152
+Taiwan Default,GBM + monotone constraints,9,bill_amt_6,0.003228081597222173
+Taiwan Default,GBM + monotone constraints,9,pay_amt_1,-0.0025510824503114002
+Taiwan Default,GBM + monotone constraints,9,pay_amt_2,0.007398115720785303
+Taiwan Default,GBM + monotone constraints,9,pay_amt_3,0.0033361208393197783
+Taiwan Default,GBM + monotone constraints,9,pay_amt_4,0.0016028159422891337
+Taiwan Default,GBM + monotone constraints,9,pay_amt_5,0.0005334145264606072
+Taiwan Default,GBM + monotone constraints,9,pay_amt_6,0.0013836973928399443
+Taiwan Default,GBM + monotone constraints,10,limit_bal,0.02248590935254265
+Taiwan Default,GBM + monotone constraints,10,age,0.0022612948388433343
+Taiwan Default,GBM + monotone constraints,10,education,0.0029423190536708907
+Taiwan Default,GBM + monotone constraints,10,pay_delay_1,0.08304862341925456
+Taiwan Default,GBM + monotone constraints,10,pay_delay_2,0.0016424841331806512
+Taiwan Default,GBM + monotone constraints,10,pay_delay_3,0.0046294449415194006
+Taiwan Default,GBM + monotone constraints,10,pay_delay_4,0.003088117124767161
+Taiwan Default,GBM + monotone constraints,10,pay_delay_5,0.0023747988746479765
+Taiwan Default,GBM + monotone constraints,10,pay_delay_6,0.0027661265964176542
+Taiwan Default,GBM + monotone constraints,10,bill_amt_1,0.009870814360587676
+Taiwan Default,GBM + monotone constraints,10,bill_amt_2,0.0025934959812922895
+Taiwan Default,GBM + monotone constraints,10,bill_amt_3,0.00517678134848502
+Taiwan Default,GBM + monotone constraints,10,bill_amt_4,0.004105141780313293
+Taiwan Default,GBM + monotone constraints,10,bill_amt_5,-0.0013076709731712304
+Taiwan Default,GBM + monotone constraints,10,bill_amt_6,0.0018060914149157965
+Taiwan Default,GBM + monotone constraints,10,pay_amt_1,0.0038850199368177796
+Taiwan Default,GBM + monotone constraints,10,pay_amt_2,0.0028988645797122237
+Taiwan Default,GBM + monotone constraints,10,pay_amt_3,0.00545151810460609
+Taiwan Default,GBM + monotone constraints,10,pay_amt_4,0.0014491948337142697
+Taiwan Default,GBM + monotone constraints,10,pay_amt_5,-0.002380735278194046
+Taiwan Default,GBM + monotone constraints,10,pay_amt_6,0.0008529424615274506
+Taiwan Default,GBM + monotone constraints,11,limit_bal,0.03224647673915774
+Taiwan Default,GBM + monotone constraints,11,age,0.001913089413216995
+Taiwan Default,GBM + monotone constraints,11,education,0.004799505019123518
+Taiwan Default,GBM + monotone constraints,11,pay_delay_1,0.07820342760637149
+Taiwan Default,GBM + monotone constraints,11,pay_delay_2,0.00457672471115167
+Taiwan Default,GBM + monotone constraints,11,pay_delay_3,0.0025624599615630497
+Taiwan Default,GBM + monotone constraints,11,pay_delay_4,0.004674251898375188
+Taiwan Default,GBM + monotone constraints,11,pay_delay_5,0.0015504633879047287
+Taiwan Default,GBM + monotone constraints,11,pay_delay_6,0.001739680723714924
+Taiwan Default,GBM + monotone constraints,11,bill_amt_1,0.019538270787032148
+Taiwan Default,GBM + monotone constraints,11,bill_amt_2,0.004706355610877695
+Taiwan Default,GBM + monotone constraints,11,bill_amt_3,0.007648466293777134
+Taiwan Default,GBM + monotone constraints,11,bill_amt_4,0.006002421398194439
+Taiwan Default,GBM + monotone constraints,11,bill_amt_5,0.005869628769206862
+Taiwan Default,GBM + monotone constraints,11,bill_amt_6,0.0008449113426793146
+Taiwan Default,GBM + monotone constraints,11,pay_amt_1,0.0067464006144456095
+Taiwan Default,GBM + monotone constraints,11,pay_amt_2,0.009482998895340322
+Taiwan Default,GBM + monotone constraints,11,pay_amt_3,0.007371693378414738
+Taiwan Default,GBM + monotone constraints,11,pay_amt_4,0.004396992563126349
+Taiwan Default,GBM + monotone constraints,11,pay_amt_5,-0.00031641613610415104
+Taiwan Default,GBM + monotone constraints,11,pay_amt_6,0.000902795309161227
+Taiwan Default,GBM + monotone constraints,12,limit_bal,0.021340437216553283
+Taiwan Default,GBM + monotone constraints,12,age,0.004765939940791182
+Taiwan Default,GBM + monotone constraints,12,education,0.0020114382558579593
+Taiwan Default,GBM + monotone constraints,12,pay_delay_1,0.08061696900982614
+Taiwan Default,GBM + monotone constraints,12,pay_delay_2,0.006549784265558152
+Taiwan Default,GBM + monotone constraints,12,pay_delay_3,0.0025844828672209794
+Taiwan Default,GBM + monotone constraints,12,pay_delay_4,0.0037409060846561593
+Taiwan Default,GBM + monotone constraints,12,pay_delay_5,0.00142067822499381
+Taiwan Default,GBM + monotone constraints,12,pay_delay_6,0.0014290438397581335
+Taiwan Default,GBM + monotone constraints,12,bill_amt_1,0.019246573050516542
+Taiwan Default,GBM + monotone constraints,12,bill_amt_2,0.001954109189972334
+Taiwan Default,GBM + monotone constraints,12,bill_amt_3,0.004910615866717076
+Taiwan Default,GBM + monotone constraints,12,bill_amt_4,0.00502109119110609
+Taiwan Default,GBM + monotone constraints,12,bill_amt_5,0.0033893042170571874
+Taiwan Default,GBM + monotone constraints,12,bill_amt_6,0.003396193546863121
+Taiwan Default,GBM + monotone constraints,12,pay_amt_1,0.007222724159108111
+Taiwan Default,GBM + monotone constraints,12,pay_amt_2,0.00869900911753596
+Taiwan Default,GBM + monotone constraints,12,pay_amt_3,0.004897329302091191
+Taiwan Default,GBM + monotone constraints,12,pay_amt_4,-0.0012314677028218979
+Taiwan Default,GBM + monotone constraints,12,pay_amt_5,0.00024284887566139446
+Taiwan Default,GBM + monotone constraints,12,pay_amt_6,0.003571871456916139
+Taiwan Default,GBM + monotone constraints,13,limit_bal,0.014826284348865126
+Taiwan Default,GBM + monotone constraints,13,age,-0.0020207885304659445
+Taiwan Default,GBM + monotone constraints,13,education,0.004635364396654833
+Taiwan Default,GBM + monotone constraints,13,pay_delay_1,0.09353930704898454
+Taiwan Default,GBM + monotone constraints,13,pay_delay_2,0.0019037037037037037
+Taiwan Default,GBM + monotone constraints,13,pay_delay_3,0.0022965352449223855
+Taiwan Default,GBM + monotone constraints,13,pay_delay_4,-0.00012281959378727483
+Taiwan Default,GBM + monotone constraints,13,pay_delay_5,0.0016305854241339308
+Taiwan Default,GBM + monotone constraints,13,pay_delay_6,0.002281481481481588
+Taiwan Default,GBM + monotone constraints,13,bill_amt_1,0.01735292712066916
+Taiwan Default,GBM + monotone constraints,13,bill_amt_2,0.005397371565113551
+Taiwan Default,GBM + monotone constraints,13,bill_amt_3,0.006844683393070539
+Taiwan Default,GBM + monotone constraints,13,bill_amt_4,0.004104181600955936
+Taiwan Default,GBM + monotone constraints,13,bill_amt_5,0.004551015531660781
+Taiwan Default,GBM + monotone constraints,13,bill_amt_6,0.0040071684587815
+Taiwan Default,GBM + monotone constraints,13,pay_amt_1,0.005537873357228255
+Taiwan Default,GBM + monotone constraints,13,pay_amt_2,0.006919713261648826
+Taiwan Default,GBM + monotone constraints,13,pay_amt_3,0.0034750298685782832
+Taiwan Default,GBM + monotone constraints,13,pay_amt_4,-0.004360812425328449
+Taiwan Default,GBM + monotone constraints,13,pay_amt_5,0.00019569892473129494
+Taiwan Default,GBM + monotone constraints,13,pay_amt_6,0.0021756272401434553
+Taiwan Default,GBM + monotone constraints,14,limit_bal,0.009579791874136231
+Taiwan Default,GBM + monotone constraints,14,age,0.00260495070906371
+Taiwan Default,GBM + monotone constraints,14,education,0.002947999413294896
+Taiwan Default,GBM + monotone constraints,14,pay_delay_1,0.0793735573619891
+Taiwan Default,GBM + monotone constraints,14,pay_delay_2,-0.0002933524784425323
+Taiwan Default,GBM + monotone constraints,14,pay_delay_3,0.0014284046257053336
+Taiwan Default,GBM + monotone constraints,14,pay_delay_4,0.0019123397176095864
+Taiwan Default,GBM + monotone constraints,14,pay_delay_5,0.002521962836872819
+Taiwan Default,GBM + monotone constraints,14,pay_delay_6,0.0006798250692851004
+Taiwan Default,GBM + monotone constraints,14,bill_amt_1,0.016416882821124374
+Taiwan Default,GBM + monotone constraints,14,bill_amt_2,0.0019745806217527453
+Taiwan Default,GBM + monotone constraints,14,bill_amt_3,0.002902645576167336
+Taiwan Default,GBM + monotone constraints,14,bill_amt_4,0.004302342187946191
+Taiwan Default,GBM + monotone constraints,14,bill_amt_5,0.00037827030114941557
+Taiwan Default,GBM + monotone constraints,14,bill_amt_6,0.001386186958166317
+Taiwan Default,GBM + monotone constraints,14,pay_amt_1,0.0015803882288457638
+Taiwan Default,GBM + monotone constraints,14,pay_amt_2,0.0041308178358306176
+Taiwan Default,GBM + monotone constraints,14,pay_amt_3,0.010004863475300385
+Taiwan Default,GBM + monotone constraints,14,pay_amt_4,0.0028929958235870044
+Taiwan Default,GBM + monotone constraints,14,pay_amt_5,0.0014551826891157453
+Taiwan Default,GBM + monotone constraints,14,pay_amt_6,0.002946793194222419
+Taiwan Default,GBM + both (knowledge-augmented),0,limit_bal,0.016974287848074126
+Taiwan Default,GBM + both (knowledge-augmented),0,age,5.263345069165629e-05
+Taiwan Default,GBM + both (knowledge-augmented),0,education,0.002880377443484128
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_1,0.09950662067166911
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_2,0.005815047950970246
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_3,0.006339011581729929
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_4,0.008034662209419433
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_5,0.00506727361096293
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_delay_6,0.002518818829498374
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_1,0.014277890394395162
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_2,0.007322688099387002
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_3,0.0034633758905603016
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_4,0.007682824187678516
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_5,0.001242102018800928
+Taiwan Default,GBM + both (knowledge-augmented),0,bill_amt_6,0.003155636165344792
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_1,0.010419763623647013
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_2,0.005350593311758282
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_3,0.009969534241378844
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_4,0.003202816600874699
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_5,0.0018077930699289164
+Taiwan Default,GBM + both (knowledge-augmented),0,pay_amt_6,0.0026504024562275332
+Taiwan Default,GBM + both (knowledge-augmented),1,limit_bal,0.020193068539482995
+Taiwan Default,GBM + both (knowledge-augmented),1,age,0.0037773950138688672
+Taiwan Default,GBM + both (knowledge-augmented),1,education,0.0018610506414829715
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_1,0.07828380378451501
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_2,0.006349689673403362
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_3,0.006522640384218126
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_4,0.006318129324714576
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_5,0.0014449590043694356
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_delay_6,0.00439522039980141
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_1,0.022788339132862972
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_2,0.0012033329748077175
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_3,0.0033080295081685898
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_4,0.001562868467070914
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_5,0.0059280434149205545
+Taiwan Default,GBM + both (knowledge-augmented),1,bill_amt_6,-0.0009925098455663879
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_1,0.00953980971887051
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_2,0.006437048718574016
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_3,0.007625232726011233
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_4,0.0050539479976347374
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_5,0.0032646024683726793
+Taiwan Default,GBM + both (knowledge-augmented),1,pay_amt_6,0.005136509869804702
+Taiwan Default,GBM + both (knowledge-augmented),2,limit_bal,0.022714553266497812
+Taiwan Default,GBM + both (knowledge-augmented),2,age,0.0030171495721788752
+Taiwan Default,GBM + both (knowledge-augmented),2,education,0.0010475805760592483
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_1,0.0685233740956998
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_2,0.007609219884200639
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_3,0.010357802994136614
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_4,0.00883649761913515
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_5,0.007730650116901068
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_delay_6,0.0069298471105236166
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_1,0.011880577283243357
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_2,0.00033858470125965506
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_3,0.005761815577834099
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_4,0.0016473871690353044
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_5,-0.0007657938868690373
+Taiwan Default,GBM + both (knowledge-augmented),2,bill_amt_6,0.0024332562153428126
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_1,0.0075590319856046655
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_2,0.011384329134687269
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_3,0.007863342024408526
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_4,0.002315743086923024
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_5,0.0009095026501658721
+Taiwan Default,GBM + both (knowledge-augmented),2,pay_amt_6,0.002503029635342102
+Taiwan Default,GBM + both (knowledge-augmented),3,limit_bal,0.013729809323255552
+Taiwan Default,GBM + both (knowledge-augmented),3,age,-0.0005617497161425344
+Taiwan Default,GBM + both (knowledge-augmented),3,education,0.0030297200398492485
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_1,0.08425823187039776
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_2,0.0068187964437762165
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_3,0.002492329382194495
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_4,0.0061295345133058525
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_5,0.006215039779833731
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_delay_6,0.006494423266977208
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_1,0.012413425917640386
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_2,0.0037378726687385213
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_3,0.0027175263922940562
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_4,0.0014356930798399281
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_5,0.0001583338801692443
+Taiwan Default,GBM + both (knowledge-augmented),3,bill_amt_6,-0.003216389967647356
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_1,0.012184997603863934
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_2,0.006146188155333039
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_3,0.006192420654095347
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_4,0.004623498438037481
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_5,0.000995241532492826
+Taiwan Default,GBM + both (knowledge-augmented),3,pay_amt_6,0.0030657615039381136
+Taiwan Default,GBM + both (knowledge-augmented),4,limit_bal,0.023026784255349025
+Taiwan Default,GBM + both (knowledge-augmented),4,age,-0.00027133543505871344
+Taiwan Default,GBM + both (knowledge-augmented),4,education,0.0011650434011770683
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_1,0.06005007962670624
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_2,0.0060545778985043874
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_3,0.006095802895543752
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_4,0.0059591357841468255
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_5,0.005328018556745214
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_delay_6,0.008232506984513758
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_1,0.01581990522747941
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_2,0.003854911995874325
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_3,0.006817115419497921
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_4,0.00381393684730195
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_5,0.00258892981406759
+Taiwan Default,GBM + both (knowledge-augmented),4,bill_amt_6,0.0024347733099873148
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_1,0.0019673068284083994
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_2,0.0027753167703786033
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_3,0.004993221611092687
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_4,0.00020112801585825402
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_5,0.0017976597193800254
+Taiwan Default,GBM + both (knowledge-augmented),4,pay_amt_6,0.0016862273031404602
+Taiwan Default,GBM + both (knowledge-augmented),5,limit_bal,0.023395568832461966
+Taiwan Default,GBM + both (knowledge-augmented),5,age,-0.0013660988418270348
+Taiwan Default,GBM + both (knowledge-augmented),5,education,0.0027784297687209656
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_1,0.07988003366644136
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_2,0.010107519233732765
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_3,0.005282312078428479
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_4,0.004347475609611499
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_5,0.005661178088362455
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_delay_6,0.004574605545479282
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_1,0.018909159880033683
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_2,-0.0021240679493107484
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_3,0.007327904026933063
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_4,-0.0010732956364024975
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_5,0.0013485543582630137
+Taiwan Default,GBM + both (knowledge-augmented),5,bill_amt_6,0.00013182071434492126
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_1,0.006391882120037422
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_2,0.0058819066586057
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_3,0.010425453726424486
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_4,0.004881634007847542
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_5,0.0010341761798072409
+Taiwan Default,GBM + both (knowledge-augmented),5,pay_amt_6,0.0028936543499650247
+Taiwan Default,GBM + both (knowledge-augmented),6,limit_bal,0.012018400922200781
+Taiwan Default,GBM + both (knowledge-augmented),6,age,0.0027109086965950344
+Taiwan Default,GBM + both (knowledge-augmented),6,education,0.003463873833489598
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_1,0.08619752840072081
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_2,0.009094835197829498
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_3,0.006022550076280053
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_4,0.008081435463041927
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_5,0.0037498366428668404
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_delay_6,0.011021863859219142
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_1,0.02234210332789499
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_2,0.002782575051770745
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_3,0.004841226234757394
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_4,0.004590393991642627
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_5,0.0032699531077202324
+Taiwan Default,GBM + both (knowledge-augmented),6,bill_amt_6,0.0032748713869968546
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_1,0.008107432082076205
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_2,0.005804740565452142
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_3,0.009979891263871296
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_4,0.006599393974311567
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_5,0.004337922322102246
+Taiwan Default,GBM + both (knowledge-augmented),6,pay_amt_6,0.004553858202729614
+Taiwan Default,GBM + both (knowledge-augmented),7,limit_bal,0.02201827833094938
+Taiwan Default,GBM + both (knowledge-augmented),7,age,0.003263883093642006
+Taiwan Default,GBM + both (knowledge-augmented),7,education,0.0012839827182075843
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_1,0.0860026850904279
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_2,0.0079296059280863
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_3,0.005222066543587885
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_4,0.0033524588683871612
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_5,0.005929940710353428
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_delay_6,0.0042894587995762805
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_1,0.021873824174891143
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_2,0.009936347447382884
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_3,0.007623860898456162
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_4,0.00613173731011718
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_5,0.009061082147076904
+Taiwan Default,GBM + both (knowledge-augmented),7,bill_amt_6,0.0088012110724112
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_1,0.0083063579837519
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_2,0.007909841085787739
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_3,0.009572771953249645
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_4,0.001964527720313377
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_5,0.0018042128883365056
+Taiwan Default,GBM + both (knowledge-augmented),7,pay_amt_6,0.003001571914988843
+Taiwan Default,GBM + both (knowledge-augmented),8,limit_bal,0.024454718683505572
+Taiwan Default,GBM + both (knowledge-augmented),8,age,1.908901424825989e-05
+Taiwan Default,GBM + both (knowledge-augmented),8,education,0.005861535539636753
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_1,0.07414873869942444
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_2,0.006513944887357866
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_3,0.008914086387696455
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_4,0.0067410799936015176
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_5,0.003159111041520779
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_delay_6,0.001106679560208453
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_1,0.01694766178906104
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_2,0.008761615906803097
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_3,0.005900438467408287
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_4,0.00633078700381251
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_5,0.0057269459075328655
+Taiwan Default,GBM + both (knowledge-augmented),8,bill_amt_6,0.002163099437333208
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_1,0.004293578407280248
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_2,0.009878202423773278
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_3,0.009169250932582917
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_4,0.003286451680872308
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_5,0.0009034661300479178
+Taiwan Default,GBM + both (knowledge-augmented),8,pay_amt_6,0.0014758949244002562
+Taiwan Default,GBM + both (knowledge-augmented),9,limit_bal,0.016089662281489597
+Taiwan Default,GBM + both (knowledge-augmented),9,age,0.0016622141403257462
+Taiwan Default,GBM + both (knowledge-augmented),9,education,0.002277476577466538
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_1,0.07275390625000011
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_2,0.00936573949353455
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_3,0.002961257408405175
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_4,0.008086105872844862
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_5,0.004463283494971308
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_delay_6,0.0035636580310106267
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_1,0.011922200520833407
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_2,0.002931090607040295
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_3,0.0037453603927204058
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_4,0.00387608319863512
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_5,0.0010717399275623392
+Taiwan Default,GBM + both (knowledge-augmented),9,bill_amt_6,0.0038639229376198716
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_1,0.00222813397988512
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_2,0.009652207180914862
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_3,0.005373899964080516
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_4,0.0021640587583812896
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_5,0.001102140580100645
+Taiwan Default,GBM + both (knowledge-augmented),9,pay_amt_6,0.001803694100215562
+Taiwan Default,GBM + both (knowledge-augmented),10,limit_bal,0.02236314452720578
+Taiwan Default,GBM + both (knowledge-augmented),10,age,0.002759002912162097
+Taiwan Default,GBM + both (knowledge-augmented),10,education,0.0013741586928893712
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_1,0.07791030996574932
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_2,0.0034518999340821623
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_3,0.006836362323878779
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_4,0.00800892075233702
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_5,0.004515465993431
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_delay_6,0.003790749848502991
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_1,0.009401363568148876
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_2,0.0002407805278364187
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_3,0.003125160282895778
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_4,0.002872506947966665
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_5,-0.003787425462517128
+Taiwan Default,GBM + both (knowledge-augmented),10,bill_amt_6,0.002625077648158336
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_1,0.005302633103665706
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_2,0.0050442808213322365
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_3,0.005027658891402738
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_4,0.003422455372492713
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_5,9.593228130759061e-05
+Taiwan Default,GBM + both (knowledge-augmented),10,pay_amt_6,0.003325573266617643
+Taiwan Default,GBM + both (knowledge-augmented),11,limit_bal,0.031609266687971815
+Taiwan Default,GBM + both (knowledge-augmented),11,age,0.0008140236798928058
+Taiwan Default,GBM + both (knowledge-augmented),11,education,0.0037894541250108604
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_1,0.07148742823482597
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_2,0.012901071437083708
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_3,0.0071695859156148956
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_4,0.012537715781941775
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_5,0.004276117221355569
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_delay_6,0.0036797664406273225
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_1,0.016574027999301372
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_2,0.005076277934486025
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_3,0.006467438809594328
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_4,0.003240042863320395
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_5,0.004641418556043053
+Taiwan Default,GBM + both (knowledge-augmented),11,bill_amt_6,0.0015254127637550259
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_1,0.0072522772963031406
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_2,0.009532370513810173
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_3,0.00703168587782003
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_4,0.005892490503867716
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_5,-0.0012661509643031588
+Taiwan Default,GBM + both (knowledge-augmented),11,pay_amt_6,0.0037500541142123276
+Taiwan Default,GBM + both (knowledge-augmented),12,limit_bal,0.01941880629566639
+Taiwan Default,GBM + both (knowledge-augmented),12,age,0.0037728922587553595
+Taiwan Default,GBM + both (knowledge-augmented),12,education,0.0023851843978332323
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_1,0.07097682823129248
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_2,0.011958646305744539
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_3,0.0061108355379188755
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_4,0.006647465120307376
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_5,0.004355040627362102
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_delay_6,0.0044357442050894464
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_1,0.014035533194759439
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_2,0.004008359709624616
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_3,0.0042598202475434555
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_4,0.003632153092718545
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_5,0.0034057893990929733
+Taiwan Default,GBM + both (knowledge-augmented),12,bill_amt_6,0.0026125322814311755
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_1,0.008668745275888123
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_2,0.009235392652431377
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_3,0.007460159989921851
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_4,0.001779169422398678
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_5,0.001978467891786425
+Taiwan Default,GBM + both (knowledge-augmented),12,pay_amt_6,0.006062856276769983
+Taiwan Default,GBM + both (knowledge-augmented),13,limit_bal,0.017875268817204398
+Taiwan Default,GBM + both (knowledge-augmented),13,age,-0.0007089605734766172
+Taiwan Default,GBM + both (knowledge-augmented),13,education,0.0038637992831542047
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_1,0.08505041816009562
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_2,0.002005256869773079
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_3,0.003920430107526962
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_4,0.0026590203106332533
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_5,0.003596893667861497
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_delay_6,0.0067299880525687845
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_1,0.013923058542413491
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_2,0.007072401433691848
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_3,0.007579928315412247
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_4,0.005704420549581905
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_5,0.00261959378733582
+Taiwan Default,GBM + both (knowledge-augmented),13,bill_amt_6,0.00418996415770619
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_1,0.005135244922341742
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_2,0.007272401433691826
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_3,0.006378016726403886
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_4,-0.003672640382317738
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_5,0.0002389486260454913
+Taiwan Default,GBM + both (knowledge-augmented),13,pay_amt_6,0.0036494623655914196
+Taiwan Default,GBM + both (knowledge-augmented),14,limit_bal,0.00876535275635526
+Taiwan Default,GBM + both (knowledge-augmented),14,age,0.003160052726247975
+Taiwan Default,GBM + both (knowledge-augmented),14,education,0.003786321668712289
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_1,0.07001570979720073
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_2,0.0024770914873742575
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_3,0.0029885283741324007
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_4,0.006566415387109374
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_5,0.005029933532504138
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_delay_6,0.0014493928375675462
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_1,0.02052478249457675
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_2,-0.0003010722805067978
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_3,0.0034372418691184237
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_4,0.0034164949010706547
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_5,0.002354298385789303
+Taiwan Default,GBM + both (knowledge-augmented),14,bill_amt_6,-0.00013871519334252014
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_1,0.004905210480403229
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_2,0.004980237306715374
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_3,0.008585867358360902
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_4,0.00684698194338292
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_5,0.0019685495263900656
+Taiwan Default,GBM + both (knowledge-augmented),14,pay_amt_6,0.002991905787535535

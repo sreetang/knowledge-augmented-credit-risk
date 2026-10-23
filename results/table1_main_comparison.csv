@@ -1,0 +1,7 @@
+Model,German Credit: AUC,German Credit: Approved default rate (%),German Credit: Rule violations (%),Taiwan Default: AUC,Taiwan Default: Approved default rate (%),Taiwan Default: Rule violations (%)
+Logistic regression,0.777 ± 0.033,18.52 ± 2.13,0.00 ± 0.00,0.759 ± 0.005,12.26 ± 0.29,1.03 ± 2.71
+Random forest,0.788 ± 0.029,17.10 ± 1.19,18.81 ± 3.06,0.774 ± 0.006,11.89 ± 0.37,30.99 ± 0.93
+GBM (data-only),0.775 ± 0.038,18.33 ± 2.87,24.48 ± 2.64,0.781 ± 0.006,11.62 ± 0.34,14.55 ± 1.13
+GBM + knowledge features,0.770 ± 0.042,18.19 ± 3.02,27.95 ± 2.95,0.783 ± 0.005,11.61 ± 0.35,16.87 ± 1.20
+GBM + monotone constraints,0.763 ± 0.044,19.05 ± 2.61,0.00 ± 0.00,0.781 ± 0.005,11.64 ± 0.36,0.00 ± 0.00
+GBM + both (knowledge-augmented),0.763 ± 0.041,18.95 ± 2.29,0.00 ± 0.00,0.782 ± 0.006,11.62 ± 0.33,0.00 ± 0.00
